@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 巨大な円形劇場の遺跡
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ItalicaRuins_JA-JP9815947599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[古代ローマの都市イタリカ, スペイン (© Moses Palermo/Amazing Aerial Agency)](https://www.bing.com/search?q=%E5%8F%A4%E4%BB%A3%E3%83%AD%E3%83%BC%E3%83%9E%E3%81%AE%E9%83%BD%E5%B8%82%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220240701_1500%22)
+## 今日は世界ミーアキャットの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MeerkatManor_JA-JP0029401551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[群れで起立するミーアキャット (© anetapics/Shutterstock)](https://www.bing.com/search?q=%E3%83%9F%E3%83%BC%E3%82%A2%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%81%AE%E7%AB%8B%E3%81%A1%E5%A7%BF&form=hpcapt&filters=HpDate%3a%2220240702_1500%22)
 <!-- Bing Wallpaper End -->
