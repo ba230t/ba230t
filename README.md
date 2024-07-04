@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界ミーアキャットの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MeerkatManor_JA-JP0029401551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[群れで起立するミーアキャット (© anetapics/Shutterstock)](https://www.bing.com/search?q=%E3%83%9F%E3%83%BC%E3%82%A2%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%81%AE%E7%AB%8B%E3%81%A1%E5%A7%BF&form=hpcapt&filters=HpDate%3a%2220240702_1500%22)
+## 緑豊かな棚田
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YenBaiTerraces_JA-JP0209668675_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ムーカンチャイ県, ベトナム (© Kiatanan Sugsompian/Getty Images)](https://www.bing.com/search?q=%E3%83%A0%E3%83%BC%E3%82%AB%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E3%81%AE%E6%A3%9A%E7%94%B0&form=hpcapt&filters=HpDate%3a%2220240703_1500%22)
 <!-- Bing Wallpaper End -->
