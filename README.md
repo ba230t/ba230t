@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 緑豊かな棚田
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YenBaiTerraces_JA-JP0209668675_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ムーカンチャイ県, ベトナム (© Kiatanan Sugsompian/Getty Images)](https://www.bing.com/search?q=%E3%83%A0%E3%83%BC%E3%82%AB%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E3%81%AE%E6%A3%9A%E7%94%B0&form=hpcapt&filters=HpDate%3a%2220240703_1500%22)
+## 緑の熱帯雨林と紺碧の海
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NoahBeach_JA-JP0901623378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ノア・ビーチ, オーストラリア クイーンズランド州 (© bjeayes/Getty Images)](https://www.bing.com/search?q=Noah+Beach&form=hpcapt&filters=HpDate%3a%2220240704_1500%22)
 <!-- Bing Wallpaper End -->
