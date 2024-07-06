@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 緑の熱帯雨林と紺碧の海
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NoahBeach_JA-JP0901623378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ノア・ビーチ, オーストラリア クイーンズランド州 (© bjeayes/Getty Images)](https://www.bing.com/search?q=Noah+Beach&form=hpcapt&filters=HpDate%3a%2220240704_1500%22)
+## 今日はコンウィ川祭りの開催日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ConwyRiver_JA-JP1379612776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[コンウィ城, イギリス (© David Chapman/Alamy)](https://www.bing.com/search?q=%E3%82%B3%E3%83%B3%E3%82%A6%E3%82%A3%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220240705_1500%22)
 <!-- Bing Wallpaper End -->
