@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はコンウィ川祭りの開催日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ConwyRiver_JA-JP1379612776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[コンウィ城, イギリス (© David Chapman/Alamy)](https://www.bing.com/search?q=%E3%82%B3%E3%83%B3%E3%82%A6%E3%82%A3%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220240705_1500%22)
+## 今日は七夕
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Tanabata2024_JA-JP1586960009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[越中おわら節の踊り, 東京 (© Keith Tsuji/特派員/Getty Images)](https://www.bing.com/search?q=%E8%B6%8A%E4%B8%AD%E3%81%8A%E3%82%8F%E3%82%89%E7%AF%80%E3%81%AE%E8%B8%8A%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220240706_1500%22)
 <!-- Bing Wallpaper End -->
