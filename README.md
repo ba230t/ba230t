@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は七夕
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Tanabata2024_JA-JP1586960009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[越中おわら節の踊り, 東京 (© Keith Tsuji/特派員/Getty Images)](https://www.bing.com/search?q=%E8%B6%8A%E4%B8%AD%E3%81%8A%E3%82%8F%E3%82%89%E7%AF%80%E3%81%AE%E8%B8%8A%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220240706_1500%22)
+## 今日は米国のブルーベリーの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NorwayBlueberries_JA-JP1900215964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[野生のブルーベリー (© Baac3nes/Getty Images)](https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%83%96%E3%83%AB%E3%83%BC%E3%83%99%E3%83%AA%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220240707_1500%22)
 <!-- Bing Wallpaper End -->
