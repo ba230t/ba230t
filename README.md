@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は米国のブルーベリーの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NorwayBlueberries_JA-JP1900215964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[野生のブルーベリー (© Baac3nes/Getty Images)](https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%83%96%E3%83%AB%E3%83%BC%E3%83%99%E3%83%AA%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220240707_1500%22)
+## 今日はアルゼンチンの独立記念日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TalampayaNP_JA-JP2093558410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[タランパヤ国立公園, アルゼンチン (© Gonzalo Azumendi/Getty Images)](https://www.bing.com/search?q=%E3%82%BF%E3%83%A9%E3%83%B3%E3%83%91%E3%83%A4%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240708_1500%22)
 <!-- Bing Wallpaper End -->
