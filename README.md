@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はアルゼンチンの独立記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TalampayaNP_JA-JP2093558410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[タランパヤ国立公園, アルゼンチン (© Gonzalo Azumendi/Getty Images)](https://www.bing.com/search?q=%E3%82%BF%E3%83%A9%E3%83%B3%E3%83%91%E3%83%A4%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240708_1500%22)
+## 今日は四万六千日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Lanternplant2024_JA-JP2260534010_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[浅草寺のほおずき市, 東京 (© c11yg/Getty Images)](https://www.bing.com/search?q=%E6%B5%85%E8%8D%89%E5%AF%BA%E3%81%AE%E3%81%BB%E3%81%8A%E3%81%9A%E3%81%8D%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220240709_1500%22)
 <!-- Bing Wallpaper End -->
