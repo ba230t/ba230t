@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は四万六千日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Lanternplant2024_JA-JP2260534010_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[浅草寺のほおずき市, 東京 (© c11yg/Getty Images)](https://www.bing.com/search?q=%E6%B5%85%E8%8D%89%E5%AF%BA%E3%81%AE%E3%81%BB%E3%81%8A%E3%81%9A%E3%81%8D%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220240709_1500%22)
+## 今日は世界人口デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GangiSicily_JA-JP2426936283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シチリア島のガンジー, イタリア (© Andrea Caruso/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%82%B7%E3%83%81%E3%83%AA%E3%82%A2%E5%B3%B6%E3%81%AE%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220240710_1500%22)
 <!-- Bing Wallpaper End -->
