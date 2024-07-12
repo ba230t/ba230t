@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界人口デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GangiSicily_JA-JP2426936283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[シチリア島のガンジー, イタリア (© Andrea Caruso/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%82%B7%E3%83%81%E3%83%AA%E3%82%A2%E5%B3%B6%E3%81%AE%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220240710_1500%22)
+## レーニア山の麓に咲く野花
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RainierWildflowers_JA-JP5257571908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マウントレーニア国立公園, 米国 ワシントン州 (© RomanKhomlyak/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%82%A2%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240711_1500%22)
 <!-- Bing Wallpaper End -->
