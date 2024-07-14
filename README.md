@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際ロックの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CappadociaRocks_JA-JP5563518724_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カッパドキア, トルコ (© Storm Is Me/Shutterstock)](https://www.bing.com/search?q=%E3%82%AB%E3%83%83%E3%83%91%E3%83%89%E3%82%AD%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220240712_1500%22)
+## ベルリン大聖堂と旧博物館
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MuseumIsland_JA-JP9009131694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ベルリンの「博物館島」, ドイツ (© Rudy Balasko/Shutterstock)](https://www.bing.com/search?q=%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E3%80%8C%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%B3%B6%E3%80%8D&form=hpcapt&filters=HpDate%3a%2220240713_1500%22)
 <!-- Bing Wallpaper End -->
