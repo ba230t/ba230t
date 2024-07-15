@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ベルリン大聖堂と旧博物館
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MuseumIsland_JA-JP9009131694_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ベルリンの「博物館島」, ドイツ (© Rudy Balasko/Shutterstock)](https://www.bing.com/search?q=%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E3%80%8C%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%B3%B6%E3%80%8D&form=hpcapt&filters=HpDate%3a%2220240713_1500%22)
+## 今日は「海の日」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TateishiPark_JA-JP2045138918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[立石公園, 神奈川県 (© blew_s/Shutterstock)](https://www.bing.com/search?q=%E7%AB%8B%E7%9F%B3%E5%85%AC%E5%9C%92+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220240714_1500%22)
 <!-- Bing Wallpaper End -->
