@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「海の日」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TateishiPark_JA-JP2045138918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[立石公園, 神奈川県 (© blew_s/Shutterstock)](https://www.bing.com/search?q=%E7%AB%8B%E7%9F%B3%E5%85%AC%E5%9C%92+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220240714_1500%22)
+## 英国考古学フェスティバルが開催中
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AncientOrkney_JA-JP2155595314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スカラ・ブレイ, スコットランド (© Paul Williams - FunkyStock/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BB%E3%83%96%E3%83%AC%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220240715_1500%22)
 <!-- Bing Wallpaper End -->
