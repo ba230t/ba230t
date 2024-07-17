@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 英国考古学フェスティバルが開催中
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AncientOrkney_JA-JP2155595314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[スカラ・ブレイ, スコットランド (© Paul Williams - FunkyStock/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BB%E3%83%96%E3%83%AC%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220240715_1500%22)
+## 今日は祇園祭、前祭の山鉾巡行
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GionFestival2024_JA-JP2391295161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[提灯で飾られた山鉾, 京都府 京都市 (© Cameron Hilker/Alamy Stock Photo)](https://www.bing.com/search?q=%E7%A5%87%E5%9C%92%E7%A5%AD%E3%81%AE%E5%B1%B1%E9%89%BE%E5%B7%A1%E8%A1%8C&form=hpcapt&filters=HpDate%3a%2220240716_1500%22)
 <!-- Bing Wallpaper End -->
