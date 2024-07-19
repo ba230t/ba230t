@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今週は米国のサンゴ礁啓発週間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MayotteCoral_JA-JP2527980968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[インド洋のサンゴ礁, フランス  (© Gabriel Barathieu/Minden Pictures)](https://www.bing.com/search?q=%E3%82%A4%E3%83%B3%E3%83%89%E6%B4%8B%E3%81%AE%E3%82%B5%E3%83%B3%E3%82%B4%E7%A4%81&form=hpcapt&filters=HpDate%3a%2220240717_1500%22)
+## ネコ科の大型動物ジャガー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YoungJaguar_JA-JP3725468269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[大湿原パンタナル, ブラジル (© Tambako the Jaguar/Getty Images)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A3%E3%82%AC%E3%83%BC+%E5%8B%95%E7%89%A9&form=hpcapt&filters=HpDate%3a%2220240718_1500%22)
 <!-- Bing Wallpaper End -->
