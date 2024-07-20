@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ネコ科の大型動物ジャガー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YoungJaguar_JA-JP3725468269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[大湿原パンタナル, ブラジル (© Tambako the Jaguar/Getty Images)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A3%E3%82%AC%E3%83%BC+%E5%8B%95%E7%89%A9&form=hpcapt&filters=HpDate%3a%2220240718_1500%22)
+## 今日は国際月の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MineralMoon_JA-JP2878137098_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[観測機器で撮影された月 (© Victor Blum/Getty Images)](https://www.bing.com/search?q=%E6%9C%88%E9%9D%A2%E7%9D%80%E9%99%B8%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220240719_1500%22)
 <!-- Bing Wallpaper End -->
