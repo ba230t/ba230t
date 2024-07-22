@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 青い海に点在する伝統的な木造船
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ZanzibarBoats_JA-JP2984048559_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ザンジバル諸島のケンドワ村, タンザニア (© Lubos Paukeje/Alamy)](https://www.bing.com/search?q=%E3%82%B6%E3%83%B3%E3%82%B8%E3%83%90%E3%83%AB%E8%AB%B8%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220240720_1500%22)
+## 中世のままの街並み
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MedievalRothenburg_JA-JP3111613598_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ローテンブルク・オプ・デア・タウバー, ドイツ (© kanuman/Getty Images)](https://www.bing.com/search?q=%E3%83%AD%E3%83%BC%E3%83%86%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%97%E3%83%BB%E3%83%87%E3%82%A2%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%90%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220240721_1500%22)
 <!-- Bing Wallpaper End -->
