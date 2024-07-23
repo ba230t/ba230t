@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 中世のままの街並み
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MedievalRothenburg_JA-JP3111613598_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ローテンブルク・オプ・デア・タウバー, ドイツ (© kanuman/Getty Images)](https://www.bing.com/search?q=%E3%83%AD%E3%83%BC%E3%83%86%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%97%E3%83%BB%E3%83%87%E3%82%A2%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%90%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220240721_1500%22)
+## 中世の海上要塞
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MethoniCastle_JA-JP3234736349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[メトーニ城, ギリシャ (© Andrew Mayovskyy/Shutterstock)](https://www.bing.com/search?q=%E3%83%A1%E3%83%88%E3%83%BC%E3%83%8B%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220240722_1500%22)
 <!-- Bing Wallpaper End -->
