@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 「縁結び風鈴」開催中
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WindBell2024_JA-JP3427351394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[川越氷川神社, 埼玉県 川越市 (© Joshua Hawley/Shutterstock)](https://www.bing.com/search?q=%E5%B7%9D%E8%B6%8A%E6%B0%B7%E5%B7%9D%E7%A5%9E%E7%A4%BE%E3%81%AE%E7%B8%81%E7%B5%90%E3%81%B3%E9%A2%A8%E9%88%B4&form=hpcapt&filters=HpDate%3a%2220240723_1500%22)
+## 鬱蒼とした森林
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SmokyMountainTrail_JA-JP3526148027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グレート・スモーキー山脈国立公園, 米国 (© putmanphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E5%B1%B1%E8%84%88%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240724_1500%22)
 <!-- Bing Wallpaper End -->
