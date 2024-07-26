@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 鬱蒼とした森林
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SmokyMountainTrail_JA-JP3526148027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グレート・スモーキー山脈国立公園, 米国 (© putmanphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E5%B1%B1%E8%84%88%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240724_1500%22)
+## 今日はパリ夏季五輪の開幕日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PontNeuf_JA-JP6539297380_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[セーヌ川に架かるポンヌフ橋, フランス パリ市 (© f11photo/Getty Images)](https://www.bing.com/search?q=%E3%82%BB%E3%83%BC%E3%83%8C%E5%B7%9D%E3%81%AB%E6%9E%B6%E3%81%8B%E3%82%8B%E3%83%9D%E3%83%B3%E3%83%8C%E3%83%95%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220240725_1500%22)
 <!-- Bing Wallpaper End -->
