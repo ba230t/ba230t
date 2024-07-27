@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はパリ夏季五輪の開幕日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PontNeuf_JA-JP6539297380_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[セーヌ川に架かるポンヌフ橋, フランス パリ市 (© f11photo/Getty Images)](https://www.bing.com/search?q=%E3%82%BB%E3%83%BC%E3%83%8C%E5%B7%9D%E3%81%AB%E6%9E%B6%E3%81%8B%E3%82%8B%E3%83%9D%E3%83%B3%E3%83%8C%E3%83%95%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220240725_1500%22)
+## なだらかな丘陵地にあるブドウ畑
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RhinelandVineyards_JA-JP6772337865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[プファルツ地方, ドイツ ラインラント＝プファルツ州 (© Jorg Greuel/Getty Images)](https://www.bing.com/search?q=%E3%83%97%E3%83%95%E3%82%A1%E3%83%AB%E3%83%84%E5%9C%B0%E6%96%B9&form=hpcapt&filters=HpDate%3a%2220240726_1500%22)
 <!-- Bing Wallpaper End -->
