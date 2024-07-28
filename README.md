@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## なだらかな丘陵地にあるブドウ畑
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RhinelandVineyards_JA-JP6772337865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[プファルツ地方, ドイツ ラインラント＝プファルツ州 (© Jorg Greuel/Getty Images)](https://www.bing.com/search?q=%E3%83%97%E3%83%95%E3%82%A1%E3%83%AB%E3%83%84%E5%9C%B0%E6%96%B9&form=hpcapt&filters=HpDate%3a%2220240726_1500%22)
+## 砂浜に並ぶカラフルな小屋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BeachHutsSweden_JA-JP6949327574_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カノールス・ハヴスバッド, スウェーデン スコーネ県 (© Martin Wahlborg/Getty Images)](https://www.bing.com/search?q=Skan%C3%B6rs+Havsbad&form=hpcapt&filters=HpDate%3a%2220240727_1500%22)
 <!-- Bing Wallpaper End -->
