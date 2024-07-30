@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界トラの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CorbettTigers_JA-JP7161301838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ジム・コーベット国立公園, インド ウッタラーカンド州 (© Sourabh Bharti/Getty Images)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A0%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%99%E3%83%83%E3%83%88%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240728_1500%22)
+## 美しい中世の塔が立ち並ぶ街
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GimignanoTuscany_JA-JP7399834117_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サン・ジミニャーノ, イタリア トスカーナ州 (© MNStudio/Shutterstock)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%9F%E3%83%8B%E3%83%A3%E3%83%BC%E3%83%8E&form=hpcapt&filters=HpDate%3a%2220240729_1500%22)
 <!-- Bing Wallpaper End -->
