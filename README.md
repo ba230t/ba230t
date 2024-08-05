@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 石灰岩でできた天然橋
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WulongKarst_JA-JP8479493036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[武隆カルスト国立地質公園, 中国 重慶市 (© Pav-Pro Photography Ltd/Shutterstock)](https://www.bing.com/search?q=%E6%AD%A6%E9%9A%86%E3%82%AB%E3%83%AB%E3%82%B9%E3%83%88%E5%9B%BD%E7%AB%8B%E5%9C%B0%E8%B3%AA%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240803_1500%22)
+## 紫の海
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HertfordshireLavender_JA-JP8708116437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ハートフォードシャーのラベンダー畑, イギリス (© George W Johnson/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%82%B7%E3%83%A3%E3%83%BC%E3%81%AE%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E7%95%91&form=hpcapt&filters=HpDate%3a%2220240804_1500%22)
 <!-- Bing Wallpaper End -->
