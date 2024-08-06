@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 紫の海
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HertfordshireLavender_JA-JP8708116437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ハートフォードシャーのラベンダー畑, イギリス (© George W Johnson/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%82%B7%E3%83%A3%E3%83%BC%E3%81%AE%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E7%95%91&form=hpcapt&filters=HpDate%3a%2220240804_1500%22)
+## 今日から仙台七夕まつり
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SendaiTanabata2024_JA-JP8906260169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[巨大な吹き流し, 宮城県 仙台市 (© rujin/Shutterstock)](https://www.bing.com/search?q=%E4%BB%99%E5%8F%B0%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220240805_1500%22)
 <!-- Bing Wallpaper End -->
