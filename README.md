@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日から仙台七夕まつり
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SendaiTanabata2024_JA-JP8906260169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[巨大な吹き流し, 宮城県 仙台市 (© rujin/Shutterstock)](https://www.bing.com/search?q=%E4%BB%99%E5%8F%B0%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220240805_1500%22)
+## 今日は米国灯台の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MichiganLighthouse_JA-JP9089561371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ミシガン湖とセントジョセフ灯台, 米国 ミシガン州 (© Kenneth Keifer/Getty Images)](https://www.bing.com/search?q=%E3%82%BB%E3%83%B3%E3%83%88%E3%82%B8%E3%83%A7%E3%82%BB%E3%83%95%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220240806_1500%22)
 <!-- Bing Wallpaper End -->
