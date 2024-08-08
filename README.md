@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は米国灯台の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MichiganLighthouse_JA-JP9089561371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ミシガン湖とセントジョセフ灯台, 米国 ミシガン州 (© Kenneth Keifer/Getty Images)](https://www.bing.com/search?q=%E3%82%BB%E3%83%B3%E3%83%88%E3%82%B8%E3%83%A7%E3%82%BB%E3%83%95%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220240806_1500%22)
+## 木の穴から顔を出すかわいいフクロウ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpottedOwlet_JA-JP9234740493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[インドコキンメフクロウ, タイ バンコク (© Tfilm/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B3%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220240807_1500%22)
 <!-- Bing Wallpaper End -->
