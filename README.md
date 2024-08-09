@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 木の穴から顔を出すかわいいフクロウ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpottedOwlet_JA-JP9234740493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[インドコキンメフクロウ, タイ バンコク (© Tfilm/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B3%E3%82%AD%E3%83%B3%E3%83%A1%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220240807_1500%22)
+## 今日は世界の先住民の国際デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IncaRuinPeru_JA-JP8602736251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サクサイワマン, ペルー (© SL_Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%AF%E3%83%9E%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220240808_1500%22)
 <!-- Bing Wallpaper End -->
