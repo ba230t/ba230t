@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界の先住民の国際デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.IncaRuinPeru_JA-JP8602736251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サクサイワマン, ペルー (© SL_Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%AF%E3%83%9E%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220240808_1500%22)
+## 古代の松や杉に囲まれた木道
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TofinoVancouver_JA-JP8938759537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ケネディ湖州立公園, カナダ ブリティッシュコロンビア州 (© EB Adventure Photography/Shutterstock)](https://www.bing.com/search?q=Kennedy+Lake+Provincial+Park&form=hpcapt&filters=HpDate%3a%2220240809_1500%22)
 <!-- Bing Wallpaper End -->
