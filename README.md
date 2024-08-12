@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は山の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MountainDay2024_JA-JP9130465329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[草津白根山, 群馬県 吾妻郡 (© Twenty47studio/Getty Images)](https://www.bing.com/search?q=%E8%8D%89%E6%B4%A5%E7%99%BD%E6%A0%B9%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220240810_1500%22)
+## 今日は世界ゾウの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ElephantsAmboseli_JA-JP9387144040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アンボセリ国立公園, ケニア (© Ruzdi Ekenheim/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%9C%E3%82%BB%E3%83%AA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240811_1500%22)
 <!-- Bing Wallpaper End -->
