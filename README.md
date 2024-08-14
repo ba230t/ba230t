@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 紺碧の海と切り立った崖
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DugiOtokCroatia_JA-JP9531782423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[テラシュチカ自然公園, クロアチア (© Ilija Ascic/Shutterstock)](https://www.bing.com/search?q=%E3%83%86%E3%83%A9%E3%82%B7%E3%83%A5%E3%83%81%E3%82%AB%E8%87%AA%E7%84%B6%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240812_1500%22)
+## 不思議な植物や岩の世界
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.JoshuaTreeNP_JA-JP9735541892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ジョシュア・ツリー国立公園, 米国 カリフォルニア州 (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%BB%E3%83%84%E3%83%AA%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240813_1500%22)
 <!-- Bing Wallpaper End -->
