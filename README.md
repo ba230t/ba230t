@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 不思議な植物や岩の世界
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.JoshuaTreeNP_JA-JP9735541892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ジョシュア・ツリー国立公園, 米国 カリフォルニア州 (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%BB%E3%83%84%E3%83%AA%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240813_1500%22)
+## 世界最大の洞窟
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HangCave_JA-JP0202736881_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ソンドン洞, ベトナム (© Geng Xu/Getty Images)](https://www.bing.com/search?q=%E3%82%BD%E3%83%B3%E3%83%89%E3%83%B3%E6%B4%9E&form=hpcapt&filters=HpDate%3a%2220240814_1500%22)
 <!-- Bing Wallpaper End -->
