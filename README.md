@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 世界最大の洞窟
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HangCave_JA-JP0202736881_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ソンドン洞, ベトナム (© Geng Xu/Getty Images)](https://www.bing.com/search?q=%E3%82%BD%E3%83%B3%E3%83%89%E3%83%B3%E6%B4%9E&form=hpcapt&filters=HpDate%3a%2220240814_1500%22)
+## 今日は五山送り火
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Gozan2024_JA-JP4841375373_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[大文字山の大文字, 京都 (© Masako Ishida/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E6%96%87%E5%AD%97%E5%B1%B1%E3%81%AE%E5%A4%A7%E6%96%87%E5%AD%97&form=hpcapt&filters=HpDate%3a%2220240815_1500%22)
 <!-- Bing Wallpaper End -->
