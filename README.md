@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は五山送り火
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Gozan2024_JA-JP4841375373_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[大文字山の大文字, 京都 (© Masako Ishida/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E6%96%87%E5%AD%97%E5%B1%B1%E3%81%AE%E5%A4%A7%E6%96%87%E5%AD%97&form=hpcapt&filters=HpDate%3a%2220240815_1500%22)
+## 今日から国際灯台ウィークエンド
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AlfanzinaLighthouse_JA-JP5005128092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アルファンジーナ灯台, ポルトガル (© Andreas Kunz/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%8A%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220240816_1500%22)
 <!-- Bing Wallpaper End -->
