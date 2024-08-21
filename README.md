@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 壮大なティトン山脈と周囲の湖
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TetonSunrise_JA-JP5515131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グランドティトン国立公園, 米国 ワイオミング州 (© Kurt Budliger/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%86%E3%82%A3%E3%83%88%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240819_1500%22)
+## 岩の上で休むナスカカツオドリ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NazcaBooby_JA-JP5706861733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ガラパゴス諸島のウォルフ島, エクアドル (© Tui De Roy/Minden Pictures)](https://www.bing.com/search?q=%E3%83%8A%E3%82%B9%E3%82%AB%E3%82%AB%E3%83%84%E3%82%AA%E3%83%89%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220240820_1500%22)
 <!-- Bing Wallpaper End -->
