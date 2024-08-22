@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 岩の上で休むナスカカツオドリ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NazcaBooby_JA-JP5706861733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ガラパゴス諸島のウォルフ島, エクアドル (© Tui De Roy/Minden Pictures)](https://www.bing.com/search?q=%E3%83%8A%E3%82%B9%E3%82%AB%E3%82%AB%E3%83%84%E3%82%AA%E3%83%89%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220240820_1500%22)
+## 賑やかなビーチタウン
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.OceanCityMD_JA-JP5837703169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オーシャンシティ, 米国 メリーランド州 (© Kevin Olson/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B7%E3%83%86%E3%82%A3&form=hpcapt&filters=HpDate%3a%2220240821_1500%22)
 <!-- Bing Wallpaper End -->
