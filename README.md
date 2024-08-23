@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 賑やかなビーチタウン
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OceanCityMD_JA-JP5837703169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オーシャンシティ, 米国 メリーランド州 (© Kevin Olson/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B7%E3%83%86%E3%82%A3&form=hpcapt&filters=HpDate%3a%2220240821_1500%22)
+## もう一度見たい宮島水中花火大会
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Fireworks2024_JA-JP2308803408_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[厳島神社, 広島県 廿日市市 (© Matsuo Sato/Shutterstock)](https://www.bing.com/search?q=%E5%AE%AE%E5%B3%B6%E6%B0%B4%E4%B8%AD%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220240822_1500%22)
 <!-- Bing Wallpaper End -->
