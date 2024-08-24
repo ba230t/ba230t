@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## もう一度見たい宮島水中花火大会
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Fireworks2024_JA-JP2308803408_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[厳島神社, 広島県 廿日市市 (© Matsuo Sato/Shutterstock)](https://www.bing.com/search?q=%E5%AE%AE%E5%B3%B6%E6%B0%B4%E4%B8%AD%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220240822_1500%22)
+## 今日は地蔵盆
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.JizoFestival2024_JA-JP8040094666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[三千院のわらべ地蔵, 京都 (© Klaus-Werner Friedrich/Alamy)](https://www.bing.com/search?q=%E4%B8%89%E5%8D%83%E9%99%A2%E3%81%AE%E3%82%8F%E3%82%89%E3%81%B9%E5%9C%B0%E8%94%B5&form=hpcapt&filters=HpDate%3a%2220240823_1500%22)
 <!-- Bing Wallpaper End -->
