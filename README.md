@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は地蔵盆
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.JizoFestival2024_JA-JP8040094666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[三千院のわらべ地蔵, 京都 (© Klaus-Werner Friedrich/Alamy)](https://www.bing.com/search?q=%E4%B8%89%E5%8D%83%E9%99%A2%E3%81%AE%E3%82%8F%E3%82%89%E3%81%B9%E5%9C%B0%E8%94%B5&form=hpcapt&filters=HpDate%3a%2220240823_1500%22)
+## 今日は米国国立公園局の創立記念日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SwiftcurrentLake_JA-JP7854639610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グレーシャー国立公園, 米国 モンタナ州 (© Jason Savage/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240824_1500%22)
 <!-- Bing Wallpaper End -->
