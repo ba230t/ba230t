@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は米国国立公園局の創立記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SwiftcurrentLake_JA-JP7854639610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グレーシャー国立公園, 米国 モンタナ州 (© Jason Savage/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240824_1500%22)
+## 太平洋に浮かぶ生物の楽園
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PalmyraAtoll_JA-JP7657576901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[パルミラ環礁, 米国 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%83%91%E3%83%AB%E3%83%9F%E3%83%A9%E7%92%B0%E7%A4%81&form=hpcapt&filters=HpDate%3a%2220240825_1500%22)
 <!-- Bing Wallpaper End -->
