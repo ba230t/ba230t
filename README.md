@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 太平洋に浮かぶ生物の楽園
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PalmyraAtoll_JA-JP7657576901_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[パルミラ環礁, 米国 (© Ian Shive/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%83%91%E3%83%AB%E3%83%9F%E3%83%A9%E7%92%B0%E7%A4%81&form=hpcapt&filters=HpDate%3a%2220240825_1500%22)
+## クメール王朝の神殿跡
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PrasatPhanom_JA-JP7500129821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[パノムルン遺跡, タイ (© Banjongseal324/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%8E%E3%83%A0%E3%83%AB%E3%83%B3%E9%81%BA%E8%B7%A1&form=hpcapt&filters=HpDate%3a%2220240826_1500%22)
 <!-- Bing Wallpaper End -->
