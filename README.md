@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## クメール王朝の神殿跡
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PrasatPhanom_JA-JP7500129821_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[パノムルン遺跡, タイ (© Banjongseal324/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%8E%E3%83%A0%E3%83%AB%E3%83%B3%E9%81%BA%E8%B7%A1&form=hpcapt&filters=HpDate%3a%2220240826_1500%22)
+## 今日は夏季パラリンピックの開幕日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ParalympicsParis_JA-JP5348404269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サクレ・クール寺院, フランス パリ (© Tuul & Bruno Morandi/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%82%AF%E3%83%AC%E3%83%BB%E3%82%AF%E3%83%BC%E3%83%AB%E5%AF%BA%E9%99%A2&form=hpcapt&filters=HpDate%3a%2220240827_1500%22)
 <!-- Bing Wallpaper End -->
