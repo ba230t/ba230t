@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 崖上の街
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CastellfollitSpain_JA-JP7179605635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カステルフォリット・デ・ラ・ロカ, スペイン カタルーニャ州 (© Eloi_Omella/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%82%B9%E3%83%86%E3%83%AB%E3%83%95%E3%82%A9%E3%83%AA%E3%83%83%E3%83%88%E3%83%BB%E3%83%87%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%AD%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220240828_1500%22)
+## 今日は国際ジンベエザメの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WhaleSharkDay_JA-JP6933929150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[チェンデラワシ湾のジンベエザメ, インドネシア (© Andy Lerner/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%83%81%E3%82%A7%E3%83%B3%E3%83%87%E3%83%A9%E3%83%AF%E3%82%B7%E6%B9%BE%E3%81%AE%E3%82%B8%E3%83%B3%E3%83%99%E3%82%A8%E3%82%B6%E3%83%A1&form=hpcapt&filters=HpDate%3a%2220240829_1500%22)
 <!-- Bing Wallpaper End -->
