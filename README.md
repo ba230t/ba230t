@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際ジンベエザメの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WhaleSharkDay_JA-JP6933929150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[チェンデラワシ湾のジンベエザメ, インドネシア (© Andy Lerner/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%83%81%E3%82%A7%E3%83%B3%E3%83%87%E3%83%A9%E3%83%AF%E3%82%B7%E6%B9%BE%E3%81%AE%E3%82%B8%E3%83%B3%E3%83%99%E3%82%A8%E3%82%B6%E3%83%A1&form=hpcapt&filters=HpDate%3a%2220240829_1500%22)
+## サハラ砂漠の岩層と砂丘
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DjanetAlgeria_JA-JP6784692273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[タッシリ・ナジェール, アルジェリア (© Airpano/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%82%BF%E3%83%83%E3%82%B7%E3%83%AA%E3%83%BB%E3%83%8A%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220240830_1500%22)
 <!-- Bing Wallpaper End -->
