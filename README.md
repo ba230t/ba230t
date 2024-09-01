@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## サハラ砂漠の岩層と砂丘
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DjanetAlgeria_JA-JP6784692273_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[タッシリ・ナジェール, アルジェリア (© Airpano/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%82%BF%E3%83%83%E3%82%B7%E3%83%AA%E3%83%BB%E3%83%8A%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220240830_1500%22)
+## 今日からトータリー・テムズ・フェスティバル
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThamesLondon_JA-JP6657553394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[テムズ川 , イギリス ロンドン (© Puthipong Worasaran/Getty Images)](https://www.bing.com/search?q=%E3%83%86%E3%83%A0%E3%82%BA%E5%B7%9D+&form=hpcapt&filters=HpDate%3a%2220240831_1500%22)
 <!-- Bing Wallpaper End -->
