@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日からトータリー・テムズ・フェスティバル
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThamesLondon_JA-JP6657553394_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[テムズ川 , イギリス ロンドン (© Puthipong Worasaran/Getty Images)](https://www.bing.com/search?q=%E3%83%86%E3%83%A0%E3%82%BA%E5%B7%9D+&form=hpcapt&filters=HpDate%3a%2220240831_1500%22)
+## 色鮮やかな羽根を持つインコ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BuracodasAraras_JA-JP6532536495_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ベニコンゴウインコ, ブラジル マットグロッソ・ド・スル州 (© Ellen Goff/Danita Delimont)](https://www.bing.com/search?q=%E3%83%99%E3%83%8B%E3%82%B3%E3%83%B3%E3%82%B4%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220240901_1500%22)
 <!-- Bing Wallpaper End -->
