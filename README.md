@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は米国原生自然法制定の記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AlpineLakes_JA-JP6421290140_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エンチャントメンツ地域にある高山湖,米国 ワシントン州 (© Mitch Pittman/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%A8%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%88%E3%83%A1%E3%83%B3%E3%83%84%E5%9C%B0%E5%9F%9F&form=hpcapt&filters=HpDate%3a%2220240902_1500%22)
+## 夜のハンター
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DuskyOwls_JA-JP6308123307_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ウスグロワシミミズク, パキスタン (© zahoor salmi/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%82%B9%E3%82%B0%E3%83%AD%E3%83%AF%E3%82%B7%E3%83%9F%E3%83%9F%E3%82%BA%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220240903_1500%22)
 <!-- Bing Wallpaper End -->
