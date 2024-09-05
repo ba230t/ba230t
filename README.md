@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 夜のハンター
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DuskyOwls_JA-JP6308123307_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ウスグロワシミミズク, パキスタン (© zahoor salmi/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%82%B9%E3%82%B0%E3%83%AD%E3%83%AF%E3%82%B7%E3%83%9F%E3%83%9F%E3%82%BA%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220240903_1500%22)
+## 今日からトロント国際映画祭
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TIFF2024_JA-JP6140620870_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[湖越しに見えるトロントの高層ビル, カナダ オンタリオ州 (© Roberto Machado Noa/Getty Images)](https://www.bing.com/search?q=%E6%B9%96%E8%B6%8A%E3%81%97%E3%81%AB%E8%A6%8B%E3%81%88%E3%82%8B%E3%83%88%E3%83%AD%E3%83%B3%E3%83%88%E3%81%AE%E9%AB%98%E5%B1%A4%E3%83%93%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220240904_1500%22)
 <!-- Bing Wallpaper End -->
