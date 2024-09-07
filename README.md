@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 日本最古の木造再建城
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GujoHachiman_JA-JP9477689405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[郡上八幡城, 岐阜県 郡上市 (© ta2funk ito/500px/Getty Images)](https://www.bing.com/search?q=%E9%83%A1%E4%B8%8A%E5%85%AB%E5%B9%A1%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220240905_1500%22)
+## 今日は米国のハチドリの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SantaCruzHummer_JA-JP9857439185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アンナハチドリ, 米国 カリフォルニア州 (© yhelfman/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%8A%E3%83%8F%E3%83%81%E3%83%89%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220240906_1500%22)
 <!-- Bing Wallpaper End -->
