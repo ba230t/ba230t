@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は米国のハチドリの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SantaCruzHummer_JA-JP9857439185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アンナハチドリ, 米国 カリフォルニア州 (© yhelfman/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%8A%E3%83%8F%E3%83%81%E3%83%89%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220240906_1500%22)
+## 今日は国際識字デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.StockholmLibrary_JA-JP1538658617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ストックホルム市立図書館, スウェーデン (© Andrei Hrabun/Alamy)](https://www.bing.com/search?q=%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%A0%E5%B8%82%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8&form=hpcapt&filters=HpDate%3a%2220240907_1500%22)
 <!-- Bing Wallpaper End -->
