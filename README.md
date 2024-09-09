@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際識字デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.StockholmLibrary_JA-JP1538658617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ストックホルム市立図書館, スウェーデン (© Andrei Hrabun/Alamy)](https://www.bing.com/search?q=%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%A0%E5%B8%82%E7%AB%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8&form=hpcapt&filters=HpDate%3a%2220240907_1500%22)
+## U 字型の断崖から落ちる壮観な滝
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IguazuRainbow_JA-JP1767821337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[イグアスの滝, ブラジルとアルゼンチン (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%82%A4%E3%82%B0%E3%82%A2%E3%82%B9%E3%81%AE%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220240908_1500%22)
 <!-- Bing Wallpaper End -->
