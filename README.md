@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 岬の突端にある灯台
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PointReyes_JA-JP3284759959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ポイント・レイズ国定公園, 米国 カリフォルニア州 (© RMB Images/Photography by Robert Bowman/Getty Images)](https://www.bing.com/search?q=%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%83%AC%E3%82%A4%E3%82%BA%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240912_1500%22)
+## 今日はコスモスの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CosmosDay2024_JA-JP3703662081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[国営ひたち海浜公園, 茨城県 ひたちなか市 (© ThePonAek/Shutterstock)](https://www.bing.com/search?q=%E5%9B%BD%E5%96%B6%E3%81%B2%E3%81%9F%E3%81%A1%E6%B5%B7%E6%B5%9C%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240913_1500%22)
 <!-- Bing Wallpaper End -->
