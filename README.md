@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はコスモスの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CosmosDay2024_JA-JP3703662081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[国営ひたち海浜公園, 茨城県 ひたちなか市 (© ThePonAek/Shutterstock)](https://www.bing.com/search?q=%E5%9B%BD%E5%96%B6%E3%81%B2%E3%81%9F%E3%81%A1%E6%B5%B7%E6%B5%9C%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240913_1500%22)
+## 小形のカンガルー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SunriseWallabies_JA-JP3900865129_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ワラビー, オーストラリア ノーザンテリトリー (© Jeremy Woodhouse/Getty Images)](https://www.bing.com/search?q=%E3%83%AF%E3%83%A9%E3%83%93%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220240914_1500%22)
 <!-- Bing Wallpaper End -->
