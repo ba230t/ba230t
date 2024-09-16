@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 小形のカンガルー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SunriseWallabies_JA-JP3900865129_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ワラビー, オーストラリア ノーザンテリトリー (© Jeremy Woodhouse/Getty Images)](https://www.bing.com/search?q=%E3%83%AF%E3%83%A9%E3%83%93%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220240914_1500%22)
+## 今日は「敬老の日」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.OwlNew2024_JA-JP4084004440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[枝の先に止まっているフクロウ (© rockptarmigan/Getty Images)](https://www.bing.com/search?q=%E6%9E%9D%E3%81%AB%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220240915_1500%22)
 <!-- Bing Wallpaper End -->
