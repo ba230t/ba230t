@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は中秋の名月
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MidAutumnSingapore_JA-JP4830170317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ガーデンズ・バイ・ザ・ベイ, シンガポール (© Victor Y. Zhuo/Alamy)](https://www.bing.com/search?q=%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%99%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220240916_1500%22)
+## ブナの古木
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GlenariffPark_JA-JP5014364740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グレナリフ森林公園, 北アイルランド アントリム県 (© Dawid K Photography/Shutterstock)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%8A%E3%83%AA%E3%83%95%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240917_1500%22)
 <!-- Bing Wallpaper End -->
