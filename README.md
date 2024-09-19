@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ブナの古木
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GlenariffPark_JA-JP5014364740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グレナリフ森林公園, 北アイルランド アントリム県 (© Dawid K Photography/Shutterstock)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%8A%E3%83%AA%E3%83%95%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240917_1500%22)
+## 今日は世界海賊口調日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PiratePlayground_JA-JP8924583087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[船の遊具で海賊ごっごを楽しむ子供たち, ドイツ (© INGO WAGNER/DPA/AFP via Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E8%B3%8A%E5%8F%A3%E8%AA%BF%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220240918_1500%22)
 <!-- Bing Wallpaper End -->
