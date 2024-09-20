@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界海賊口調日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PiratePlayground_JA-JP8924583087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[船の遊具で海賊ごっごを楽しむ子供たち, ドイツ (© INGO WAGNER/DPA/AFP via Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E8%B3%8A%E5%8F%A3%E8%AA%BF%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220240918_1500%22)
+## 白亜のオクラコーク灯台
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.OcracokeLight_JA-JP0600038027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オクラコーク島,  米国 ノースカロライナ州 (© Chansak Joe/Getty Images)](https://www.bing.com/search?q=%E3%82%AA%E3%82%AF%E3%83%A9%E3%82%B3%E3%83%BC%E3%82%AF%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220240919_1500%22)
 <!-- Bing Wallpaper End -->
