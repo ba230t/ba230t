@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 白亜のオクラコーク灯台
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OcracokeLight_JA-JP0600038027_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オクラコーク島,  米国 ノースカロライナ州 (© Chansak Joe/Getty Images)](https://www.bing.com/search?q=%E3%82%AA%E3%82%AF%E3%83%A9%E3%82%B3%E3%83%BC%E3%82%AF%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220240919_1500%22)
+## 今日からミュンヘンのオクトーバーフェスト
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MunichBeerfest_JA-JP0799044795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[夕暮れのテレージエンヴィーゼ, ドイツ バイエルン州 (© AllesSuper21/iStock/Getty Images)](https://www.bing.com/search?q=%E3%83%86%E3%83%AC%E3%83%BC%E3%82%B8%E3%82%A8%E3%83%B3%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%BC&form=hpcapt&filters=HpDate%3a%2220240920_1500%22)
 <!-- Bing Wallpaper End -->
