@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日からミュンヘンのオクトーバーフェスト
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MunichBeerfest_JA-JP0799044795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[夕暮れのテレージエンヴィーゼ, ドイツ バイエルン州 (© AllesSuper21/iStock/Getty Images)](https://www.bing.com/search?q=%E3%83%86%E3%83%AC%E3%83%BC%E3%82%B8%E3%82%A8%E3%83%B3%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%BC&form=hpcapt&filters=HpDate%3a%2220240920_1500%22)
+## 今日は秋分の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RedSpiderlily2024_JA-JP1171609872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[巾着田の彼岸花, 埼玉県 日高市 (© Scirocco340/Shutterstock)](https://www.bing.com/search?q=%E5%B7%BE%E7%9D%80%E7%94%B0%E3%81%AE%E5%BD%BC%E5%B2%B8%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220240921_1500%22)
 <!-- Bing Wallpaper End -->
