@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 玄武岩の柱状節理に囲まれた滝
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SkaftafellWaterfall_JA-JP1502759780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヴァトナヨークトル国立公園, アイスランド (© Nopasorn Kowathanakul/Getty Images)](https://www.bing.com/search?q=%E3%83%B4%E3%82%A1%E3%83%88%E3%83%8A%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%88%E3%83%AB%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240923_1500%22)
+## 地球最大の巨木セコイアデンドロン
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GiantSequoias_JA-JP1712203970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[セコイア国立公園, 米国 カリフォルニア州 (© Galyna Andrushko/Shutterstock)](https://www.bing.com/search?q=%E3%82%BB%E3%82%B3%E3%82%A4%E3%82%A2%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240924_1500%22)
 <!-- Bing Wallpaper End -->
