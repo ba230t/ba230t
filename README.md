@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は横浜ベイブリッジ開通日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YokohamaBridge2024_JA-JP2381649830_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[夕暮れに染まる橋, 神奈川県 横浜市 (© Prisma by Dukas Presseagentur GmbH/Alamy Stock Photo)](https://www.bing.com/search?q=%E6%A8%AA%E6%B5%9C%E3%83%99%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8&form=hpcapt&filters=HpDate%3a%2220240926_1500%22)
+## 上空から見た聖堂と運河
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.VeniceAerial_JA-JP2627608079_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サンタ・マリア・デッラ・サルーテ聖堂, イタリア ヴェネツィア (© Bachir Moukarzel/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%87%E3%83%83%E3%83%A9%E3%83%BB%E3%82%B5%E3%83%AB%E3%83%BC%E3%83%86%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220240927_1500%22)
 <!-- Bing Wallpaper End -->
