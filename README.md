@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 上空から見た聖堂と運河
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.VeniceAerial_JA-JP2627608079_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サンタ・マリア・デッラ・サルーテ聖堂, イタリア ヴェネツィア (© Bachir Moukarzel/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%87%E3%83%83%E3%83%A9%E3%83%BB%E3%82%B5%E3%83%AB%E3%83%BC%E3%83%86%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220240927_1500%22)
+## 鮮やかな赤い屋根付き橋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ConnecticutBridge_JA-JP2803321025_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[コーンウォール, 米国 コネチカット州 (© pabradyphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E3%81%AE%E5%B1%8B%E6%A0%B9%E4%BB%98%E3%81%8D%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220240928_1500%22)
 <!-- Bing Wallpaper End -->
