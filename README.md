@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 鮮やかな赤い屋根付き橋
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ConnecticutBridge_JA-JP2803321025_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[コーンウォール, 米国 コネチカット州 (© pabradyphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB%E3%81%AE%E5%B1%8B%E6%A0%B9%E4%BB%98%E3%81%8D%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220240928_1500%22)
+## セイウチの群れ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WalrusNorway_JA-JP3040663299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スヴァールバル諸島, ノルウェー (© AWL Images/Danita Delimont)](https://www.bing.com/search?q=%E3%82%BB%E3%82%A4%E3%82%A6%E3%83%81%E3%81%AE%E7%BE%A4%E3%82%8C&form=hpcapt&filters=HpDate%3a%2220240929_1500%22)
 <!-- Bing Wallpaper End -->
