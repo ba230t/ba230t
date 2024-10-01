@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## セイウチの群れ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WalrusNorway_JA-JP3040663299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[スヴァールバル諸島, ノルウェー (© AWL Images/Danita Delimont)](https://www.bing.com/search?q=%E3%82%BB%E3%82%A4%E3%82%A6%E3%83%81%E3%81%AE%E7%BE%A4%E3%82%8C&form=hpcapt&filters=HpDate%3a%2220240929_1500%22)
+## 赤く燃えるハーフドーム
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HalfDomeYosemite_JA-JP3299475040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヨセミテ国立公園, 米国 カリフォルニア州 (© Adam Burton/Alamy)](https://www.bing.com/search?q=%E3%83%A8%E3%82%BB%E3%83%9F%E3%83%86%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240930_1500%22)
 <!-- Bing Wallpaper End -->
