@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 赤く燃えるハーフドーム
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HalfDomeYosemite_JA-JP3299475040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヨセミテ国立公園, 米国 カリフォルニア州 (© Adam Burton/Alamy)](https://www.bing.com/search?q=%E3%83%A8%E3%82%BB%E3%83%9F%E3%83%86%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220240930_1500%22)
+## 河川が流れる広大なツンドラ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WindRiverAlaska_JA-JP3464622657_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[北極野生生物国家保護区, 米国 アラスカ州 (© Design Pics/Danita Delimont)](https://www.bing.com/search?q=%E5%8C%97%E6%A5%B5%E9%87%8E%E7%94%9F%E7%94%9F%E7%89%A9%E5%9B%BD%E5%AE%B6%E4%BF%9D%E8%AD%B7%E5%8C%BA&form=hpcapt&filters=HpDate%3a%2220241001_1500%22)
 <!-- Bing Wallpaper End -->
