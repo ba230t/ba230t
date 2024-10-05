@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日から世界宇宙週間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.EuropaMoon_JA-JP4639297209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[木星の衛星エウロパ (© NASA/JPL-Caltech/SETI Institute)](https://www.bing.com/search?q=%E6%9C%A8%E6%98%9F%E3%81%AE%E8%A1%9B%E6%98%9F%E3%82%A8%E3%82%A6%E3%83%AD%E3%83%91&form=hpcapt&filters=HpDate%3a%2220241003_1500%22)
+## 今日は世界教師デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ElephantTeacher_JA-JP4940024317_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ツァボイースト国立公園のアフリカゾウ, ケニア (© Neil Bowman/Minden Pictures)](https://www.bing.com/search?q=%E3%83%84%E3%82%A1%E3%83%9C%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%E3%81%AE%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%82%BE%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220241004_1500%22)
 <!-- Bing Wallpaper End -->
