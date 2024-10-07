@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 真っ赤なコキア
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KochiaJapan_JA-JP5196113182_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[国営ひたち海浜公園, 茨城県 ひたちなか市 (© DigiPub/Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E5%96%B6%E3%81%B2%E3%81%9F%E3%81%A1%E6%B5%B7%E6%B5%9C%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241005_1500%22)
+## 今日は世界建築の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ElbePhilharmonic_JA-JP5541486306_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[エルプフィルハーモニー・ハンブルク, ドイツ (© Canetti/Shutterstock)](https://www.bing.com/search?q=%E3%82%A8%E3%83%AB%E3%83%97%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220241006_1500%22)
 <!-- Bing Wallpaper End -->
