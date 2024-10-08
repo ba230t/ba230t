@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界建築の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ElbePhilharmonic_JA-JP5541486306_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エルプフィルハーモニー・ハンブルク, ドイツ (© Canetti/Shutterstock)](https://www.bing.com/search?q=%E3%82%A8%E3%83%AB%E3%83%97%E3%83%95%E3%82%A3%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220241006_1500%22)
+## 今日は寒露
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Kanro2024_JA-JP5787966494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[秋の八甲田ロープウェイ,  青森県 青森市 (© Torsakarin/Getty Images)](https://www.bing.com/search?q=%E7%A7%8B%E3%81%AE%E5%85%AB%E7%94%B2%E7%94%B0%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220241007_1500%22)
 <!-- Bing Wallpaper End -->
