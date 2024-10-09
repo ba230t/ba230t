@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は寒露
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Kanro2024_JA-JP5787966494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[秋の八甲田ロープウェイ,  青森県 青森市 (© Torsakarin/Getty Images)](https://www.bing.com/search?q=%E7%A7%8B%E3%81%AE%E5%85%AB%E7%94%B2%E7%94%B0%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220241007_1500%22)
+## 黄葉に輝く森
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AspensColorado_JA-JP6244858068_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マーブル近郊に自生するアスペン, 米国 コロラド州 (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/search?q=%E5%8C%97%E7%B1%B3%E3%81%AE%E3%82%A2%E3%82%B9%E3%83%9A%E3%83%B3%E3%81%AE%E6%9C%A8&form=hpcapt&filters=HpDate%3a%2220241008_1500%22)
 <!-- Bing Wallpaper End -->
