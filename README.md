@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 黄葉に輝く森
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AspensColorado_JA-JP6244858068_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マーブル近郊に自生するアスペン, 米国 コロラド州 (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/search?q=%E5%8C%97%E7%B1%B3%E3%81%AE%E3%82%A2%E3%82%B9%E3%83%9A%E3%83%B3%E3%81%AE%E6%9C%A8&form=hpcapt&filters=HpDate%3a%2220241008_1500%22)
+## 断崖絶壁の上に佇む町
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SoranoItaly_JA-JP6459075522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ソラーノ, イタリア トスカーナ州 (© Luigi Vaccarella/eStock Photo)](https://www.bing.com/search?q=%E3%82%BD%E3%83%A9%E3%83%BC%E3%83%8E+%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220241009_1500%22)
 <!-- Bing Wallpaper End -->
