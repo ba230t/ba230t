@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 断崖絶壁の上に佇む町
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SoranoItaly_JA-JP6459075522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ソラーノ, イタリア トスカーナ州 (© Luigi Vaccarella/eStock Photo)](https://www.bing.com/search?q=%E3%82%BD%E3%83%A9%E3%83%BC%E3%83%8E+%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220241009_1500%22)
+## 紅葉に染まる島
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CelticColours_JA-JP6953032126_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ケープ・ブレトン島, カナダ ノバスコシア州 (© Cavan Images/Alamy)](https://www.bing.com/search?q=%E3%82%B1%E3%83%BC%E3%83%97%E3%83%BB%E3%83%96%E3%83%AC%E3%83%88%E3%83%B3%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220241010_1500%22)
 <!-- Bing Wallpaper End -->
