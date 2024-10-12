@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 紅葉に染まる島
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CelticColours_JA-JP6953032126_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ケープ・ブレトン島, カナダ ノバスコシア州 (© Cavan Images/Alamy)](https://www.bing.com/search?q=%E3%82%B1%E3%83%BC%E3%83%97%E3%83%BB%E3%83%96%E3%83%AC%E3%83%88%E3%83%B3%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220241010_1500%22)
+## 今日は「世界渡り鳥の日」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.QuebecDuck_JA-JP7270367085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アメリカオシ, カナダ ケベック州 (© Maxime Riendeau/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%AA%E3%82%B7&form=hpcapt&filters=HpDate%3a%2220241011_1500%22)
 <!-- Bing Wallpaper End -->
