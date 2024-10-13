@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「世界渡り鳥の日」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.QuebecDuck_JA-JP7270367085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アメリカオシ, カナダ ケベック州 (© Maxime Riendeau/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%AA%E3%82%B7&form=hpcapt&filters=HpDate%3a%2220241011_1500%22)
+## 美しいアーチに囲まれた「乙女の中庭」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AlcazarSeville_JA-JP7812179664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アルカサル, スペイン アンダルシア州 (© Danny Lehman/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%82%AB%E3%82%B5%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220241012_1500%22)
 <!-- Bing Wallpaper End -->
