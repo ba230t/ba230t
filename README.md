@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 美しいアーチに囲まれた「乙女の中庭」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AlcazarSeville_JA-JP7812179664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アルカサル, スペイン アンダルシア州 (© Danny Lehman/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%82%AB%E3%82%B5%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220241012_1500%22)
+## 今日は鉄道の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RailwaysDayNew_JA-JP8050699925_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[東京駅, 東京都 (© phutthiseth thongtae/Getty Images)](https://www.bing.com/search?q=%E6%9D%B1%E4%BA%AC%E9%A7%85&form=hpcapt&filters=HpDate%3a%2220241013_1500%22)
 <!-- Bing Wallpaper End -->
