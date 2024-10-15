@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は鉄道の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RailwaysDayNew_JA-JP8050699925_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[東京駅, 東京都 (© phutthiseth thongtae/Getty Images)](https://www.bing.com/search?q=%E6%9D%B1%E4%BA%AC%E9%A7%85&form=hpcapt&filters=HpDate%3a%2220241013_1500%22)
+## 今日は「化石の日」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FossilsDorset_JA-JP8513856980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ジュラシック・コーストの化石, イギリス ドーセット州 (© Nature Picture Library/Alamy)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E3%81%AE%E5%8C%96%E7%9F%B3&form=hpcapt&filters=HpDate%3a%2220241014_1500%22)
 <!-- Bing Wallpaper End -->
