@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「化石の日」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FossilsDorset_JA-JP8513856980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ジュラシック・コーストの化石, イギリス ドーセット州 (© Nature Picture Library/Alamy)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E3%81%AE%E5%8C%96%E7%9F%B3&form=hpcapt&filters=HpDate%3a%2220241014_1500%22)
+## 大自然の壮大なドラマ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MaraMigration_JA-JP8727709922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マラ川を渡るヌーの群れ, ケニア (© Ayzenstayn/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%83%A9%E5%B7%9D%E3%82%92%E6%B8%A1%E3%82%8B%E3%83%8C%E3%83%BC%E3%81%AE%E7%BE%A4%E3%82%8C&form=hpcapt&filters=HpDate%3a%2220241015_1500%22)
 <!-- Bing Wallpaper End -->
