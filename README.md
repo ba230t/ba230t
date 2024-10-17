@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 大自然の壮大なドラマ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MaraMigration_JA-JP8727709922_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マラ川を渡るヌーの群れ, ケニア (© Ayzenstayn/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%83%A9%E5%B7%9D%E3%82%92%E6%B8%A1%E3%82%8B%E3%83%8C%E3%83%BC%E3%81%AE%E7%BE%A4%E3%82%8C&form=hpcapt&filters=HpDate%3a%2220241015_1500%22)
+## 色鮮やかな砂岩のアーチ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoyoteGulch_JA-JP8998470067_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グレンキャニオン国立保養地, 米国 ユタ州 (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%8B%E3%82%AA%E3%83%B3%E5%9B%BD%E7%AB%8B%E4%BF%9D%E9%A4%8A%E5%9C%B0&form=hpcapt&filters=HpDate%3a%2220241016_1500%22)
 <!-- Bing Wallpaper End -->
