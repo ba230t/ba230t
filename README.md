@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 色鮮やかな砂岩のアーチ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoyoteGulch_JA-JP8998470067_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グレンキャニオン国立保養地, 米国 ユタ州 (© Stephen Matera/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%8B%E3%82%AA%E3%83%B3%E5%9B%BD%E7%AB%8B%E4%BF%9D%E9%A4%8A%E5%9C%B0&form=hpcapt&filters=HpDate%3a%2220241016_1500%22)
+## 黄金色に染まる道
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CentralParkAutumn_JA-JP4069662350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[セントラルパーク, 米国 ニューヨーク州 (© mapman/Shutterstock)](https://www.bing.com/search?q=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF+%E7%B1%B3%E5%9B%BD&form=hpcapt&filters=HpDate%3a%2220241017_1500%22)
 <!-- Bing Wallpaper End -->
