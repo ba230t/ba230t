@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 黄金色に染まる道
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CentralParkAutumn_JA-JP4069662350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[セントラルパーク, 米国 ニューヨーク州 (© mapman/Shutterstock)](https://www.bing.com/search?q=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%91%E3%83%BC%E3%82%AF+%E7%B1%B3%E5%9B%BD&form=hpcapt&filters=HpDate%3a%2220241017_1500%22)
+## 今日は国際考古学の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DenderaTemple_JA-JP4353072440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ハトホル神殿, エジプト ケナ県 (© Nick Brundle Photography/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%83%88%E3%83%9B%E3%83%AB%E7%A5%9E%E6%AE%BF&form=hpcapt&filters=HpDate%3a%2220241018_1500%22)
 <!-- Bing Wallpaper End -->
