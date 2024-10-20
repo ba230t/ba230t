@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際考古学の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DenderaTemple_JA-JP4353072440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ハトホル神殿, エジプト ケナ県 (© Nick Brundle Photography/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%83%88%E3%83%9B%E3%83%AB%E7%A5%9E%E6%AE%BF&form=hpcapt&filters=HpDate%3a%2220241018_1500%22)
+## 今日は国際ナマケモノデー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SmilingSloth_JA-JP4479144213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[木の枝にぶら下がるナマケモノ, コスタリカ (© Harry Collins/Getty Images)](https://www.bing.com/search?q=%E6%9C%A8%E3%81%AE%E6%9E%9D%E3%81%AB%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%82%8B%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E&form=hpcapt&filters=HpDate%3a%2220241019_1500%22)
 <!-- Bing Wallpaper End -->
