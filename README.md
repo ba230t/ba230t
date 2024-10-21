@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際ナマケモノデー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SmilingSloth_JA-JP4479144213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[木の枝にぶら下がるナマケモノ, コスタリカ (© Harry Collins/Getty Images)](https://www.bing.com/search?q=%E6%9C%A8%E3%81%AE%E6%9E%9D%E3%81%AB%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%82%8B%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E&form=hpcapt&filters=HpDate%3a%2220241019_1500%22)
+## 水に浮かぶ森
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AutumnCypress_JA-JP4647054612_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ジョージ・エル・スミス州立公園, 米国 ジョージア州 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241020_1500%22)
 <!-- Bing Wallpaper End -->
