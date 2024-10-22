@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 水に浮かぶ森
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AutumnCypress_JA-JP4647054612_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ジョージ・エル・スミス州立公園, 米国 ジョージア州 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241020_1500%22)
+## 今日は平安遷都の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HeianJingu2024_JA-JP4866409141_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[平安神宮, 京都府 京都市 (© Ulana Switucha/Alamy Stock Photo)](https://www.bing.com/search?q=%E5%B9%B3%E5%AE%89%E7%A5%9E%E5%AE%AE&form=hpcapt&filters=HpDate%3a%2220241021_1500%22)
 <!-- Bing Wallpaper End -->
