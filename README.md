@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ゴールドラッシュで栄えた鉱山街
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BodieCalifornia_JA-JP5239125800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ボディ州立歴史公園, 米国 カリフォルニア州 (© Julien McRoberts/Tetra Images, LLC/Alamy)](https://www.bing.com/search?q=%E3%83%9C%E3%83%87%E3%82%A3%E5%B7%9E%E7%AB%8B%E6%AD%B4%E5%8F%B2%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241023_1500%22)
+## 雲海に浮かぶ山々
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MontBlancMassif_JA-JP5454742573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シャモニー, フランス (© Simon Schöpf/Getty Images)](https://www.bing.com/search?q=%E3%82%B7%E3%83%A3%E3%83%A2%E3%83%8B%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220241024_1500%22)
 <!-- Bing Wallpaper End -->
