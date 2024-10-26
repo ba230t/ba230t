@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 雲海に浮かぶ山々
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MontBlancMassif_JA-JP5454742573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[シャモニー, フランス (© Simon Schöpf/Getty Images)](https://www.bing.com/search?q=%E3%82%B7%E3%83%A3%E3%83%A2%E3%83%8B%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220241024_1500%22)
+## バルト海沿岸の枯れた森林
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GhostForest_JA-JP5609597853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ニーンハーゲンのゴーストフォレスト, ドイツ メクレンブルク ＝ フォアポンメルン州 (© mauritius images GmbH/Alamy)](https://www.bing.com/search?q=Gespensterwald+Nienhagen&form=hpcapt&filters=HpDate%3a%2220241025_1500%22)
 <!-- Bing Wallpaper End -->
