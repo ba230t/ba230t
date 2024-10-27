@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## バルト海沿岸の枯れた森林
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GhostForest_JA-JP5609597853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ニーンハーゲンのゴーストフォレスト, ドイツ メクレンブルク ＝ フォアポンメルン州 (© mauritius images GmbH/Alamy)](https://www.bing.com/search?q=Gespensterwald+Nienhagen&form=hpcapt&filters=HpDate%3a%2220241025_1500%22)
+## 今日から国際ホッキョクグマ週間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PolarBearHug_JA-JP5883977862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[寄り添うホッキョクグマの親子, カナダ マニトバ州 (© Design Pics/plainpicture)](https://www.bing.com/search?q=%E3%83%81%E3%83%A3%E3%83%BC%E3%83%81%E3%83%AB%E3%81%AE%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E&form=hpcapt&filters=HpDate%3a%2220241026_1500%22)
 <!-- Bing Wallpaper End -->
