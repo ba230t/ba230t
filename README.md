@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日から国際ホッキョクグマ週間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PolarBearHug_JA-JP5883977862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[寄り添うホッキョクグマの親子, カナダ マニトバ州 (© Design Pics/plainpicture)](https://www.bing.com/search?q=%E3%83%81%E3%83%A3%E3%83%BC%E3%83%81%E3%83%AB%E3%81%AE%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E&form=hpcapt&filters=HpDate%3a%2220241026_1500%22)
+## 一面オレンジの畑と朝霧
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PumpkinMist_JA-JP6129439723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ビクトリアのパンプキン畑, カナダ ブリティッシュコロンビア州 (© Shaun Cunningham/Alamy)](https://www.bing.com/search?q=%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%81%AE%E3%83%91%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3%E7%95%91&form=hpcapt&filters=HpDate%3a%2220241027_1500%22)
 <!-- Bing Wallpaper End -->
