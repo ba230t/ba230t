@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 一面オレンジの畑と朝霧
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PumpkinMist_JA-JP6129439723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ビクトリアのパンプキン畑, カナダ ブリティッシュコロンビア州 (© Shaun Cunningham/Alamy)](https://www.bing.com/search?q=%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%81%AE%E3%83%91%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3%E7%95%91&form=hpcapt&filters=HpDate%3a%2220241027_1500%22)
+## 暗闇のスーパーハンター
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GreatOwl_JA-JP6299309375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アメリカワシミミズク (© Mark Newman/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%AF%E3%82%B7%E3%83%9F%E3%83%9F%E3%82%BA%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220241028_1500%22)
 <!-- Bing Wallpaper End -->
