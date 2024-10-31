@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 岩頸の上に建つ要塞
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HauntedEdinburgh_JA-JP6454143527_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エディンバラ城, イギリス (© Chris Dorney/Alamy)](https://www.bing.com/search?q=%E3%82%A8%E3%83%87%E3%82%A3%E3%83%B3%E3%83%90%E3%83%A9%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220241029_1500%22)
+## 今日はハロウィン
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Halloween2024_JA-JP6692896772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[草間彌生の「南瓜」, 香川県 香川郡 (© hedgehog111/Shutterstock)](https://www.bing.com/search?q=%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F%E3%81%AE%E3%80%8C%E5%8D%97%E7%93%9C%E3%80%8D&form=hpcapt&filters=HpDate%3a%2220241030_1500%22)
 <!-- Bing Wallpaper End -->
