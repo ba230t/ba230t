@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はハロウィン
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Halloween2024_JA-JP6692896772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[草間彌生の「南瓜」, 香川県 香川郡 (© hedgehog111/Shutterstock)](https://www.bing.com/search?q=%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F%E3%81%AE%E3%80%8C%E5%8D%97%E7%93%9C%E3%80%8D&form=hpcapt&filters=HpDate%3a%2220241030_1500%22)
+## 白い砂丘に現れる奇跡の湖
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LencoisMaranhao_JA-JP9337793324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[レンソイス・マラニャンセス国立公園, ブラジル マラニャン州 (© thanosquest/Shutterstock)](https://www.bing.com/search?q=%E3%83%AC%E3%83%B3%E3%82%BD%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%A9%E3%83%8B%E3%83%A3%E3%83%B3%E3%82%BB%E3%82%B9%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241031_1500%22)
 <!-- Bing Wallpaper End -->
