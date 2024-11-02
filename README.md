@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 白い砂丘に現れる奇跡の湖
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LencoisMaranhao_JA-JP9337793324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[レンソイス・マラニャンセス国立公園, ブラジル マラニャン州 (© thanosquest/Shutterstock)](https://www.bing.com/search?q=%E3%83%AC%E3%83%B3%E3%82%BD%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%A9%E3%83%8B%E3%83%A3%E3%83%B3%E3%82%BB%E3%82%B9%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241031_1500%22)
+## 草原を歩き回るアメリカバイソン
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BisonYellowstone_JA-JP3698112107_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[イエローストーン国立公園, 米国 ワイオミング州 (© Ian Shive/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%90%E3%82%A4%E3%82%BD%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220241101_1500%22)
 <!-- Bing Wallpaper End -->
