@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際生物圏保存地域の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YucatanBiosphere_JA-JP2886303469_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[リア・ラガルトス生物圏保護区, メキシコ ユカタン州 (© Claudio Contreras/Minden Pictures)](https://www.bing.com/search?q=%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%AC%E3%83%AB%E3%83%88%E3%82%B9%E7%94%9F%E7%89%A9%E5%9C%8F%E4%BF%9D%E8%AD%B7%E5%8C%BA&form=hpcapt&filters=HpDate%3a%2220241102_1500%22)
+## ワーズワスが過ごした美しい村
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CumbriaAutumn_JA-JP9920066326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グラスミア, イングランド カンブリア州 (© Thomas Molyneux/Getty Images)](https://www.bing.com/search?q=%E3%83%AF%E3%83%BC%E3%82%BA%E3%83%AF%E3%82%B9%E3%81%8C%E9%81%8E%E3%81%94%E3%81%97%E3%81%9F%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%9F%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220241103_1500%22)
 <!-- Bing Wallpaper End -->
