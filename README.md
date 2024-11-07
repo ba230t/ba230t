@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 海食柱で有名なシーシービーチ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ShiShiBeach_JA-JP1245886715_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オリンピック国立公園, 米国 ワシントン州 (© T.M. Schultze/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%B7%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%93%E3%83%BC%E3%83%81+%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241105_1500%22)
+## 今日は立冬
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AnserAlbifrons2024_JA-JP4172907824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マガンの群れ (© feathercollector/Shutterstock)](https://www.bing.com/search?q=%E3%83%9E%E3%82%AC%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220241106_1500%22)
 <!-- Bing Wallpaper End -->
