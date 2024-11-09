@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 氷と火の交響曲
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GlacialRivers_JA-JP1694776093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[氷河河川システムの航空写真, アイスランド (© rybarmarekk/Shutterstock)](https://www.bing.com/search?q=%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E6%B0%B7%E6%B2%B3&form=hpcapt&filters=HpDate%3a%2220241107_1500%22)
+## 集落の上空に広がる天の川
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_JA-JP1854707696_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アイト・ベン・ハ���ゥの集落, モロッコ (© Cavan Images/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%82%A4%E3%83%88%E3%83%BB%E3%83%99%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%89%E3%82%A5%E3%81%AE%E9%9B%86%E8%90%BD&form=hpcapt&filters=HpDate%3a%2220241108_1500%22)
 <!-- Bing Wallpaper End -->
