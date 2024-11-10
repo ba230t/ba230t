@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 集落の上空に広がる天の川
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MoroccoMilkyWay_JA-JP1854707696_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アイト・ベン・ハ���ゥの集落, モロッコ (© Cavan Images/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%82%A4%E3%83%88%E3%83%BB%E3%83%99%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%89%E3%82%A5%E3%81%AE%E9%9B%86%E8%90%BD&form=hpcapt&filters=HpDate%3a%2220241108_1500%22)
+## 上空から見たフラミンゴたちの群舞
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YucatanFlamingos_JA-JP2002783035_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ユカタン半島のベニイロフラミンゴ, メキシコ  (© Claudio Contreras/NPL/Minden Pictures)](https://www.bing.com/search?q=%E3%83%99%E3%83%8B%E3%82%A4%E3%83%AD%E3%83%95%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B4&form=hpcapt&filters=HpDate%3a%2220241109_1500%22)
 <!-- Bing Wallpaper End -->
