@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 自然にできた砂岩のアーチ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoveArch_JA-JP2301146228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アーチーズ国立公園, 米国 ユタ州 (© Jeff Foott/Minden Pictures)](https://www.bing.com/search?q=%E3%82%A2%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241111_1500%22)
+## オオウキモとカリフォルニアアシカ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.KelpForest_JA-JP2433405735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[海の中にある森, メキシコ バハ・カリフォルニア州  (© Claudio Contreras/Minden Pictures)](https://www.bing.com/search?q=%E3%82%AA%E3%82%AA%E3%82%A6%E3%82%AD%E3%83%A2&form=hpcapt&filters=HpDate%3a%2220241112_1500%22)
 <!-- Bing Wallpaper End -->
