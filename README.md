@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## オオウキモとカリフォルニアアシカ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KelpForest_JA-JP2433405735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[海の中にある森, メキシコ バハ・カリフォルニア州  (© Claudio Contreras/Minden Pictures)](https://www.bing.com/search?q=%E3%82%AA%E3%82%AA%E3%82%A6%E3%82%AD%E3%83%A2&form=hpcapt&filters=HpDate%3a%2220241112_1500%22)
+## 断崖絶壁にあるカラフルな漁村
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ManarolaItaly_JA-JP2558854780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マナローラ,  イタリア リグーリア州 (© John_Silver/Shutterstock)](https://www.bing.com/search?q=%E3%83%9E%E3%83%8A%E3%83%AD%E3%83%BC%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220241113_1500%22)
 <!-- Bing Wallpaper End -->
