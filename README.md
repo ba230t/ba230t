@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 断崖絶壁にあるカラフルな漁村
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ManarolaItaly_JA-JP2558854780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マナローラ,  イタリア リグーリア州 (© John_Silver/Shutterstock)](https://www.bing.com/search?q=%E3%83%9E%E3%83%8A%E3%83%AD%E3%83%BC%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220241113_1500%22)
+## 今日はチェンマイ・イーペン祭り
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YiPengLanterns_JA-JP3002354354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[夜空に浮かぶ��数の灯籠, タイ (© tampatra/Getty Images)](https://www.bing.com/search?q=%E3%83%81%E3%82%A7%E3%83%B3%E3%83%9E%E3%82%A4%E3%83%BB%E3%82%A4%E3%83%BC%E3%83%9A%E3%83%B3%E7%A5%AD%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220241114_1500%22)
 <!-- Bing Wallpaper End -->
