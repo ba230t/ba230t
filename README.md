@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 世界最大の干潟地帯
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FrieslandNetherlands_JA-JP3280523442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ワッデン海, オランダ フリースラント州 (© Ron ter Burg/Minden Pictures)](https://www.bing.com/search?q=%E3%83%AF%E3%83%83%E3%83%87%E3%83%B3%E6%B5%B7&form=hpcapt&filters=HpDate%3a%2220241115_1500%22)
+## 森の精霊
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RedStag_JA-JP3676294833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アフリック峡谷のアカシカ, スコットランド ハイランド地方 (© Terry Whittaker/Alamy)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%82%B7%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220241116_1500%22)
 <!-- Bing Wallpaper End -->
