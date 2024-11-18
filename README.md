@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 森の精霊
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RedStag_JA-JP3676294833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アフリック峡谷のアカシカ, スコットランド ハイランド地方 (© Terry Whittaker/Alamy)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%82%B7%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220241116_1500%22)
+## 荒波が打ち付ける灯台
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_JA-JP3933854148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ポースコール灯台, イギリス 南ウェールズ (© Leighton Collins/Alamy)](https://www.bing.com/search?q=%E3%83%9D%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%AB%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220241117_1500%22)
 <!-- Bing Wallpaper End -->
