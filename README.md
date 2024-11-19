@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 荒波が打ち付ける灯台
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PorthcawlLighthouse_JA-JP3933854148_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ポースコール灯台, イギリス 南ウェールズ (© Leighton Collins/Alamy)](https://www.bing.com/search?q=%E3%83%9D%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%AB%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220241117_1500%22)
+## 自然の岩のアーチ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TasmansArch_JA-JP4122919606_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[タスマン国立公園, オーストラリア タスマニア州 (© Gary Bell/Minden Pictures)](https://www.bing.com/search?q=%E3%82%BF%E3%82%B9%E3%83%9E%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92+%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220241118_1500%22)
 <!-- Bing Wallpaper End -->
