@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界こどもの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BeyondSaype_JA-JP4402963918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[Saype によるランドアート「 Beyond Crisis 」, スイス (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://www.bing.com/search?q=Saype+Beyond+Crisis&form=hpcapt&filters=HpDate%3a%2220241119_1500%22)
+## 未来のサバンナの王者
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LionCubs_JA-JP4693137175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[寄り添う 2 頭の子ライオン, 南アフリカ (© Ruan Springorum/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220241120_1500%22)
 <!-- Bing Wallpaper End -->
