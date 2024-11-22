@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 未来のサバンナの王者
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LionCubs_JA-JP4693137175_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[寄り添う 2 頭の子ライオン, 南アフリカ (© Ruan Springorum/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220241120_1500%22)
+## 今日は小雪
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Xiaoxue2024_JA-JP4930643570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[白糸の滝, 静岡県 富士宮市 (© Sean Pavone/Alamy Stock Photo)](https://www.bing.com/search?q=%E7%99%BD%E7%B3%B8%E3%81%AE%E6%BB%9D+%E9%9D%99%E5%B2%A1%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220241121_1500%22)
 <!-- Bing Wallpaper End -->
