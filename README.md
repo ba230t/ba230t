@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はフィボナッチ数の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FibonacciAloe_JA-JP5597690966_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カンガルー島のスパイラルアロエ, オーストラリア (© Michael Melford/Alamy)](https://www.bing.com/search?q=%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB%E3%82%A2%E3%83%AD%E3%82%A8&form=hpcapt&filters=HpDate%3a%2220241122_1500%22)
+## 海に浮かぶ岩礁群
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SonomaCoast_JA-JP5834035051_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ソノマコースト州立公園, 米国 カリフォルニア州 (© Rachid Dahnoun/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%BD%E3%83%8E%E3%83%9E%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241123_1500%22)
 <!-- Bing Wallpaper End -->
