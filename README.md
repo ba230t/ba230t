@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 広大なサバンナを歩き回るマサイキリン
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AmboseliGiraffes_JA-JP2992203136_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アンボセリ国立公園, ケニア (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/search?q=%E3%83%9E%E3%82%B5%E3%82%A4%E3%82%AD%E3%83%AA%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220241124_1500%22)
+## 今日はいい風呂の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HotBathDay2024_JA-JP6338825094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[金鱗湖の鳥居, 大分県 由布市 (© T-Mizuguchi/Shutterstock)](https://www.bing.com/search?q=%E9%87%91%E9%B1%97%E6%B9%96%E3%81%AE%E9%B3%A5%E5%B1%85&form=hpcapt&filters=HpDate%3a%2220241125_1500%22)
 <!-- Bing Wallpaper End -->
