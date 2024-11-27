@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はいい風呂の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HotBathDay2024_JA-JP6338825094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[金鱗湖の鳥居, 大分県 由布市 (© T-Mizuguchi/Shutterstock)](https://www.bing.com/search?q=%E9%87%91%E9%B1%97%E6%B9%96%E3%81%AE%E9%B3%A5%E5%B1%85&form=hpcapt&filters=HpDate%3a%2220241125_1500%22)
+## 伝説の巨人が眠る場所？
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SemoisRiver_JA-JP6578585711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[セモワ川が作り出した壮大な蛇行地形, ベルギー (© David Briard/Getty)](https://www.bing.com/search?q=Le%C2%A0Tombeau+du+G%C3%A9ant&form=hpcapt&filters=HpDate%3a%2220241126_1500%22)
 <!-- Bing Wallpaper End -->
