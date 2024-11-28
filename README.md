@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 伝説の巨人が眠る場所？
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SemoisRiver_JA-JP6578585711_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[セモワ川が作り出した壮大な蛇行地形, ベルギー (© David Briard/Getty)](https://www.bing.com/search?q=Le%C2%A0Tombeau+du+G%C3%A9ant&form=hpcapt&filters=HpDate%3a%2220241126_1500%22)
+## 岩山の上に建つ難攻不落の城
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ZafraCastle_JA-JP6761146829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ザフラ城, スペイン グアダラハラ県 (© Eduard Gene/Getty Images)](https://www.bing.com/search?q=%E3%82%B6%E3%83%95%E3%83%A9%E5%9F%8E+%E3%82%B0%E3%82%A2%E3%83%80%E3%83%A9%E3%83%8F%E3%83%A9%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220241127_1500%22)
 <!-- Bing Wallpaper End -->
