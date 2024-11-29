@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 岩山の上に建つ難攻不落の城
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ZafraCastle_JA-JP6761146829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ザフラ城, スペイン グアダラハラ県 (© Eduard Gene/Getty Images)](https://www.bing.com/search?q=%E3%82%B6%E3%83%95%E3%83%A9%E5%9F%8E+%E3%82%B0%E3%82%A2%E3%83%80%E3%83%A9%E3%83%8F%E3%83%A9%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220241127_1500%22)
+## サン・マロ湾の上に浮かぶ美しい修道院
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MtStMichel_JA-JP4975687728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[モンサンミッシェル, フランス (© Captain Skyhigh/Getty Images)](https://www.bing.com/search?q=%E3%83%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%9F%E3%83%83%E3%82%B7%E3%82%A7%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220241128_1500%22)
 <!-- Bing Wallpaper End -->
