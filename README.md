@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は聖アンデレの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KilchurnAutumn_JA-JP5172394807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[水面に映るキルチャーン城, スコットランド (© Tom Mackie/plainpicture)](https://www.bing.com/search?q=%E3%82%AD%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%B3%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220241129_1500%22)
+## 今日は南極条約が採択された日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IcebergsAntarctica_JA-JP7385959905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[南極大陸の氷山 (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/search?q=%E5%8D%97%E6%A5%B5%E5%A4%A7%E9%99%B8%E3%81%AE%E6%B0%B7%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220241130_1500%22)
 <!-- Bing Wallpaper End -->
