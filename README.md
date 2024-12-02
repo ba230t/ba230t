@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は南極条約が採択された日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.IcebergsAntarctica_JA-JP7385959905_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[南極大陸の氷山 (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/search?q=%E5%8D%97%E6%A5%B5%E5%A4%A7%E9%99%B8%E3%81%AE%E6%B0%B7%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220241130_1500%22)
+## 北欧の森に生息する巨人
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SnowMoose_JA-JP7555569429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[デナリ国立公園のヘラジカ, 米国 アラスカ州  (© Cavan Images/Alamy)](https://www.bing.com/search?q=%E3%83%87%E3%83%8A%E3%83%AA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%E3%81%AE%E3%83%98%E3%83%A9%E3%82%B8%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220241201_1500%22)
 <!-- Bing Wallpaper End -->
