@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 北欧の森に生息する巨人
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SnowMoose_JA-JP7555569429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[デナリ国立公園のヘラジカ, 米国 アラスカ州  (© Cavan Images/Alamy)](https://www.bing.com/search?q=%E3%83%87%E3%83%8A%E3%83%AA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%E3%81%AE%E3%83%98%E3%83%A9%E3%82%B8%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220241201_1500%22)
+## 今日は秩父夜祭・本祭
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChichibuFestival2024_JA-JP7708851590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[花火と豪華な山車,埼玉県 秩父市 (© ASSOCIATED PRESS/AP)](https://www.bing.com/search?q=%E7%A7%A9%E7%88%B6%E5%A4%9C%E7%A5%AD&form=hpcapt&filters=HpDate%3a%2220241202_1500%22)
 <!-- Bing Wallpaper End -->
