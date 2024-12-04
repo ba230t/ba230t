@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は秩父夜祭・本祭
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChichibuFestival2024_JA-JP7708851590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[花火と豪華な山車,埼玉県 秩父市 (© ASSOCIATED PRESS/AP)](https://www.bing.com/search?q=%E7%A7%A9%E7%88%B6%E5%A4%9C%E7%A5%AD&form=hpcapt&filters=HpDate%3a%2220241202_1500%22)
+## 今日は世界動物の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RhinosKenya_JA-JP7911615612_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シロサイの顔合わせ, ケニア (© Ingo Arndt/Minden Pictures)](https://www.bing.com/search?q=%E3%82%B7%E3%83%AD%E3%82%B5%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220241203_1500%22)
 <!-- Bing Wallpaper End -->
