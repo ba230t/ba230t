@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 石灰岩の柱がそびえる不思議な湖
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MonoTufa_JA-JP8066767108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[モノ湖, 米国 カリフォルニア州 (© Susanna Patras/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%83%A2%E3%83%8E%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220241204_1500%22)
+## 今日はフィンランドの独立記念日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HelsinkiDusk_JA-JP8216541034_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヘルシンキの旧市街, フィンランド (© Oleksiy Mark/Shutterstock)](https://www.bing.com/search?q=%E3%83%98%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%AD%E3%81%AE%E6%97%A7%E5%B8%82%E8%A1%97&form=hpcapt&filters=HpDate%3a%2220241205_1500%22)
 <!-- Bing Wallpaper End -->
