@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はフィンランドの独立記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HelsinkiDusk_JA-JP8216541034_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヘルシンキの旧市街, フィンランド (© Oleksiy Mark/Shutterstock)](https://www.bing.com/search?q=%E3%83%98%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%AD%E3%81%AE%E6%97%A7%E5%B8%82%E8%A1%97&form=hpcapt&filters=HpDate%3a%2220241205_1500%22)
+## 今日は大雪
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Daxue2024_JA-JP8353318760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[雪化粧の五稜郭, 北海道 函館 (© Hiro1775/Getty Images)](https://www.bing.com/search?q=%E9%9B%AA%E5%8C%96%E7%B2%A7%E3%81%AE%E4%BA%94%E7%A8%9C%E9%83%AD&form=hpcapt&filters=HpDate%3a%2220241206_1500%22)
 <!-- Bing Wallpaper End -->
