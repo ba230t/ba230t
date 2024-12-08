@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は大雪
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Daxue2024_JA-JP8353318760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[雪化粧の五稜郭, 北海道 函館 (© Hiro1775/Getty Images)](https://www.bing.com/search?q=%E9%9B%AA%E5%8C%96%E7%B2%A7%E3%81%AE%E4%BA%94%E7%A8%9C%E9%83%AD&form=hpcapt&filters=HpDate%3a%2220241206_1500%22)
+## 炎を越えた大聖堂、再びその扉を開く！
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ReopeningNotreDame_JA-JP8512031523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ノートルダム大聖堂, フランス パリ (© Julien Fromentin/Getty Images)](https://www.bing.com/search?q=%E3%83%8E%E3%83%BC%E3%83%88%E3%83%AB%E3%83%80%E3%83%A0%E5%A4%A7%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220241207_1500%22)
 <!-- Bing Wallpaper End -->
