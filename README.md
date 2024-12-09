@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 炎を越えた大聖堂、再びその扉を開く！
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ReopeningNotreDame_JA-JP8512031523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ノートルダム大聖堂, フランス パリ (© Julien Fromentin/Getty Images)](https://www.bing.com/search?q=%E3%83%8E%E3%83%BC%E3%83%88%E3%83%AB%E3%83%80%E3%83%A0%E5%A4%A7%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220241207_1500%22)
+## 今日はリャマの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GuanacosChile_JA-JP8670867516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[トーレス・デル・パイネ国立公園のグアナコ, チリ (© Floris van Breugel/NPL/Minden Pictures)](https://www.bing.com/search?q=%E3%83%AA%E3%83%A3%E3%83%9E&form=hpcapt&filters=HpDate%3a%2220241208_1500%22)
 <!-- Bing Wallpaper End -->
