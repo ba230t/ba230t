@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はリャマの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GuanacosChile_JA-JP8670867516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[トーレス・デル・パイネ国立公園のグアナコ, チリ (© Floris van Breugel/NPL/Minden Pictures)](https://www.bing.com/search?q=%E3%83%AA%E3%83%A3%E3%83%9E&form=hpcapt&filters=HpDate%3a%2220241208_1500%22)
+## イギリス本土最西端の地
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CornwallSnow_JA-JP8878820207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ランズ・エンド, イギリス コーンウォール州 (© Josef FitzGerald-Patrick/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%9C%AC%E5%9C%9F%E6%9C%80%E8%A5%BF%E7%AB%AF+%E3%83%A9%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220241209_1500%22)
 <!-- Bing Wallpaper End -->
