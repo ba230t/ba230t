@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## イギリス本土最西端の地
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CornwallSnow_JA-JP8878820207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ランズ・エンド, イギリス コーンウォール州 (© Josef FitzGerald-Patrick/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E6%9C%AC%E5%9C%9F%E6%9C%80%E8%A5%BF%E7%AB%AF+%E3%83%A9%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220241209_1500%22)
+## 今日は国際山岳デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DolomitesSky_JA-JP9035342357_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[トレ・チーメ・ディ・ラヴァレード, イタリア (© Daniel Maran/Getty Images)](https://www.bing.com/search?q=%E3%83%88%E3%83%AC%E3%83%BB%E3%83%81%E3%83%BC%E3%83%A1%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BB%E3%83%A9%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%BC%E3%83%89&form=hpcapt&filters=HpDate%3a%2220241210_1500%22)
 <!-- Bing Wallpaper End -->
