@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はポインセチアの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WildPoinsettia_JA-JP9224856071_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[クリスマスを象徴する美しい植物 (© David Hosking/NPL/Minden Pictures)](https://www.bing.com/search?q=%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%81%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220241211_1500%22)
+## 賑やかなクリスマスマーケット
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChristmasBudapest_JA-JP6583292404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[聖イシュトヴァーン大聖堂, ハンガリー (© Calin Stan/Shutterstock)](https://www.bing.com/search?q=%E8%81%96%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%88%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%B3%E5%A4%A7%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220241212_1500%22)
 <!-- Bing Wallpaper End -->
