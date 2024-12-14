@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 賑やかなクリスマスマーケット
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChristmasBudapest_JA-JP6583292404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[聖イシュトヴァーン大聖堂, ハンガリー (© Calin Stan/Shutterstock)](https://www.bing.com/search?q=%E8%81%96%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%88%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%B3%E5%A4%A7%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220241212_1500%22)
+## 今日はクリスマス・バード・カウント
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NorthernHawkOwl_JA-JP7268842450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オナガフクロウ, カナダ (© pchoui/Getty Images)](https://www.bing.com/search?q=%E3%82%AA%E3%83%8A%E3%82%AC%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220241213_1500%22)
 <!-- Bing Wallpaper End -->
