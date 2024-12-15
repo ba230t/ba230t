@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はクリスマス・バード・カウント
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NorthernHawkOwl_JA-JP7268842450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オナガフクロウ, カナダ (© pchoui/Getty Images)](https://www.bing.com/search?q=%E3%82%AA%E3%83%8A%E3%82%AC%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220241213_1500%22)
+## 鏡のように壮大な山々を映す湖
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MisurinaLake_JA-JP7561735635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ミズリーナ湖, イタリア (© Marco Bottigelli/Getty Images)](https://www.bing.com/search?q=%E3%83%9F%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%8A%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220241214_1500%22)
 <!-- Bing Wallpaper End -->
