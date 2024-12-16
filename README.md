@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 鏡のように壮大な山々を映す湖
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MisurinaLake_JA-JP7561735635_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ミズリーナ湖, イタリア (© Marco Bottigelli/Getty Images)](https://www.bing.com/search?q=%E3%83%9F%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%8A%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220241214_1500%22)
+## 雪化粧した旧市街
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SalzburgSnow_JA-JP7845943575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ザルツブルク, オーストリア (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B6%E3%83%AB%E3%83%84%E3%83%96%E3%83%AB%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220241215_1500%22)
 <!-- Bing Wallpaper End -->
