@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 雪化粧した旧市街
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SalzburgSnow_JA-JP7845943575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ザルツブルク, オーストリア (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B6%E3%83%AB%E3%83%84%E3%83%96%E3%83%AB%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220241215_1500%22)
+## 赤い木造の漁師小屋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ReinefjordenNorway_JA-JP8145740016_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[美しい村レーヌ, ノルウェー (© Pilat666/Getty Images)](https://www.bing.com/search?q=%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E3%81%AE%E3%83%AC%E3%83%BC%E3%83%8C&form=hpcapt&filters=HpDate%3a%2220241216_1500%22)
 <!-- Bing Wallpaper End -->
