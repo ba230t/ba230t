@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## クリスマスシーズン恒例のバレエ公演
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NutcrackerBallet_JA-JP8484350110_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[くるみ割り人形 (© Caroline Holden/Alamy)](https://www.bing.com/search?q=%E3%83%90%E3%83%AC%E3%82%A8+%E3%81%8F%E3%82%8B%E3%81%BF%E5%89%B2%E3%82%8A%E4%BA%BA%E5%BD%A2&form=hpcapt&filters=HpDate%3a%2220241217_1500%22)
+## 大広場で開かれるクリスマスマーケット
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SibiuRomania_JA-JP9171991249_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[歴史的な都市シビウ, ルーマニア (© Calin Stan/Alamy)](https://www.bing.com/search?q=%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E3%81%AE%E3%82%B7%E3%83%93%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220241218_1500%22)
 <!-- Bing Wallpaper End -->
