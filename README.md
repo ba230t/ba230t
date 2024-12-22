@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は冬至
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BluePond2024_JA-JP2198755551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ライトアップされた青い池, 北海道 美瑛町 (© Sean Pavone/Alamy Stock Photo)](https://www.bing.com/search?q=%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%95%E3%82%8C%E3%81%9F%E9%9D%92%E3%81%84%E6%B1%A0&form=hpcapt&filters=HpDate%3a%2220241220_1500%22)
+## 今日は夫婦の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FestivusCranes_JA-JP9750730538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[釧路湿原のタンチョウ, 北海道 (© Wirestock, Inc./Alamy)](https://www.bing.com/search?q=%E9%87%A7%E8%B7%AF%E6%B9%BF%E5%8E%9F%E3%81%AE%E3%82%BF%E3%83%B3%E3%83%81%E3%83%A7%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220241221_1500%22)
 <!-- Bing Wallpaper End -->
