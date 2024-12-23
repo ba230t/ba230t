@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は夫婦の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FestivusCranes_JA-JP9750730538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[釧路湿原のタンチョウ, 北海道 (© Wirestock, Inc./Alamy)](https://www.bing.com/search?q=%E9%87%A7%E8%B7%AF%E6%B9%BF%E5%8E%9F%E3%81%AE%E3%82%BF%E3%83%B3%E3%83%81%E3%83%A7%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220241221_1500%22)
+## 今日は東京タワー完工の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TokyoTower2024_JA-JP2762394000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[けやき坂のイルミネーション, 東京 (© Kinsei-TGS/Getty Images)](https://www.bing.com/search?q=%E3%81%91%E3%82%84%E3%81%8D%E5%9D%82%E3%81%AE%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220241222_1500%22)
 <!-- Bing Wallpaper End -->
