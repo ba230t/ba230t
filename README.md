@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はクリスマス
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ReindeerTrio_JA-JP0425560339_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[スヴァールバル諸島のトナカイ, ノルウェー (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](https://www.bing.com/search?q=%E3%83%88%E3%83%8A%E3%82%AB%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220241224_1500%22)
+## 今日はボクシング・デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MouseholeXmas_JA-JP0779815955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マウゼル, イングランド (© ianwool/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%82%A6%E3%82%BC%E3%83%AB+%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220241225_1500%22)
 <!-- Bing Wallpaper End -->
