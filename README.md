@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## おとぎ話の世界
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LakeBledSnow_JA-JP5075131023_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ブレッド湖, スロベニア (© Kesu01/Getty Images)](https://www.bing.com/search?q=%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220241226_1500%22)
+## 今日は米国絶滅危惧種保護法制定の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アオウミガメ, フランス (© Damsea/Shutterstock)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AA%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1&form=hpcapt&filters=HpDate%3a%2220241227_1500%22)
 <!-- Bing Wallpaper End -->
