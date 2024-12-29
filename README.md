@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は米国絶滅危惧種保護法制定の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoralTurtle_JA-JP5618879842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アオウミガメ, フランス (© Damsea/Shutterstock)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AA%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1&form=hpcapt&filters=HpDate%3a%2220241227_1500%22)
+## 仏教の世界観を表した寺院
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BorobudurBells_JA-JP5888220367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ボロブドゥール遺跡, インドネシア (© Robertharding/Shutterstock)](https://www.bing.com/search?q=%E3%83%9C%E3%83%AD%E3%83%96%E3%83%89%E3%82%A5%E3%83%BC%E3%83%AB%E9%81%BA%E8%B7%A1&form=hpcapt&filters=HpDate%3a%2220241228_1500%22)
 <!-- Bing Wallpaper End -->
