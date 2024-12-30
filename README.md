@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 仏教の世界観を表した寺院
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BorobudurBells_JA-JP5888220367_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ボロブドゥール遺跡, インドネシア (© Robertharding/Shutterstock)](https://www.bing.com/search?q=%E3%83%9C%E3%83%AD%E3%83%96%E3%83%89%E3%82%A5%E3%83%BC%E3%83%AB%E9%81%BA%E8%B7%A1&form=hpcapt&filters=HpDate%3a%2220241228_1500%22)
+## タスマニア固有のユニークな植物
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MountFieldNP_JA-JP6160592179_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マウントフィールド国立公園, オーストラリア (© Whitworth Images/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220241229_1500%22)
 <!-- Bing Wallpaper End -->
