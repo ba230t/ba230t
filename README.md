@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は元日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[朝日と白髭神社の鳥居, 滋賀県 高島市 (© Cavan Images/Alamy Stock Photo)](https://www.bing.com/search?q=%E6%9C%9D%E6%97%A5%E3%81%A8%E7%99%BD%E9%AB%AD%E7%A5%9E%E7%A4%BE%E3%81%AE%E9%B3%A5%E5%B1%85&form=hpcapt&filters=HpDate%3a%2220241231_1500%22)
+## カラフルな鳥
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PlumParakeet_JA-JP6915629740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[コセイインコ, インド カルナータカ州 (© Hira Punjabi/Alamy)](https://www.bing.com/search?q=%E3%82%B3%E3%82%BB%E3%82%A4%E3%82%A4%E3%83%B3%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220250101_1500%22)
 <!-- Bing Wallpaper End -->
