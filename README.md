@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## カラフルな鳥
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PlumParakeet_JA-JP6915629740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[コセイインコ, インド カルナータカ州 (© Hira Punjabi/Alamy)](https://www.bing.com/search?q=%E3%82%B3%E3%82%BB%E3%82%A4%E3%82%A4%E3%83%B3%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220250101_1500%22)
+## 今日はトールキンの誕生日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TolkienOxford_JA-JP7219183666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オックスフォード大学の図書館, イギリス (© atiger/Shutterstock)](https://www.bing.com/search?q=%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6%E3%81%AE%E5%9B%B3%E6%9B%B8%E9%A4%A8&form=hpcapt&filters=HpDate%3a%2220250102_1500%22)
 <!-- Bing Wallpaper End -->
