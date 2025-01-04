@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はトールキンの誕生日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TolkienOxford_JA-JP7219183666_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オックスフォード大学の図書館, イギリス (© atiger/Shutterstock)](https://www.bing.com/search?q=%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6%E3%81%AE%E5%9B%B3%E6%9B%B8%E9%A4%A8&form=hpcapt&filters=HpDate%3a%2220250102_1500%22)
+## 今日は石の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BouldersNZ_JA-JP7494581439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[丸い巨石が転がる海岸, ニュージーランド (© Douglas Pearson/eStock Photo)](https://www.bing.com/search?q=%E3%83%A2%E3%82%A8%E3%83%A9%E3%82%AD%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA&form=hpcapt&filters=HpDate%3a%2220250103_1500%22)
 <!-- Bing Wallpaper End -->
