@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は石の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BouldersNZ_JA-JP7494581439_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[丸い巨石が転がる海岸, ニュージーランド (© Douglas Pearson/eStock Photo)](https://www.bing.com/search?q=%E3%83%A2%E3%82%A8%E3%83%A9%E3%82%AD%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA&form=hpcapt&filters=HpDate%3a%2220250103_1500%22)
+## 今日は小寒
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ArdezSwitzerland_JA-JP7833129331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アルデッツ村, スイス (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%87%E3%83%83%E3%83%84%E6%9D%91&form=hpcapt&filters=HpDate%3a%2220250104_1500%22)
 <!-- Bing Wallpaper End -->
