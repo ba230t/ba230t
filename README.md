@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は小寒
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ArdezSwitzerland_JA-JP7833129331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アルデッツ村, スイス (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%87%E3%83%83%E3%83%84%E6%9D%91&form=hpcapt&filters=HpDate%3a%2220250104_1500%22)
+## 水没した地下聖堂
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RavennaBasilica_JA-JP8188667597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サン・フランチェスコ聖堂, イタリア (© Andrea Pucci/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E8%81%96%E5%A0%82+%E3%83%A9%E3%83%B4%E3%82%A7%E3%83%B3%E3%83%8A&form=hpcapt&filters=HpDate%3a%2220250105_1500%22)
 <!-- Bing Wallpaper End -->
