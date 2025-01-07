@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 水没した地下聖堂
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RavennaBasilica_JA-JP8188667597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サン・フランチェスコ聖堂, イタリア (© Andrea Pucci/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%B3%E8%81%96%E5%A0%82+%E3%83%A9%E3%83%B4%E3%82%A7%E3%83%B3%E3%83%8A&form=hpcapt&filters=HpDate%3a%2220250105_1500%22)
+## 豊かな自然に囲まれた壮大な滝
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.VietnamFalls_JA-JP8519812125_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[バンゾック滝, ベトナム (© Shane P. White/Minden Pictures)](https://www.bing.com/search?q=%E3%83%90%E3%83%B3%E3%82%BE%E3%83%83%E3%82%AF%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220250106_1500%22)
 <!-- Bing Wallpaper End -->
