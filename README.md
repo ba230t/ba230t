@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 豊かな自然に囲まれた壮大な滝
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.VietnamFalls_JA-JP8519812125_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[バンゾック滝, ベトナム (© Shane P. White/Minden Pictures)](https://www.bing.com/search?q=%E3%83%90%E3%83%B3%E3%82%BE%E3%83%83%E3%82%AF%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220250106_1500%22)
+## 今日は「勝負事の日」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GreatWallStairs_JA-JP2827072518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[雪化粧した万里の長城, 中国 (© View Stock/Alamy)](https://www.bing.com/search?q=%E4%B8%87%E9%87%8C%E3%81%AE%E9%95%B7%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220250107_1500%22)
 <!-- Bing Wallpaper End -->
