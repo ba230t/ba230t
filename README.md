@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「勝負事の日」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GreatWallStairs_JA-JP2827072518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[雪化粧した万里の長城, 中国 (© View Stock/Alamy)](https://www.bing.com/search?q=%E4%B8%87%E9%87%8C%E3%81%AE%E9%95%B7%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220250107_1500%22)
+## 赤く染まる砂丘
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NamibiaDunes_JA-JP9057669220_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ナミブ砂漠, ナミビア (© Airpano/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%83%8A%E3%83%9F%E3%83%96%E7%A0%82%E6%BC%A0&form=hpcapt&filters=HpDate%3a%2220250108_1500%22)
 <!-- Bing Wallpaper End -->
