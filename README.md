@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 赤く染まる砂丘
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NamibiaDunes_JA-JP9057669220_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ナミブ砂漠, ナミビア (© Airpano/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%83%8A%E3%83%9F%E3%83%96%E7%A0%82%E6%BC%A0&form=hpcapt&filters=HpDate%3a%2220250108_1500%22)
+## アイスバブルの聖地
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BubbleLake_JA-JP3345547738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アブラハム湖, カナダ アルバータ州 (© Basic Elements Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%96%E3%83%A9%E3%83%8F%E3%83%A0%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220250109_1500%22)
 <!-- Bing Wallpaper End -->
