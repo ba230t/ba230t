@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 巨大な穀物倉庫
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MeknesMorocco_JA-JP3587132795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[古都メクネス, モロッコ (© Calin Stan/Shutterstock)](https://www.bing.com/search?q=%E5%8F%A4%E9%83%BD%E3%83%A1%E3%82%AF%E3%83%8D%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250110_1500%22)
+## エメラルド色の湖と白い村
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CadizSpain_JA-JP3855173491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サアラ・デ・ラ・シエラ,  スペイン (© SEN LI/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%82%A2%E3%83%A9%E3%83%BB%E3%83%87%E3%83%BB%E3%83%A9%E3%83%BB%E3%82%B7%E3%82%A8%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220250111_1500%22)
 <!-- Bing Wallpaper End -->
