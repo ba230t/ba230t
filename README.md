@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## エメラルド色の湖と白い村
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CadizSpain_JA-JP3855173491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サアラ・デ・ラ・シエラ,  スペイン (© SEN LI/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%82%A2%E3%83%A9%E3%83%BB%E3%83%87%E3%83%BB%E3%83%A9%E3%83%BB%E3%82%B7%E3%82%A8%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220250111_1500%22)
+## 今日はウェールズの新年
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoastalWales_JA-JP4408975920_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[イニス・ランドウィン, ウェールズ (© Westend61 on Offset/Shutterstock)](https://www.bing.com/search?q=%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220250112_1500%22)
 <!-- Bing Wallpaper End -->
