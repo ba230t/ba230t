@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はウェールズの新年
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoastalWales_JA-JP4408975920_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[イニス・ランドウィン, ウェールズ (© Westend61 on Offset/Shutterstock)](https://www.bing.com/search?q=%E3%82%A4%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220250112_1500%22)
+## 今日は小正月
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Mochibana2025_JA-JP8291657654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カラフルな餅花, 愛知県 豊田市 (© Photo taken by Bong Grit/Getty Images)](https://www.bing.com/search?q=%E9%A4%85%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220250114_1500%22)
 <!-- Bing Wallpaper End -->
