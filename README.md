@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は小正月
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Mochibana2025_JA-JP8291657654_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カラフルな餅花, 愛知県 豊田市 (© Photo taken by Bong Grit/Getty Images)](https://www.bing.com/search?q=%E9%A4%85%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220250114_1500%22)
+## 夕日に輝く奇石群
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PinnaclesPeaks_JA-JP8554679211_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ピナクルズ国立公園, 米国 カリフォルニア州 (© yhelfman/Getty Images)](https://www.bing.com/search?q=%E3%83%94%E3%83%8A%E3%82%AF%E3%83%AB%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250115_1500%22)
 <!-- Bing Wallpaper End -->
