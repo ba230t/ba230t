@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 天を突き刺すような山と雪煙
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AssiniboineTS_JA-JP8766031351_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マウント・アシニボイン州立公園, カナダ ブリティッシュコロンビア州 (© Jeff Lewis/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%82%A2%E3%82%B7%E3%83%8B%E3%83%9C%E3%82%A4%E3%83%B3%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250116_1500%22)
+## 雪原のような石膏砂漠
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WhiteSandsNP_JA-JP9246270172_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ホワイトサンズ国立公園, 米国 ニューメキシコ州  (© Image Professionals GmbH/Alamy)](https://www.bing.com/search?q=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B5%E3%83%B3%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250117_1500%22)
 <!-- Bing Wallpaper End -->
