@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 鍾乳石と石筍の世界
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NeptunesGrotto_JA-JP9457027054_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ネプチューンの洞窟, イタリア (© Carlo Murenu/Getty Images)](https://www.bing.com/search?q=%E3%83%8D%E3%83%97%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3%E3%81%AE%E6%B4%9E%E7%AA%9F&form=hpcapt&filters=HpDate%3a%2220250118_1500%22)
+## 今日は「大寒」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Daikan2025_JA-JP9667984098_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[コタンの湯, 北海道 川上郡 (© NitiChuysakul Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%82%BF%E3%83%B3%E3%81%AE%E6%B9%AF&form=hpcapt&filters=HpDate%3a%2220250119_1500%22)
 <!-- Bing Wallpaper End -->
