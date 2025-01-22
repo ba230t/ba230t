@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は米国の「リス感謝デー」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DutchSquirrel_JA-JP6210839377_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[キタリスとキノコ, オランダ (© Edwin Giesbers/Minden Pictures)](https://www.bing.com/search?q=%E3%82%AD%E3%82%BF%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250120_1500%22)
+## バラ色に染まる古代都市
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PetraMonastery_JA-JP0333984762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ペトラ, ヨルダン (© Punnawit Suwuttananun/Getty Images)](https://www.bing.com/search?q=%E3%83%9A%E3%83%88%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220250121_1500%22)
 <!-- Bing Wallpaper End -->
