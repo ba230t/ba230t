@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日からサンダンス映画祭
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DeerValley_JA-JP0604255662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[雪化粧したパークシティ, 米国 ユタ州 (© Adventure_Photo/Getty Images)](https://www.bing.com/search?q=%E3%83%A6%E3%82%BF%E5%B7%9E%E3%81%AE%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%86%E3%82%A3&form=hpcapt&filters=HpDate%3a%2220250122_1500%22)
+## 地球の息吹を感じる場所
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IcelandGeyser_JA-JP3899461242_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ストロックル間欠泉, アイスランド (© John and Tina Reid/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%83%88%E3%83%AD%E3%83%83%E3%82%AF%E3%83%AB%E9%96%93%E6%AC%A0%E6%B3%89&form=hpcapt&filters=HpDate%3a%2220250123_1500%22)
 <!-- Bing Wallpaper End -->
