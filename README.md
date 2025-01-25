@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 地球の息吹を感じる場所
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.IcelandGeyser_JA-JP3899461242_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ストロックル間欠泉, アイスランド (© John and Tina Reid/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%83%88%E3%83%AD%E3%83%83%E3%82%AF%E3%83%AB%E9%96%93%E6%AC%A0%E6%B3%89&form=hpcapt&filters=HpDate%3a%2220250123_1500%22)
+## ドウロ川の夕暮れ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PortoSunset_JA-JP4070269520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ポルト, ポルトガル (© Starcevic/Getty Images)](https://www.bing.com/search?q=%E3%83%9D%E3%83%AB%E3%83%88&form=hpcapt&filters=HpDate%3a%2220250124_1500%22)
 <!-- Bing Wallpaper End -->
