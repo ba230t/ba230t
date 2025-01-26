@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ドウロ川の夕暮れ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PortoSunset_JA-JP4070269520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ポルト, ポルトガル (© Starcevic/Getty Images)](https://www.bing.com/search?q=%E3%83%9D%E3%83%AB%E3%83%88&form=hpcapt&filters=HpDate%3a%2220250124_1500%22)
+## 見渡す限りの銀世界
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FrostedBeech_JA-JP4239876315_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[霧氷のブナ林, ベルギー (© Philippe Moes/Minden Pictures)](https://www.bing.com/search?q=%E9%9C%A7%E6%B0%B7%E3%81%AE%E3%83%96%E3%83%8A%E6%9E%97&form=hpcapt&filters=HpDate%3a%2220250125_1500%22)
 <!-- Bing Wallpaper End -->
