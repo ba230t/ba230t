@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 見渡す限りの銀世界
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FrostedBeech_JA-JP4239876315_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[霧氷のブナ林, ベルギー (© Philippe Moes/Minden Pictures)](https://www.bing.com/search?q=%E9%9C%A7%E6%B0%B7%E3%81%AE%E3%83%96%E3%83%8A%E6%9E%97&form=hpcapt&filters=HpDate%3a%2220250125_1500%22)
+## 時の流れが刻んだ奇跡の大地
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CanyonSnow_JA-JP4445810449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グランド・キャニオン国立公園, 米国 アリゾナ州 (© Nick Lake/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%8B%E3%82%AA%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250126_1500%22)
 <!-- Bing Wallpaper End -->
