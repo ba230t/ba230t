@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 狩りの名手
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FlyingOwl_JA-JP5099744024_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[吹雪の中を飛ぶコミミズク (© Dilshan Muthalib/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%83%9F%E3%83%9F%E3%82%BA%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220250127_1500%22)
+## 今日は中国の春節
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LunarDragon_JA-JP5285145740_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[鉄の花の中で舞う龍舞, 中国 湖北省 (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)](https://www.bing.com/search?q=%E6%89%93%E6%A8%B9%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220250128_1500%22)
 <!-- Bing Wallpaper End -->
