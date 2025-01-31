@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ローランの裂け目
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OrdesaSpain_JA-JP5528658967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オルデサ・イ・モンテ・ペルディード国立公園, スペイン (© Inaki Relanzon/Nature Picture Library/Alamy)](https://www.bing.com/search?q=%E3%82%AA%E3%83%AB%E3%83%87%E3%82%B5%E3%83%BB%E3%82%A4%E3%83%BB%E3%83%A2%E3%83%B3%E3%83%86%E3%83%BB%E3%83%9A%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250129_1500%22)
+## 今日は国際シマウマの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PlainsZebra_JA-JP5699662720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[モカラ国立公園, 南アフリカ (© EcoPrint/Shutterstock)](https://www.bing.com/search?q=%E3%83%A2%E3%82%AB%E3%83%A9%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250130_1500%22)
 <!-- Bing Wallpaper End -->
