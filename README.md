@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 「神の手」に支えられた橋
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GoldenBridge_JA-JP5870058784_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ゴールデンブリッジ, ベトナム (© Hien Phung Thu/Shutterstock)](https://www.bing.com/search?q=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8+%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0&form=hpcapt&filters=HpDate%3a%2220250131_1500%22)
+## 今日はグラウンドホッグデー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AustriaMarmot_JA-JP6210470300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アルプスマーモット, 米国 ペンシルバニア州 (© Jonas Fichtner-Pflaum/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%9B%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250201_1500%22)
 <!-- Bing Wallpaper End -->
