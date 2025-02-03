@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はグラウンドホッグデー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AustriaMarmot_JA-JP6210470300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アルプスマーモット, 米国 ペンシルバニア州 (© Jonas Fichtner-Pflaum/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%9B%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250201_1500%22)
+## 今日は立春
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Risshun2025_JA-JP6529014440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[梅の花で吸蜜するメジロ (© yankane/shutterstock)](https://www.bing.com/search?q=%E6%A2%85%E3%81%AE%E8%8A%B1%E3%81%A8%E3%83%A1%E3%82%B8%E3%83%AD&form=hpcapt&filters=HpDate%3a%2220250202_1500%22)
 <!-- Bing Wallpaper End -->
