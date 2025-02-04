@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は立春
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Risshun2025_JA-JP6529014440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[梅の花で吸蜜するメジロ (© yankane/shutterstock)](https://www.bing.com/search?q=%E6%A2%85%E3%81%AE%E8%8A%B1%E3%81%A8%E3%83%A1%E3%82%B8%E3%83%AD&form=hpcapt&filters=HpDate%3a%2220250202_1500%22)
+## 今日からさっぽろ雪まつり
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YukiMatsuri2025_JA-JP6765872006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[犬山城の大雪像, 北海道 札幌市 (© Randy Green/Alamy Stock Photo)](https://www.bing.com/search?q=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220250203_1500%22)
 <!-- Bing Wallpaper End -->
