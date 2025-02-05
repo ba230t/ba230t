@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日からさっぽろ雪まつり
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YukiMatsuri2025_JA-JP6765872006_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[犬山城の大雪像, 北海道 札幌市 (© Randy Green/Alamy Stock Photo)](https://www.bing.com/search?q=%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E9%9B%AA%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220250203_1500%22)
+## 黒い顔の羊
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ScottishSheep_JA-JP7061956700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ブラックフェース, スコットランド  (© Mike Powles/Getty Images)](https://www.bing.com/search?q=%E7%BE%8A%E3%81%AE%E5%93%81%E7%A8%AE+%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250204_1500%22)
 <!-- Bing Wallpaper End -->
