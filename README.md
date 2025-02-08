@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 濃い青色に染まる街
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BlueNorway_JA-JP1977029810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[トロンハイム, ノルウェー (© Jeanny Mueller/Getty Images)](https://www.bing.com/search?q=%E3%83%88%E3%83%AD%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%A0&form=hpcapt&filters=HpDate%3a%2220250206_1500%22)
+## 塔が立ち並ぶ町
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SnowySvaneti_JA-JP2274619860_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[メスティア, ジョージア スヴァネティ (© photoaliona/Getty Images)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%81%AE%E3%83%A1%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250207_1500%22)
 <!-- Bing Wallpaper End -->
