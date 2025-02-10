@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## パウエル湖を望む絶景ポイント
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AlstromPoint_JA-JP2498220831_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アルストロムポイント, 米国ユタ州 (© T.M. Schultze/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AD%E3%83%A0%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88&form=hpcapt&filters=HpDate%3a%2220250208_1500%22)
+## カラフルな傘が広がる「アンブレラスカイ」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.UmbrellaDay_JA-JP2687142465_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[バラマーケット, イギリス ロンドン (© Malcolm P Chapman/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%83%A9%E3%82%B9%E3%82%AB%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220250209_1500%22)
 <!-- Bing Wallpaper End -->
