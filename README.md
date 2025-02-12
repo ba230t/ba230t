@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日から水戸の梅まつり
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KairakuUme2025_JA-JP3144342607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[春の訪れを告げる梅の花, 茨城県 水戸市 (© dekitateyo/shutterstock)](https://www.bing.com/search?q=%E6%B0%B4%E6%88%B8%E3%81%AE%E6%A2%85%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220250210_1500%22)
+## 今日はダーウィンの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PolarBearSwim_JA-JP3305613182_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ホッキョクグマ  (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/search?q=%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E+&form=hpcapt&filters=HpDate%3a%2220250211_1500%22)
 <!-- Bing Wallpaper End -->
