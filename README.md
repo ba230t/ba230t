@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はダーウィンの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PolarBearSwim_JA-JP3305613182_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ホッキョクグマ  (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/search?q=%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E+&form=hpcapt&filters=HpDate%3a%2220250211_1500%22)
+## 雪のように白く輝く塩湖
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LakeTyrrell_JA-JP3510337163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ティレル湖, オーストラリア ビクトリア州 (© Monica Bertolazzi/Getty Images)](https://www.bing.com/search?q=%E3%83%86%E3%82%A3%E3%83%AC%E3%83%AB%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220250212_1500%22)
 <!-- Bing Wallpaper End -->
