@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 雪のように白く輝く塩湖
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LakeTyrrell_JA-JP3510337163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ティレル湖, オーストラリア ビクトリア州 (© Monica Bertolazzi/Getty Images)](https://www.bing.com/search?q=%E3%83%86%E3%82%A3%E3%83%AC%E3%83%AB%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220250212_1500%22)
+## 今日はバレンタインデー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PenguinLove_JA-JP3730970592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マゼランペンギンのペア, イギリス (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%82%BC%E3%83%A9%E3%83%B3%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%81%AE%E3%83%9A%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250213_1500%22)
 <!-- Bing Wallpaper End -->
