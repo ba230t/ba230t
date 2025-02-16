@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ライトアップされた幻想的な氷柱
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Misotsuchi2025_JA-JP3931043311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[三十槌の氷柱, 埼玉県 秩父市 (© watayu0821/Shutterstock)](https://www.bing.com/search?q=%E4%B8%89%E5%8D%81%E6%A7%8C%E3%81%AE%E6%B0%B7%E6%9F%B1&form=hpcapt&filters=HpDate%3a%2220250214_1500%22)
+## 今日は「ワールド・ホエール・デイ」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HumpbackMother_JA-JP4098515390_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ザトウクジラの親子, トンガ (© Chase Dekker/Minden Pictures)](https://www.bing.com/search?q=%E3%82%B6%E3%83%88%E3%82%A6%E3%82%AF%E3%82%B8%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220250215_1500%22)
 <!-- Bing Wallpaper End -->
