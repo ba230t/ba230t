@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 岩壁に彫られた巨大な仏像
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YungangGrottoes_JA-JP4266553262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[雲崗石窟, 中国 山西省 (© Eric Yang/Getty Images)](https://www.bing.com/search?q=%E9%9B%B2%E5%B4%97%E7%9F%B3%E7%AA%9F&form=hpcapt&filters=HpDate%3a%2220250216_1500%22)
+## カリブ海の宝石
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BlueBelize_JA-JP4446467431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グレート・ブルーホール, ベリーズ (© JamiesOnAMission/Shutterstock)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250217_1500%22)
 <!-- Bing Wallpaper End -->
