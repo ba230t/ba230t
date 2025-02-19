@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## カリブ海の宝石
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BlueBelize_JA-JP4446467431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グレート・ブルーホール, ベリーズ (© JamiesOnAMission/Shutterstock)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250217_1500%22)
+## 可愛い水中ダンサー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IceHoleOtter_JA-JP4600805047_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ユーラシアカワウソ, オランダ (© Ernst Dirksen/Minden Pictures)](https://www.bing.com/search?q=%E3%83%A6%E3%83%BC%E3%83%A9%E3%82%B7%E3%82%A2%E3%82%AB%E3%83%AF%E3%82%A6%E3%82%BD&form=hpcapt&filters=HpDate%3a%2220250218_1500%22)
 <!-- Bing Wallpaper End -->
