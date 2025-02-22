@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 魅力的な古代の水槽
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChampakaSarasi_JA-JP0008600806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[チャンパカ・サラシール, インド カルナータカ州 (© Amith Nag Photography/Getty Images)](https://www.bing.com/search?q=Champaka+Sarasi+pond+&form=hpcapt&filters=HpDate%3a%2220250220_1500%22)
+## 西部開拓の記念モニュメント
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.StLouisArch_JA-JP0218152600_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ゲートウェイ・アーチ, 米国 ミズーリ州 (© f11photo/Getty Images)](https://www.bing.com/search?q=%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220250221_1500%22)
 <!-- Bing Wallpaper End -->
