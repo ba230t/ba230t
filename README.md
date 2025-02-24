@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「富士山の日」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MtFujiSunrise_JA-JP0451320828_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[河口湖からの富士山, 山梨県 南都留郡 (© Twenty47studio/Getty Images)](https://www.bing.com/search?q=%E6%B2%B3%E5%8F%A3%E6%B9%96%E3%81%8B%E3%82%89%E3%81%AE%E5%AF%8C%E5%A3%AB%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220250222_1500%22)
+## 歴史的な鉄道橋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RibbleheadViaduct_JA-JP0769503543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[リブルヘッド高架橋, イングランド ノース・ヨークシャー (© AWL Images/DanitaDelimont.com)](https://www.bing.com/search?q=%E3%83%AA%E3%83%96%E3%83%AB%E3%83%98%E3%83%83%E3%83%89%E9%AB%98%E6%9E%B6%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220250223_1500%22)
 <!-- Bing Wallpaper End -->
