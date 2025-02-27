@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 海の小島に佇む中世のお城
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ArgyllStalker_JA-JP1121064297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ストーカー城, スコットランド (© WLDavies/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AB%E3%83%BC%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220250225_1500%22)
+## 今日は国際ホッキョクグマの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PolarCub_JA-JP1257956041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[雪の中のホッキョクグマの子, カナダ マニトバ州 (© Eric Baccega/NPL/Minden Pictures)](https://www.bing.com/search?q=%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%81%AE%E5%AD%90&form=hpcapt&filters=HpDate%3a%2220250226_1500%22)
 <!-- Bing Wallpaper End -->
