@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際ホッキョクグマの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PolarCub_JA-JP1257956041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[雪の中のホッキョクグマの子, カナダ マニトバ州 (© Eric Baccega/NPL/Minden Pictures)](https://www.bing.com/search?q=%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%81%AE%E5%AD%90&form=hpcapt&filters=HpDate%3a%2220250226_1500%22)
+## 今日はチベットの正月「ロサル」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[タクツァン僧院, ブータン (© Baron Reznik/Getty Images)](https://www.bing.com/search?q=%E3%82%BF%E3%82%AF%E3%83%84%E3%82%A1%E3%83%B3%E5%83%A7%E9%99%A2&form=hpcapt&filters=HpDate%3a%2220250227_1500%22)
 <!-- Bing Wallpaper End -->
