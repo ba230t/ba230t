@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はチベットの正月「ロサル」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[タクツァン僧院, ブータン (© Baron Reznik/Getty Images)](https://www.bing.com/search?q=%E3%82%BF%E3%82%AF%E3%83%84%E3%82%A1%E3%83%B3%E5%83%A7%E9%99%A2&form=hpcapt&filters=HpDate%3a%2220250227_1500%22)
+## ユーカリの木が織りなす絶景
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ブルー・マウンテンズ国立公園, オーストラリア ニューサウスウェールズ州 (© Andrew Peacock/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250228_1500%22)
 <!-- Bing Wallpaper End -->
