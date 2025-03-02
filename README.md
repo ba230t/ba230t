@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ユーカリの木が織りなす絶景
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ブルー・マウンテンズ国立公園, オーストラリア ニューサウスウェールズ州 (© Andrew Peacock/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250228_1500%22)
+## 明日は世界野生生物の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HornbillPair_JA-JP1960738768_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ミナミキバシコサイチョウ, 南アフリカ (© Richard Du Toit/Minden Pictures)](https://www.bing.com/search?q=%E3%83%9F%E3%83%8A%E3%83%9F%E3%82%AD%E3%83%90%E3%82%B7%E3%82%B3%E3%82%B5%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220250301_1500%22)
 <!-- Bing Wallpaper End -->
