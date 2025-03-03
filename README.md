@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 明日は世界野生生物の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HornbillPair_JA-JP1960738768_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ミナミキバシコサイチョウ, 南アフリカ (© Richard Du Toit/Minden Pictures)](https://www.bing.com/search?q=%E3%83%9F%E3%83%8A%E3%83%9F%E3%82%AD%E3%83%90%E3%82%B7%E3%82%B3%E3%82%B5%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220250301_1500%22)
+## 今日はひな祭り
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Hinamatsuri2025_JA-JP2146557406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[かぐやびな, 兵庫県 上郡町 (© Buddhika Weerasinghe/特派員/Getty Images)](https://www.bing.com/search?q=%E3%81%8B%E3%81%90%E3%82%84%E3%81%B3%E3%81%AA&form=hpcapt&filters=HpDate%3a%2220250302_1500%22)
 <!-- Bing Wallpaper End -->
