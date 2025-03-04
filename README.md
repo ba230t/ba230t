@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はひな祭り
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Hinamatsuri2025_JA-JP2146557406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[かぐやびな, 兵庫県 上郡町 (© Buddhika Weerasinghe/特派員/Getty Images)](https://www.bing.com/search?q=%E3%81%8B%E3%81%90%E3%82%84%E3%81%B3%E3%81%AA&form=hpcapt&filters=HpDate%3a%2220250302_1500%22)
+## 今日はマルディグラ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MardiGrasJackson_JA-JP2336854900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ジャクソン・スクウェア, 米国 ルイジアナ州 (© SeanPavonePhoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%AF%E3%82%A6%E3%82%A7%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250303_1500%22)
 <!-- Bing Wallpaper End -->
