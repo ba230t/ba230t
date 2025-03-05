@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はマルディグラ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MardiGrasJackson_JA-JP2336854900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ジャクソン・スクウェア, 米国 ルイジアナ州 (© SeanPavonePhoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%AF%E3%82%A6%E3%82%A7%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250303_1500%22)
+## 美しい熱帯雨林に囲まれた青い湖
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SuratThani_JA-JP0039497594_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カオソック国立公園, タイ (© Peetatham Kongkapech/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%82%AA%E3%82%BD%E3%83%83%E3%82%AF%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250304_1500%22)
 <!-- Bing Wallpaper End -->
