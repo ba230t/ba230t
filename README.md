@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 美しい熱帯雨林に囲まれた青い湖
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SuratThani_JA-JP0039497594_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カオソック国立公園, タイ (© Peetatham Kongkapech/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%82%AA%E3%82%BD%E3%83%83%E3%82%AF%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250304_1500%22)
+## 岩の上に立つ砂漠オオツノヒツジ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NevadaBigHorns_JA-JP0367669044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[バレー・オブ・ファイヤー州立公園, 米国 ネバダ州 (© Rachid Dahnoun/Cavan Images)](https://www.bing.com/search?q=%E3%83%90%E3%83%AC%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250305_1500%22)
 <!-- Bing Wallpaper End -->
