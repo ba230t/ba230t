@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 寒さの中に凛とした姿で咲く花
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PlumBlossom_JA-JP3242294823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[梅の花, 中国 (© zhikun sun/Getty Images)](https://www.bing.com/search?q=%E6%98%A5%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B%E6%A2%85%E3%81%AE%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220250306_1500%22)
+## 今日は国際女性デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FearlessWomen_JA-JP3446140149_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[恐れを知らぬ少女, 米国 ニューヨーク州 (© JOHANNES EISELE/AFP via Getty Images)](https://www.bing.com/search?q=%E6%81%90%E3%82%8C%E3%82%92%E7%9F%A5%E3%82%89%E3%81%AC%E5%B0%91%E5%A5%B3&form=hpcapt&filters=HpDate%3a%2220250307_1500%22)
 <!-- Bing Wallpaper End -->
