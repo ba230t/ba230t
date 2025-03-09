@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際女性デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FearlessWomen_JA-JP3446140149_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[恐れを知らぬ少女, 米国 ニューヨーク州 (© JOHANNES EISELE/AFP via Getty Images)](https://www.bing.com/search?q=%E6%81%90%E3%82%8C%E3%82%92%E7%9F%A5%E3%82%89%E3%81%AC%E5%B0%91%E5%A5%B3&form=hpcapt&filters=HpDate%3a%2220250307_1500%22)
+## 米国では今日から夏時間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ItalyClock_JA-JP3693788365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サン・マルコ時計塔, イタリア (© scaliger/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%B3%E6%99%82%E8%A8%88%E5%A1%94&form=hpcapt&filters=HpDate%3a%2220250308_1500%22)
 <!-- Bing Wallpaper End -->
