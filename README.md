@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 米国では今日から夏時間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ItalyClock_JA-JP3693788365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サン・マルコ時計塔, イタリア (© scaliger/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%B3%E6%99%82%E8%A8%88%E5%A1%94&form=hpcapt&filters=HpDate%3a%2220250308_1500%22)
+## 明日はパンダ発見の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PandaSnow_JA-JP3991253092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[パンダの赤ちゃん, 中国 (© Cheryl Schneider/Alamy)](https://www.bing.com/search?q=%E3%83%91%E3%83%B3%E3%83%80%E3%81%AE%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93&form=hpcapt&filters=HpDate%3a%2220250309_1500%22)
 <!-- Bing Wallpaper End -->
