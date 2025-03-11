@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 明日はパンダ発見の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PandaSnow_JA-JP3991253092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[パンダの赤ちゃん, 中国 (© Cheryl Schneider/Alamy)](https://www.bing.com/search?q=%E3%83%91%E3%83%B3%E3%83%80%E3%81%AE%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93&form=hpcapt&filters=HpDate%3a%2220250309_1500%22)
+## 東日本大震災から 14 年
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TohokuEarthquake2025_JA-JP8965651144_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[追悼イベントの灯籠, 宮城県 名取市 (© Kuni Takahashi/寄稿者/Getty Images)](https://www.bing.com/search?q=%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E3%81%8B%E3%82%89+14+%E5%B9%B4&form=hpcapt&filters=HpDate%3a%2220250310_1500%22)
 <!-- Bing Wallpaper End -->
