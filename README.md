@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 高くそびえ立つ赤い岩山
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SedonaSpring_JA-JP0072901423_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[セドナ, 米国 アリゾナ州 (© Jim Ekstrand/Alamy)](https://www.bing.com/search?q=%E3%82%BB%E3%83%89%E3%83%8A&form=hpcapt&filters=HpDate%3a%2220250317_1500%22)
+## 捕食中のクロコサギ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BlackHeron_JA-JP0377876469_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[チョベ国立公園 , ボツワナ (© Paul Souders/Minden Pictures)](https://www.bing.com/search?q=%E3%82%AF%E3%83%AD%E3%82%B3%E3%82%B5%E3%82%AE&form=hpcapt&filters=HpDate%3a%2220250318_1500%22)
 <!-- Bing Wallpaper End -->
