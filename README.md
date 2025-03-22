@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際森林デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DanumValley_JA-JP9471621232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ダヌムバレー保護地域, マレーシア サバ州 (© Nick Garbutt/Alamy)](https://www.bing.com/search?q=%E3%83%80%E3%83%8C%E3%83%A0%E3%83%90%E3%83%AC%E3%83%BC%E4%BF%9D%E8%AD%B7%E5%9C%B0%E5%9F%9F%2c+%E3%82%B5%E3%83%90%E5%B7%9E%2c+%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2+&form=hpcapt&filters=HpDate%3a%2220250320_1500%22)
+## 今日は世界水の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CenoteLilies_JA-JP9666252322_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[セノーテの水面に咲く睡蓮, メキシコ (© Franco Banfi/NPL/Minden Pictures)](https://www.bing.com/search?q=%E3%82%BB%E3%83%8E%E3%83%BC%E3%83%86%2c+%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220250321_1500%22)
 <!-- Bing Wallpaper End -->
