@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界水の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CenoteLilies_JA-JP9666252322_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[セノーテの水面に咲く睡蓮, メキシコ (© Franco Banfi/NPL/Minden Pictures)](https://www.bing.com/search?q=%E3%82%BB%E3%83%8E%E3%83%BC%E3%83%86%2c+%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220250321_1500%22)
+## 今日は世界気象デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NebraskaStorm_JA-JP9880301157_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アンビルクローラー, 米国 ネブラスカ州 (© john finney photography/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%93%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2c+%E3%83%8D%E3%83%96%E3%83%A9%E3%82%B9%E3%82%AB%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250322_1500%22)
 <!-- Bing Wallpaper End -->
