@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界気象デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NebraskaStorm_JA-JP9880301157_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アンビルクローラー, 米国 ネブラスカ州 (© john finney photography/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%93%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%2c+%E3%83%8D%E3%83%96%E3%83%A9%E3%82%B9%E3%82%AB%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250322_1500%22)
+## 砂漠の過酷な環境に適応したゾウ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ElephantGrass_JA-JP0063384057_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[砂漠ゾウの親子, ナミビア (© Christophe Courteau/Minden Pictures)](https://www.bing.com/search?q=%E7%A0%82%E6%BC%A0%E3%82%92%E7%94%9F%E3%81%8D%E3%82%8B%E3%82%BE%E3%82%A6%2c+%E3%83%8A%E3%83%9F%E3%83%93%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250323_1500%22)
 <!-- Bing Wallpaper End -->
