@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はトールキン読書の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HobbitHole_JA-JP0242283883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ホビット穴, ニュージーランド (© Kim Petersen/Alamy)](https://www.bing.com/search?q=%E3%83%9B%E3%83%93%E3%83%83%E3%83%88%E6%9D%91%2c+%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220250324_1500%22)
+## 今日はマナティー感謝の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CrystalManatee_JA-JP0403735948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[クリスタルリバーのマナティー, 米国 フロリダ州 (© Stephen Frink/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E5%9E%8B%E5%93%BA%E4%B9%B3%E9%A1%9E%E3%83%9E%E3%83%8A%E3%83%86%E3%82%A3%E3%83%BC%2c+%E3%83%95%E3%83%AD%E3%83%AA%E3%83%80%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250325_1500%22)
 <!-- Bing Wallpaper End -->
