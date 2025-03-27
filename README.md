@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はマナティー感謝の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CrystalManatee_JA-JP0403735948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[クリスタルリバーのマナティー, 米国 フロリダ州 (© Stephen Frink/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E5%9E%8B%E5%93%BA%E4%B9%B3%E9%A1%9E%E3%83%9E%E3%83%8A%E3%83%86%E3%82%A3%E3%83%BC%2c+%E3%83%95%E3%83%AD%E3%83%AA%E3%83%80%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250325_1500%22)
+## 今日は世界演劇の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.OdeonAthens_JA-JP0554447843_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヘロディス・アッティコス音楽堂, ギリシャ、アテネ (© f11photo/Getty Images)](https://www.bing.com/search?q=%E3%83%98%E3%83%AD%E3%83%87%E3%82%A3%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%83%E3%83%86%E3%82%A3%E3%82%B3%E3%82%B9%E9%9F%B3%E6%A5%BD%E5%A0%82%2c+%E3%82%A2%E3%83%86%E3%83%8D%2c+%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3&form=hpcapt&filters=HpDate%3a%2220250326_1500%22)
 <!-- Bing Wallpaper End -->
