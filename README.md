@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界演劇の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OdeonAthens_JA-JP0554447843_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヘロディス・アッティコス音楽堂, ギリシャ、アテネ (© f11photo/Getty Images)](https://www.bing.com/search?q=%E3%83%98%E3%83%AD%E3%83%87%E3%82%A3%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%83%E3%83%86%E3%82%A3%E3%82%B3%E3%82%B9%E9%9F%B3%E6%A5%BD%E5%A0%82%2c+%E3%82%A2%E3%83%86%E3%83%8D%2c+%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3&form=hpcapt&filters=HpDate%3a%2220250326_1500%22)
+## 小さくてかわいい青色の鳥
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NestingMonarch_JA-JP0784290288_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[クロエリヒタキのメス (© komkrit tonusin/Alamy)](https://www.bing.com/search?q=%E3%82%AF%E3%83%AD%E3%82%A8%E3%83%AA%E3%83%92%E3%82%BF%E3%82%AD&form=hpcapt&filters=HpDate%3a%2220250327_1500%22)
 <!-- Bing Wallpaper End -->
