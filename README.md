@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 丘の上に建つ白い町
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ItalyOstuni_JA-JP1339145959_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[夕暮れのオストゥーニ, イタリア プッリャ州 (© Feng Wei Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%AA%E3%82%B9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%8B%2c+%E3%83%97%E3%83%83%E3%83%AA%E3%83%A3%E5%B7%9E%2c+%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2+&form=hpcapt&filters=HpDate%3a%2220250330_1500%22)
+## 今日は年度初日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CherryBlossom2025_JA-JP1573820444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[奈良公園, 奈良県 奈良市 (© AaronChenPS2/Shutterstock)](https://www.bing.com/search?q=%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92%E3%81%AE%E6%A1%9C%2c+%E5%A5%88%E8%89%AF%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220250331_1500%22)
 <!-- Bing Wallpaper End -->
