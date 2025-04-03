@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 苗を植える早乙女手代
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Sawara2025_JA-JP1817975477_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[香取神宮の田植え祭, 千葉県 香取市 (© Junko Kimura/特派員/Getty Images)](https://www.bing.com/search?q=%E9%A6%99%E5%8F%96%E7%A5%9E%E5%AE%AE%E3%81%AE%E7%94%B0%E6%A4%8D%E3%81%88%E7%A5%AD%2c+%E9%A6%99%E5%8F%96%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220250401_1500%22)
+## 荒々しい岩山が広がる不毛の地
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.UtahBadlands_JA-JP2147654788_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[バッドランド, 米国 ユタ州 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%83%90%E3%83%83%E3%83%89%E3%83%A9%E3%83%B3%E3%83%89%2c+%E3%83%A6%E3%82%BF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250402_1500%22)
 <!-- Bing Wallpaper End -->
