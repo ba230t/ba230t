@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 荒々しい岩山が広がる不毛の地
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.UtahBadlands_JA-JP2147654788_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[バッドランド, 米国 ユタ州 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%83%90%E3%83%83%E3%83%89%E3%83%A9%E3%83%B3%E3%83%89%2c+%E3%83%A6%E3%82%BF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250402_1500%22)
+## 今日は清明
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Qingming2025_JA-JP2915866958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[首里城の守礼門, 沖縄県 那覇市 (© Richie Chan/Shutterstock)](https://www.bing.com/search?q=%E9%A6%96%E9%87%8C%E5%9F%8E%E3%81%AE%E5%AE%88%E7%A4%BC%E9%96%80%2c+%E9%82%A3%E8%A6%87%E5%B8%82%2c+%E6%B2%96%E7%B8%84%E7%9C%8C+&form=hpcapt&filters=HpDate%3a%2220250403_1500%22)
 <!-- Bing Wallpaper End -->
