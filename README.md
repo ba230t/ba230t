@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 島に建つ小さな礼拝堂
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GaztelugatxeSunset_JA-JP3147357176_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[夕暮れのガステルガチェ, スペイン バスク州 (© Eloi_Omella/Getty Images)](https://www.bing.com/search?q=%E3%82%AC%E3%82%B9%E3%83%86%E3%83%AB%E3%82%AC%E3%83%81%E3%82%A7%2c+%E3%83%90%E3%82%B9%E3%82%AF%E5%B7%9E%2c+%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3+&form=hpcapt&filters=HpDate%3a%2220250404_1500%22)
+## 今日は城の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CastleDay2025_JA-JP3325548053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[姫路城, 兵庫県 姫路市 (© Sean Pavone/Alamy Stock Photo)](https://www.bing.com/search?q=%E5%A7%AB%E8%B7%AF%E5%9F%8E%2c+%E5%A7%AB%E8%B7%AF%E5%B8%82%2c+%E5%85%B5%E5%BA%AB%E7%9C%8C+&form=hpcapt&filters=HpDate%3a%2220250405_1500%22)
 <!-- Bing Wallpaper End -->
