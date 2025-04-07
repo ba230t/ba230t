@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は城の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CastleDay2025_JA-JP3325548053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[姫路城, 兵庫県 姫路市 (© Sean Pavone/Alamy Stock Photo)](https://www.bing.com/search?q=%E5%A7%AB%E8%B7%AF%E5%9F%8E%2c+%E5%A7%AB%E8%B7%AF%E5%B8%82%2c+%E5%85%B5%E5%BA%AB%E7%9C%8C+&form=hpcapt&filters=HpDate%3a%2220250405_1500%22)
+## 今日は国際ビーバーデー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BeaverDay_JA-JP3508921078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アメリカビーバー, 米国 ワイオミング州 (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%93%E3%83%BC%E3%83%90%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250406_1500%22)
 <!-- Bing Wallpaper End -->
