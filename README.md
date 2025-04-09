@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はパロ・ツェチュ祭
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ParoTsechu_JA-JP3717839940_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[民族衣装をまとった女性たち, ブータン (© Richard I'Anson/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%AD%E3%83%BB%E3%83%84%E3%82%A7%E3%83%81%E3%83%A5%E7%A5%AD%2c+%E3%83%96%E3%83%BC%E3%82%BF%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220250407_1500%22)
+## ギリシャ神話に登場する伝説の島
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BlueNaxos_JA-JP3919761085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ナクソス島, ギリシャ (© Sizun Eye/Getty Images)](https://www.bing.com/search?q=%E3%83%8A%E3%82%AF%E3%82%BD%E3%82%B9%E5%B3%B6%2c+%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3&form=hpcapt&filters=HpDate%3a%2220250408_1500%22)
 <!-- Bing Wallpaper End -->
