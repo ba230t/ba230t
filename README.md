@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ギリシャ神話に登場する伝説の島
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BlueNaxos_JA-JP3919761085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ナクソス島, ギリシャ (© Sizun Eye/Getty Images)](https://www.bing.com/search?q=%E3%83%8A%E3%82%AF%E3%82%BD%E3%82%B9%E5%B3%B6%2c+%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3&form=hpcapt&filters=HpDate%3a%2220250408_1500%22)
+## 今日は兄弟姉妹の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LittleFoxes_JA-JP4068111842_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[巣穴の近くにいる子ギツネたち (© WildMedia/Shutterstock)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%82%AE%E3%83%84%E3%83%8D&form=hpcapt&filters=HpDate%3a%2220250409_1500%22)
 <!-- Bing Wallpaper End -->
