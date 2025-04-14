@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はタイの旧正月
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThailandPagodas_JA-JP4544592836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ワット・タン・サイ寺院, タイ (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/search?q=%E3%83%AF%E3%83%83%E3%83%88%E3%83%BB%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%B5%E3%82%A4%E5%AF%BA%E9%99%A2%2c+%E3%82%BF%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220250412_1500%22)
+## 今日は春の山王祭
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TakayamaFestival2025_JA-JP4780504174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[精巧なからくり人形, 岐阜県 高山市 (© N. F. Photography/Shutterstock)](https://www.bing.com/search?q=%E9%AB%98%E5%B1%B1%E7%A5%AD%E3%81%AE%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E5%A5%89%E7%B4%8D%2c+%E9%AB%98%E5%B1%B1%E5%B8%82%2c+%E5%B2%90%E9%98%9C%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220250413_1500%22)
 <!-- Bing Wallpaper End -->
