@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は春の山王祭
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TakayamaFestival2025_JA-JP4780504174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[精巧なからくり人形, 岐阜県 高山市 (© N. F. Photography/Shutterstock)](https://www.bing.com/search?q=%E9%AB%98%E5%B1%B1%E7%A5%AD%E3%81%AE%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E5%A5%89%E7%B4%8D%2c+%E9%AB%98%E5%B1%B1%E5%B8%82%2c+%E5%B2%90%E9%98%9C%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220250413_1500%22)
+## 今日は世界芸術の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BeachArt_JA-JP4983678633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ビーチに描かれた巨大な絵, フランス (© Hemis/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E8%8A%B8%E8%A1%93%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250414_1500%22)
 <!-- Bing Wallpaper End -->
