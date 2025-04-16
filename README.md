@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界芸術の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BeachArt_JA-JP4983678633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ビーチに描かれた巨大な絵, フランス (© Hemis/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E8%8A%B8%E8%A1%93%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250414_1500%22)
+## 自然が作り上げた岩の橋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.KachinaBridge_JA-JP5136647433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ナチュラル・ブリッジ国定公園, 米国 ユタ州 (© Alan Majchrowicz/Getty Images)](https://www.bing.com/search?q=%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%BB%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92%2c+%E3%83%A6%E3%82%BF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250415_1500%22)
 <!-- Bing Wallpaper End -->
