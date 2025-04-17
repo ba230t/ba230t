@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 自然が作り上げた岩の橋
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KachinaBridge_JA-JP5136647433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ナチュラル・ブリッジ国定公園, 米国 ユタ州 (© Alan Majchrowicz/Getty Images)](https://www.bing.com/search?q=%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%BB%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92%2c+%E3%83%A6%E3%82%BF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250415_1500%22)
+## 明るく赤い鳥
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.EcuadorBird_JA-JP5274741674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アンデスイワドリ, エクアドル (© Kit Day/Alamy)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%82%B9%E3%82%A4%E3%83%AF%E3%83%89%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220250416_1500%22)
 <!-- Bing Wallpaper End -->
