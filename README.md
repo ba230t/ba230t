@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は米国の国立公園週間の最終日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RedwoodGrove_JA-JP2501396373_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[レッドウッド国立公園, 米国 カリフォルニア州 (© Bob Pool/Getty Images)](https://www.bing.com/search?q=%E3%83%AC%E3%83%83%E3%83%89%E3%82%A6%E3%83%83%E3%83%89%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250426_1500%22)
+## アフリカの美しきジャンパー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.OrangeImpala_JA-JP2688977471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[インパラ, ボツワナ (© Paul Souders/Getty Images)](https://www.bing.com/search?q=%E3%83%A2%E3%83%AC%E3%83%9F%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E5%8C%BA%2c+%E3%83%9C%E3%83%84%E3%83%AF%E3%83%8A&form=hpcapt&filters=HpDate%3a%2220250427_1500%22)
 <!-- Bing Wallpaper End -->
