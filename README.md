@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## アフリカの美しきジャンパー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OrangeImpala_JA-JP2688977471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[インパラ, ボツワナ (© Paul Souders/Getty Images)](https://www.bing.com/search?q=%E3%83%A2%E3%83%AC%E3%83%9F%E5%8B%95%E7%89%A9%E4%BF%9D%E8%AD%B7%E5%8C%BA%2c+%E3%83%9C%E3%83%84%E3%83%AF%E3%83%8A&form=hpcapt&filters=HpDate%3a%2220250427_1500%22)
+## 絢爛たる迷宮庭園
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GardensVillandry_JA-JP2835269741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヴィランドリー城, フランス (© Mint Images/Getty Images)](https://www.bing.com/search?q=%E3%83%B4%E3%82%A3%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E5%9F%8E%E3%81%AE%E5%BA%AD%E5%9C%92%2c+%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250428_1500%22)
 <!-- Bing Wallpaper End -->
