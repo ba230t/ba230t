@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 絢爛たる迷宮庭園
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GardensVillandry_JA-JP2835269741_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヴィランドリー城, フランス (© Mint Images/Getty Images)](https://www.bing.com/search?q=%E3%83%B4%E3%82%A3%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E5%9F%8E%E3%81%AE%E5%BA%AD%E5%9C%92%2c+%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250428_1500%22)
+## 今日は「国際ジャズ・デー」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ColtraneBand_JA-JP3450716389_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サックス奏者ジョン・コルトレーンと彼のバンド, イギリス ロンドン (© Popperfoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220250429_1500%22)
 <!-- Bing Wallpaper End -->
