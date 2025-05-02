@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は八十八夜
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Hachijyuhachi2025_JA-JP6490825826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[大淵笹場の茶畑, 静岡県 富士市 (© 7maru/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E6%B7%B5%E7%AC%B9%E5%A0%B4%E3%81%AE%E8%8C%B6%E7%95%91%2c+%E5%AF%8C%E5%A3%AB%E5%B8%82%2c+%E9%9D%99%E5%B2%A1%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220250430_1500%22)
+## 睡蓮の上に立つササゴイ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BrazilHeron_JA-JP6898901440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[パンタナル, ブラジル (© Gerald Corsi/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%B3%E3%82%BF%E3%83%8A%E3%83%AB%2c+%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250501_1500%22)
 <!-- Bing Wallpaper End -->
