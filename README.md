@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 睡蓮の上に立つササゴイ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BrazilHeron_JA-JP6898901440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[パンタナル, ブラジル (© Gerald Corsi/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%B3%E3%82%BF%E3%83%8A%E3%83%AB%2c+%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250501_1500%22)
+## 今日は天文学の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ArchesGalaxy_JA-JP7174638960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アーチーズ国立公園, 米国 ユタ州 (© Adventure_Photo/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%83%A6%E3%82%BF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250502_1500%22)
 <!-- Bing Wallpaper End -->
