@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は天文学の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ArchesGalaxy_JA-JP7174638960_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アーチーズ国立公園, 米国 ユタ州 (© Adventure_Photo/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%83%A6%E3%82%BF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250502_1500%22)
+## 今日はみどりの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GreeneryDay2025_JA-JP4166384279_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[屋久島, 鹿児島県 (© oxico/Getty Images)](https://www.bing.com/search?q=%E5%B1%8B%E4%B9%85%E5%B3%B6%2c+%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220250503_1500%22)
 <!-- Bing Wallpaper End -->
