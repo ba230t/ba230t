@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はこどもの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Koinobori2025_JA-JP0438864566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[東京タワー 333 匹の鯉のぼり, 東京 (© Takashi Aoyama/寄稿者/Getty Images)](https://www.bing.com/search?q=%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC333%E5%8C%B9%E3%81%AE%E9%AF%89%E3%81%AE%E3%81%BC%E3%82%8A%2c+%E6%9D%B1%E4%BA%AC&form=hpcapt&filters=HpDate%3a%2220250504_1500%22)
+## 上空を舞う超軽量動力機
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FlyoverNamibia_JA-JP8746385575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ナミブ砂漠, ナミビア (© Burt Johnson/Alamy)](https://www.bing.com/search?q=%E3%83%8A%E3%83%9F%E3%83%96%E7%A0%82%E6%BC%A0%2c+%E3%83%8A%E3%83%9F%E3%83%93%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250505_1500%22)
 <!-- Bing Wallpaper End -->
