@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 初夏の風物詩
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.IrisGarden_JA-JP1134821751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[菖蒲の花, 東京 (© M.Arai/Getty Images)](https://www.bing.com/search?q=%E8%8F%96%E8%92%B2%E3%81%AE%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220250511_1500%22)
+## 天を突く岩の峰と壮麗な氷河
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TorresChile_JA-JP1840046415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[トーレス・デル・パイネ国立公園, チリ (© Marco Bottigelli/Getty Images)](https://www.bing.com/search?q=%E3%83%88%E3%83%BC%E3%83%AC%E3%82%B9%E3%83%BB%E3%83%87%E3%83%AB%E3%83%BB%E3%83%91%E3%82%A4%E3%83%8D%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%83%81%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220250512_1500%22)
 <!-- Bing Wallpaper End -->
