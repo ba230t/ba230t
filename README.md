@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 崖に残る鉱山の採掘跡
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SardiniaFlavia_JA-JP0105936575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ポルト・フラビア, イタリア (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/search?q=%E3%83%9D%E3%83%AB%E3%83%88%E3%83%BB%E3%83%95%E3%83%A9%E3%83%93%E3%82%A2%2c+%E3%82%B5%E3%83%AB%E3%83%87%E3%83%BC%E3%83%8B%E3%83%A3%2c+%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250513_1500%22)
+## 時を刻むロンドンの象徴
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LondonParliament_JA-JP1032400760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ウェストミンスター宮殿とビッグ・ベン, イギリス (© Puthipong Worasaran/Getty Images)](https://www.bing.com/search?q=%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%83%99%E3%83%B3%2c+%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%2c+%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250514_1500%22)
 <!-- Bing Wallpaper End -->
