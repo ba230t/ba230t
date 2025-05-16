@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 時を刻むロンドンの象徴
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LondonParliament_JA-JP1032400760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ウェストミンスター宮殿とビッグ・ベン, イギリス (© Puthipong Worasaran/Getty Images)](https://www.bing.com/search?q=%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%83%99%E3%83%B3%2c+%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%2c+%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250514_1500%22)
+## 今日は旅の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Arashiyama2025_JA-JP6326802936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[保津川沿いに走るトロッコ列車, 京都 (© Alvin Huang/Getty Images)](https://www.bing.com/search?q=%E5%B5%90%E5%B1%B1%2c+%E4%BA%AC%E9%83%BD&form=hpcapt&filters=HpDate%3a%2220250515_1500%22)
 <!-- Bing Wallpaper End -->
