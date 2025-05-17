@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は旅の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Arashiyama2025_JA-JP6326802936_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[保津川沿いに走るトロッコ列車, 京都 (© Alvin Huang/Getty Images)](https://www.bing.com/search?q=%E5%B5%90%E5%B1%B1%2c+%E4%BA%AC%E9%83%BD&form=hpcapt&filters=HpDate%3a%2220250515_1500%22)
+## アドリア海の真珠
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.VeniceLagoon_JA-JP6789116059_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヴェネツィアの潟, イタリア (© Dimitri Weber/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%83%B4%E3%82%A7%E3%83%8D%E3%83%84%E3%82%A3%E3%82%A2%E3%81%AE%E6%BD%9F%2c+%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250516_1500%22)
 <!-- Bing Wallpaper End -->
