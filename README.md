@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「国際博物館の日」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DufyRoom_JA-JP7244878631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[巨大壁画 電気の精, フランス (© BERTRAND GUAY/AFP via Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250517_1500%22)
+## くねくね道と山の美しい稜線
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MountHamilton_JA-JP7427709229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ハミルトン山, 米国 カリフォルニア州 (© Jeffrey Lewis/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%83%8F%E3%83%9F%E3%83%AB%E3%83%88%E3%83%B3%E5%B1%B1%2c+%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250518_1500%22)
 <!-- Bing Wallpaper End -->
