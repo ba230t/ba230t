@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## くねくね道と山の美しい稜線
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MountHamilton_JA-JP7427709229_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ハミルトン山, 米国 カリフォルニア州 (© Jeffrey Lewis/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%83%8F%E3%83%9F%E3%83%AB%E3%83%88%E3%83%B3%E5%B1%B1%2c+%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250518_1500%22)
+## 今日は「世界ミツバチの日」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HoneyBeeLavender_JA-JP7794664698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ラベンダーの花にミツバチ (© Anthony Brown/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%83%9F%E3%83%84%E3%83%90%E3%83%81%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250519_1500%22)
 <!-- Bing Wallpaper End -->
