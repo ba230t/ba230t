@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「世界ミツバチの日」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HoneyBeeLavender_JA-JP7794664698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ラベンダーの花にミツバチ (© Anthony Brown/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%83%9F%E3%83%84%E3%83%90%E3%83%81%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250519_1500%22)
+## 今日は国際お茶の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SongyangTeaGarden_JA-JP8102249895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[楊家堂村の茶園, 中国 浙江省 (© feng xu/Getty Images)](https://www.bing.com/search?q=%E6%A5%8A%E5%AE%B6%E5%A0%82%E6%9D%91%E3%81%AE%E8%8C%B6%E5%9C%92%2c+%E6%B5%99%E6%B1%9F%E7%9C%81&form=hpcapt&filters=HpDate%3a%2220250520_1500%22)
 <!-- Bing Wallpaper End -->
