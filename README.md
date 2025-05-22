@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際お茶の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SongyangTeaGarden_JA-JP8102249895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[楊家堂村の茶園, 中国 浙江省 (© feng xu/Getty Images)](https://www.bing.com/search?q=%E6%A5%8A%E5%AE%B6%E5%A0%82%E6%9D%91%E3%81%AE%E8%8C%B6%E5%9C%92%2c+%E6%B5%99%E6%B1%9F%E7%9C%81&form=hpcapt&filters=HpDate%3a%2220250520_1500%22)
+## 今日は「国際生物多様性の日」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BaobabAvenue_JA-JP8303382337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[バオバブの巨木, マダガスカル (© Framalicious/Shutterstock)](https://www.bing.com/search?q=%E3%83%90%E3%82%AA%E3%83%90%E3%83%96%E3%81%AE%E6%9C%A8%2c+%E3%83%9E%E3%83%80%E3%82%AC%E3%82%B9%E3%82%AB%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250521_1500%22)
 <!-- Bing Wallpaper End -->
