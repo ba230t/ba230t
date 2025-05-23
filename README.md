@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「国際生物多様性の日」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BaobabAvenue_JA-JP8303382337_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[バオバブの巨木, マダガスカル (© Framalicious/Shutterstock)](https://www.bing.com/search?q=%E3%83%90%E3%82%AA%E3%83%90%E3%83%96%E3%81%AE%E6%9C%A8%2c+%E3%83%9E%E3%83%80%E3%82%AC%E3%82%B9%E3%82%AB%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250521_1500%22)
+## 今日は世界カメの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ButterflyTurtle_JA-JP8547745457_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[モンキヨコクビガメ, エクアドル (© Westend61/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250522_1500%22)
 <!-- Bing Wallpaper End -->
