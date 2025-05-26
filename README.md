@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 色とりどりの花が咲く庭園
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ButchartFlowers_JA-JP0238801462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ブッチャート・ガーデン,  カナダ ブリティッシュコロンビア州 (© 2009fotofriends/Shutterstock)](https://www.bing.com/search?q=%E3%83%96%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%2c+%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250524_1500%22)
+## 北欧神話における巨人の故郷
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.JotunheimenPark_JA-JP7956990214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヨトゥンヘイメン国立公園, ノルウェー (© Marisa Estivill/Shutterstock)](https://www.bing.com/search?q=%E3%83%A8%E3%83%88%E3%82%A5%E3%83%B3%E3%83%98%E3%82%A4%E3%83%A1%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250525_1500%22)
 <!-- Bing Wallpaper End -->
