@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 北欧神話における巨人の故郷
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.JotunheimenPark_JA-JP7956990214_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヨトゥンヘイメン国立公園, ノルウェー (© Marisa Estivill/Shutterstock)](https://www.bing.com/search?q=%E3%83%A8%E3%83%88%E3%82%A5%E3%83%B3%E3%83%98%E3%82%A4%E3%83%A1%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250525_1500%22)
+## 大自然に囲まれた岩場の海水プール
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MonaValePool_JA-JP0665807696_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[モ��ベール・ロックプール, オーストラリア (© jamenpercy/Getty Images)](https://www.bing.com/search?q=%E3%83%A2%E3%83%8A%E3%83%99%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%AD%E3%83%83%E3%82%AF%E3%83%97%E3%83%BC%E3%83%AB%2c+%E3%82%B7%E3%83%89%E3%83%8B%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250526_1500%22)
 <!-- Bing Wallpaper End -->
