@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界カワウソの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KelpOtter_JA-JP0838803999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[海藻に巻かれたラッコ, 米国 アラスカ州 (© Gerry Ellis/Minden Pictures)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%AB%E3%83%AF%E3%82%A6%E3%82%BD%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250527_1500%22)
+## エブロ川に面している美しい村
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MiravetSpain_JA-JP1110549507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ミラベット, スペイン カタルーニャ州 (© Eloi_Omella/Getty Images)](https://www.bing.com/search?q=%E3%83%9F%E3%83%A9%E3%83%99%E3%83%83%E3%83%88%2c+%E3%82%AB%E3%82%BF%E3%83%AB%E3%83%BC%E3%83%8B%E3%83%A3%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250528_1500%22)
 <!-- Bing Wallpaper End -->
