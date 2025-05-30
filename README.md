@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## エブロ川に面している美しい村
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MiravetSpain_JA-JP1110549507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ミラベット, スペイン カタルーニャ州 (© Eloi_Omella/Getty Images)](https://www.bing.com/search?q=%E3%83%9F%E3%83%A9%E3%83%99%E3%83%83%E3%83%88%2c+%E3%82%AB%E3%82%BF%E3%83%AB%E3%83%BC%E3%83%8B%E3%83%A3%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250528_1500%22)
+## 緑の森を流れる清らかな川
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LittlePigeonRiver_JA-JP4939584633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グレート・スモーキー山脈国立公園, 米国 テネシー州 (© GreenStock/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%AD%E3%83%BC%E5%B1%B1%E8%84%88%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%83%86%E3%83%8D%E3%82%B7%E3%83%BC%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250529_1500%22)
 <!-- Bing Wallpaper End -->
