@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は横浜開港記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YokohamaPort2025_JA-JP6222425156_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[みなとみらい 21 地区, 神奈川県 横浜市 (© Shingo Tamura/Getty Images)](https://www.bing.com/search?q=%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%BF%E3%82%89%E3%81%8421%E5%9C%B0%E5%8C%BA%2c+%E6%A8%AA%E6%B5%9C%E5%B8%82%2c+%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C+&form=hpcapt&filters=HpDate%3a%2220250601_1500%22)
+## 今日は世界自転車デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BicyclesUtrecht_JA-JP5412033265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ユトレヒトの橋と自転車, オランダ (© George Pachantouris/Getty Images)](https://www.bing.com/search?q=%E3%83%A6%E3%83%88%E3%83%AC%E3%83%92%E3%83%88%E3%81%A8%E8%87%AA%E8%BB%A2%E8%BB%8A%2c+%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80&form=hpcapt&filters=HpDate%3a%2220250602_1500%22)
 <!-- Bing Wallpaper End -->
