@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界自転車デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BicyclesUtrecht_JA-JP5412033265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ユトレヒトの橋と自転車, オランダ (© George Pachantouris/Getty Images)](https://www.bing.com/search?q=%E3%83%A6%E3%83%88%E3%83%AC%E3%83%92%E3%83%88%E3%81%A8%E8%87%AA%E8%BB%A2%E8%BB%8A%2c+%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80&form=hpcapt&filters=HpDate%3a%2220250602_1500%22)
+## 三日月形の美しい砂浜
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CalaLuna_JA-JP5500735927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カラルナビーチ, イタリア (© guenterguni/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%83%A9%E3%83%AB%E3%83%8A%E3%83%93%E3%83%BC%E3%83%81%2c+%E3%82%B5%E3%83%AB%E3%83%87%E3%83%BC%E3%83%8B%E3%83%A3%2c+%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250603_1500%22)
 <!-- Bing Wallpaper End -->
