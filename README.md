@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界環境デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OlivaresMural_JA-JP5583290879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ペットボトルキャップのモザイク画, ベネズエラ (© FEDERICO PARRA/AFP via Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%92%B0%E5%A2%83%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250604_1500%22)
+## 水辺で優雅に舞う鳥たち
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FlamingosNamibia_JA-JP5652363702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オオフラミンゴ, ナミビア (© Karine Aigner/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%AA%E3%82%AA%E3%83%95%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B4&form=hpcapt&filters=HpDate%3a%2220250605_1500%22)
 <!-- Bing Wallpaper End -->
