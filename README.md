@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 水辺で優雅に舞う鳥たち
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FlamingosNamibia_JA-JP5652363702_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オオフラミンゴ, ナミビア (© Karine Aigner/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%AA%E3%82%AA%E3%83%95%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B4&form=hpcapt&filters=HpDate%3a%2220250605_1500%22)
+## 大都市のすぐそばに広がる大自然
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PacificCrestTrail_JA-JP5723625676_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アンジェルス国有林, 米国 カリフォルニア州 (© Matthew Kuhns/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B9%E5%9B%BD%E6%9C%89%E6%9E%97%2c+%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250606_1500%22)
 <!-- Bing Wallpaper End -->
