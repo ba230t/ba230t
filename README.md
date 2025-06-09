@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界海洋デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.StellarSeaLions_JA-JP5798122573_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[トドの群れ, カナダ ブリティッシュコロンビア州 (© Steve Woods Photography/Getty Images)](https://www.bing.com/search?q=%E3%83%88%E3%83%89%E3%81%AE%E7%BE%A4%E3%82%8C&form=hpcapt&filters=HpDate%3a%2220250607_1500%22)
+## 時が止まったかのような中世の街
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DubrovnikTwilight_JA-JP6048239722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ドゥブロヴニク旧市街, クロアチア (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=%E3%83%89%E3%82%A5%E3%83%96%E3%83%AD%E3%83%B4%E3%83%8B%E3%82%AF%E6%97%A7%E5%B8%82%E8%A1%97%2c+%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%81%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250608_1500%22)
 <!-- Bing Wallpaper End -->
