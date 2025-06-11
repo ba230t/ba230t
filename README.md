@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 水と草が織りなす絶景
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AerialEverglades_JA-JP6124375299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エバーグレーズ国立公園, 米国 フロリダ州 (© Robert DelVecchio - OcuDrone/Getty Images)](https://www.bing.com/search?q=%E3%82%A8%E3%83%90%E3%83%BC%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%83%95%E3%83%AD%E3%83%AA%E3%83%80%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250609_1500%22)
+## 今日は入梅
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Hydrangea2025_JA-JP6293958044_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[あじさいの丘, 静岡県 賀茂郡 (© Tommy Tsutsui/Getty Images)](https://www.bing.com/search?q=%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E3%81%AE%E4%B8%98%2c+%E6%9D%BE%E5%B4%8E%E7%94%BA&form=hpcapt&filters=HpDate%3a%2220250610_1500%22)
 <!-- Bing Wallpaper End -->
