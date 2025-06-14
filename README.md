@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 大西洋に浮かぶ楽園
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SanMiguelAzores_JA-JP3142066706_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヴィラ・フランカ・ド・カンポ島, ポルトガル (© ARoxo/Getty Images)](https://www.bing.com/search?q=%E3%83%B4%E3%82%A3%E3%83%A9%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AB%E3%83%BB%E3%83%89%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%9D%E5%B3%B6%2c+%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250612_1500%22)
+## 明日は栃木県民の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[日光東照宮, 栃木県 日光市 (© Pavel Nesvadba/shutterstock)](https://www.bing.com/search?q=%E6%97%A5%E5%85%89%E6%9D%B1%E7%85%A7%E5%AE%AE%2c+%E6%97%A5%E5%85%89%E5%B8%82%2c+%E6%A0%83%E6%9C%A8%E7%9C%8C+&form=hpcapt&filters=HpDate%3a%2220250613_1500%22)
 <!-- Bing Wallpaper End -->
