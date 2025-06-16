@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は父の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RheaDad_JA-JP7457572073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ダーウィンレアの父子, チリ (© Ignacio Yufera/Minden Pictures)](https://www.bing.com/search?q=%E7%88%B6%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250614_1500%22)
+## 今日は世界ウミガメの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_JA-JP7521430958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[碧い海に舞うウミガメ, ブラジル (© João Vianna/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250615_1500%22)
 <!-- Bing Wallpaper End -->
