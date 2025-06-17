@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界ウミガメの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SeaTurtleBrazil_JA-JP7521430958_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[碧い海に舞うウミガメ, ブラジル (© João Vianna/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250615_1500%22)
+## 潮風に揺れる森
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CumberlandOaks_JA-JP7607865039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カンバーランド島国立海岸, 米国 ジョージア州 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%AB%E3%83%B3%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%B3%B6%E5%9B%BD%E7%AB%8B%E6%B5%B7%E5%B2%B8%2c+%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250616_1500%22)
 <!-- Bing Wallpaper End -->
