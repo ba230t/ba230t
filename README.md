@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 潮風に揺れる森
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CumberlandOaks_JA-JP7607865039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カンバーランド島国立海岸, 米国 ジョージア州 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%AB%E3%83%B3%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E5%B3%B6%E5%9B%BD%E7%AB%8B%E6%B5%B7%E5%B2%B8%2c+%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250616_1500%22)
+## 今週は全米花粉媒介者週間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AsianSwallowtail_JA-JP7699354207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[彼岸花にナミアゲハ (© lzh/Getty Images)](https://www.bing.com/search?q=%E5%BD%BC%E5%B2%B8%E8%8A%B1%E3%81%AB%E3%83%8A%E3%83%9F%E3%82%A2%E3%82%B2%E3%83%8F&form=hpcapt&filters=HpDate%3a%2220250617_1500%22)
 <!-- Bing Wallpaper End -->
