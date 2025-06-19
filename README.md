@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今週は全米花粉媒介者週間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AsianSwallowtail_JA-JP7699354207_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[彼岸花にナミアゲハ (© lzh/Getty Images)](https://www.bing.com/search?q=%E5%BD%BC%E5%B2%B8%E8%8A%B1%E3%81%AB%E3%83%8A%E3%83%9F%E3%82%A2%E3%82%B2%E3%83%8F&form=hpcapt&filters=HpDate%3a%2220250617_1500%22)
+## 初夏の夜を彩る光の舞
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FireflySeason2025_JA-JP3057846302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ホタルが光る森, 岡山県 (© JGalione/Getty Images)](https://www.bing.com/search?q=%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%8C%E5%85%89%E3%82%8B%E6%A3%AE%2c+%E5%B2%A1%E5%B1%B1%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220250618_1500%22)
 <!-- Bing Wallpaper End -->
