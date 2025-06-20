@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 初夏の夜を彩る光の舞
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FireflySeason2025_JA-JP3057846302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ホタルが光る森, 岡山県 (© JGalione/Getty Images)](https://www.bing.com/search?q=%E3%83%9B%E3%82%BF%E3%83%AB%E3%81%8C%E5%85%89%E3%82%8B%E6%A3%AE%2c+%E5%B2%A1%E5%B1%B1%E7%9C%8C&form=hpcapt&filters=HpDate%3a%2220250618_1500%22)
+## 夕陽に染まる巨大な滝
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IcelandSolstice_JA-JP9258082333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[セリャラントスフォス, アイスランド  (© Tom Mackie/AWL/plainpicture)](https://www.bing.com/search?q=%E3%82%BB%E3%83%AA%E3%83%A3%E3%83%A9%E3%83%B3%E3%83%88%E3%82%B9%E3%83%95%E3%82%A9%E3%82%B9%2c+%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89+&form=hpcapt&filters=HpDate%3a%2220250619_1500%22)
 <!-- Bing Wallpaper End -->
