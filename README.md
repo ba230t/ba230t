@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界熱帯雨林の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AmazonEcuador_JA-JP9558319744_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アマゾン熱帯雨林, エクアドル (© Mark Fox/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E7%86%B1%E5%B8%AF%E9%9B%A8%E6%9E%97&form=hpcapt&filters=HpDate%3a%2220250621_1500%22)
+## エルベ川の真珠
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DresdenElbe_JA-JP9615629760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ドレスデン, ドイツ (© Sean Pavone/Getty Images)](https://www.bing.com/search?q=%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3%2c+%E3%83%89%E3%82%A4%E3%83%84&form=hpcapt&filters=HpDate%3a%2220250622_1500%22)
 <!-- Bing Wallpaper End -->
