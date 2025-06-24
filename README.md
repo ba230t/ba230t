@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## エルベ川の真珠
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DresdenElbe_JA-JP9615629760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ドレスデン, ドイツ (© Sean Pavone/Getty Images)](https://www.bing.com/search?q=%E3%83%89%E3%83%AC%E3%82%B9%E3%83%87%E3%83%B3%2c+%E3%83%89%E3%82%A4%E3%83%84&form=hpcapt&filters=HpDate%3a%2220250622_1500%22)
+## ユタ州の象徴「デリケート・アーチ」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DelicateArch_JA-JP9672362055_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アーチーズ国立公園, 米国 ユタ州 (© mmac72/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%83%A6%E3%82%BF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250623_1500%22)
 <!-- Bing Wallpaper End -->
