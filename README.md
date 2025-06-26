@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日からグラストンベリー・フェスティバル
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GlastonburyScenic_JA-JP9733045581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グラストンベリー・トー, イングランド (© Gavin Hellier/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%82%B9%E3%83%88%E3%83%B3%E3%83%99%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%88%E3%83%BC%2c+%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220250624_1500%22)
+## 不思議な岩と天の川
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HorseheadRock_JA-JP9769020996_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ホースヘッド・ロック, オーストラリア ニューサウスウェールズ州 (© Philip Thurston/Getty Images)](https://www.bing.com/search?q=Horse+Head+Rock%2c+%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E5%B7%9E%2c+%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2+&form=hpcapt&filters=HpDate%3a%2220250625_1500%22)
 <!-- Bing Wallpaper End -->
