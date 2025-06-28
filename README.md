@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 海へ突き刺さる白い矢
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ShetlandGannets_JA-JP3345232589_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[魚を狙うシロカツオドリ, スコットランド (© Richard Shucksmith/Minden Pictures)](https://www.bing.com/search?q=%E3%82%B7%E3%83%AD%E3%82%AB%E3%83%84%E3%82%AA%E3%83%89%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220250626_1500%22)
+## 今月はプライド月間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PrideParade_JA-JP3577767759_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[風になびくプライドフラッグ, 米国 ニューヨーク州 (© Alan Schein/Getty Images)](https://www.bing.com/search?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E6%9C%88%E9%96%93&form=hpcapt&filters=HpDate%3a%2220250627_1500%22)
 <!-- Bing Wallpaper End -->
