@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今月はプライド月間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PrideParade_JA-JP3577767759_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[風になびくプライドフラッグ, 米国 ニューヨーク州 (© Alan Schein/Getty Images)](https://www.bing.com/search?q=%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E6%9C%88%E9%96%93&form=hpcapt&filters=HpDate%3a%2220250627_1500%22)
+## 今日は国際熱帯デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BandaIsland_JA-JP3779837840_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[緑の森と青い海, インドネシア (© fabio lamanna/Alamy)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E7%86%B1%E5%B8%AF%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250628_1500%22)
 <!-- Bing Wallpaper End -->
