@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際熱帯デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BandaIsland_JA-JP3779837840_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[緑の森と青い海, インドネシア (© fabio lamanna/Alamy)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E7%86%B1%E5%B8%AF%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250628_1500%22)
+## 今日は国際小惑星デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WolfeCrater_JA-JP6958421820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ウルフクリーク・クレーター, オーストラリア (© Abstract Aerial Art/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%83%AB%E3%83%95%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%2c+%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250629_1500%22)
 <!-- Bing Wallpaper End -->
