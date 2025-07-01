@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際小惑星デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WolfeCrater_JA-JP6958421820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ウルフクリーク・クレーター, オーストラリア (© Abstract Aerial Art/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%83%AB%E3%83%95%E3%82%AF%E3%83%AA%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%2c+%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250629_1500%22)
+## 今日はカナダの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CanadaDayFogo_JA-JP7164591765_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[赤と白の漁師小屋, カナダ (© FedevPhoto/Getty Images)](https://www.bing.com/search?q=%E3%83%86%E3%82%A3%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%BC%81%E6%9D%91%2c+%E3%82%AB%E3%83%8A%E3%83%80&form=hpcapt&filters=HpDate%3a%2220250630_1500%22)
 <!-- Bing Wallpaper End -->
