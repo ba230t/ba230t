@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 毒をもつイソギンチャクと暮らす魚
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MaroonClownfish_JA-JP7352602108_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[スパインチーク・アネモネフィッシュ, パプアニューギニア (© Fred Bavendam/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%B9%E3%83%91%E3%82%A4%E3%83%B3%E3%83%81%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%8D%E3%83%A2%E3%83%8D%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5&form=hpcapt&filters=HpDate%3a%2220250701_1500%22)
+## 光きらめく湧水の楽園
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RainbowRiver_JA-JP7583183252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[レインボー・スプリングス州立公園, 米国 フロリダ州 (© Michel Roggo/Minden Pictures)](https://www.bing.com/search?q=%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B9%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%83%95%E3%83%AD%E3%83%AA%E3%83%80%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250702_1500%22)
 <!-- Bing Wallpaper End -->
