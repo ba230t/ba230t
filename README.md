@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 天を突く切り立つ巨岩の峰
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SecedaPeak_JA-JP7772253981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ドロミーティ, イタリア (© Kalyakan/Adobe Stock)](https://www.bing.com/search?q=%E3%83%89%E3%83%AD%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%2c+%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250703_1500%22)
+## 今日はツール・ド・フランスの開幕日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TourCyclists_JA-JP7957952597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ツールマレー峠を越えるサイクリストたち, フランス (© THOMAS SAMSON/AFP via Getty Images)](https://www.bing.com/search?q=%E3%83%84%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%89%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250704_1500%22)
 <!-- Bing Wallpaper End -->
