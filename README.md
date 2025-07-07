@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 砂と風の芸術
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MesquiteFlats_JA-JP8164814192_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[デスバレー国立公園, 米国 カリフォルニア州 (© Bryan Jolley/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%83%87%E3%82%B9%E3%83%90%E3%83%AC%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250705_1500%22)
+## 今日は七夕
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Tanabata2025_JA-JP0218360290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[鴨川河川敷に灯る風鈴灯, 京都市 (© Kaoru Hayashi/Getty Images)](https://www.bing.com/search?q=%E9%B4%A8%E5%B7%9D%E3%81%AE%E9%A2%A8%E9%88%B4%E7%81%AF%2c+%E4%BA%AC%E9%83%BD%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220250706_1500%22)
 <!-- Bing Wallpaper End -->
