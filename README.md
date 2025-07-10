@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はアルゼンチンの独立記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ConstitucionStation_JA-JP9081110784_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[コンスティトゥシオン駅, アルゼンチン (© Grafissimo/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%88%E3%82%A5%E3%82%B7%E3%82%AA%E3%83%B3%E9%A7%85%2c+%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220250708_1500%22)
+## 今日はバハマの独立記念日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BahamaBlues_JA-JP9790462699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ターコイズブルーの海, バハマ (© BlueOrange Studio/Adobe Stock)](https://www.bing.com/search?q=%E3%82%BF%E3%83%BC%E3%82%B3%E3%82%A4%E3%82%BA%E3%83%96%E3%83%AB%E3%83%BC%E3%81%AE%E6%B5%B7%2c+%E3%83%90%E3%83%8F%E3%83%9E&form=hpcapt&filters=HpDate%3a%2220250709_1500%22)
 <!-- Bing Wallpaper End -->
