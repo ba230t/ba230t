@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はバハマの独立記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BahamaBlues_JA-JP9790462699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ターコイズブルーの海, バハマ (© BlueOrange Studio/Adobe Stock)](https://www.bing.com/search?q=%E3%82%BF%E3%83%BC%E3%82%B3%E3%82%A4%E3%82%BA%E3%83%96%E3%83%AB%E3%83%BC%E3%81%AE%E6%B5%B7%2c+%E3%83%90%E3%83%8F%E3%83%9E&form=hpcapt&filters=HpDate%3a%2220250709_1500%22)
+## 今日は世界人口デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TokyoSunrise_JA-JP8418771987_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[1400 万の人口を抱える大都市, 東京 (© pongnathee kluaythong/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250710_1500%22)
 <!-- Bing Wallpaper End -->
