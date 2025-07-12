@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界人口デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TokyoSunrise_JA-JP8418771987_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[1400 万の人口を抱える大都市, 東京 (© pongnathee kluaythong/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250710_1500%22)
+## トムソンガゼルの母子
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThomsonGazelle_JA-JP8883266814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マサイマラ国立保護区, ケニア (© Gallo Images/DanitaDelimont.com)](https://www.bing.com/search?q=%E3%83%88%E3%83%A0%E3%82%BD%E3%83%B3%E3%82%AC%E3%82%BC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250711_1500%22)
 <!-- Bing Wallpaper End -->
