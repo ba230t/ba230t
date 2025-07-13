@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## トムソンガゼルの母子
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThomsonGazelle_JA-JP8883266814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マサイマラ国立保護区, ケニア (© Gallo Images/DanitaDelimont.com)](https://www.bing.com/search?q=%E3%83%88%E3%83%A0%E3%82%BD%E3%83%B3%E3%82%AC%E3%82%BC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250711_1500%22)
+## 黒い玄武岩の柱状節理
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BasaltColumns_JA-JP9334958471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カールフザマルスヴィーク, アイスランド (© Arterra Picture Library/Alamy)](https://www.bing.com/search?q=K%C3%A1lfshamarsv%C3%ADk%2c+%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220250712_1500%22)
 <!-- Bing Wallpaper End -->
