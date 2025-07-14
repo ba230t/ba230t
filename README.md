@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 黒い玄武岩の柱状節理
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BasaltColumns_JA-JP9334958471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カールフザマルスヴィーク, アイスランド (© Arterra Picture Library/Alamy)](https://www.bing.com/search?q=K%C3%A1lfshamarsv%C3%ADk%2c+%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220250712_1500%22)
+## 今日はサメ啓発の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YoungShark_JA-JP0204898221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ガリシア沖を泳ぐヨシキリザメ, スペイン (© Damocean/Getty Images)](https://www.bing.com/search?q=%E3%83%A8%E3%82%B7%E3%82%AD%E3%83%AA%E3%82%B6%E3%83%A1&form=hpcapt&filters=HpDate%3a%2220250713_1500%22)
 <!-- Bing Wallpaper End -->
