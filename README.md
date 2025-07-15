@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はサメ啓発の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YoungShark_JA-JP0204898221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ガリシア沖を泳ぐヨシキリザメ, スペイン (© Damocean/Getty Images)](https://www.bing.com/search?q=%E3%83%A8%E3%82%B7%E3%82%AD%E3%83%AA%E3%82%B6%E3%83%A1&form=hpcapt&filters=HpDate%3a%2220250713_1500%22)
+## 幻想的なペルセウス座流星群
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PerseidsPine_JA-JP0980673364_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グレートベースン国立公園, 米国 ネバダ州 (© Wirestock Creators/Shutterstock)](https://www.bing.com/search?q=%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7%E6%B5%81%E6%98%9F%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220250714_1500%22)
 <!-- Bing Wallpaper End -->
