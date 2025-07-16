@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 幻想的なペルセウス座流星群
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PerseidsPine_JA-JP0980673364_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グレートベースン国立公園, 米国 ネバダ州 (© Wirestock Creators/Shutterstock)](https://www.bing.com/search?q=%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7%E6%B5%81%E6%98%9F%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220250714_1500%22)
+## イシス女神に捧げられた聖域
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TemplePhilae_JA-JP1883182948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[フィラエ神殿, エジプト (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/search?q=%E3%83%95%E3%82%A3%E3%83%A9%E3%82%A8%E7%A5%9E%E6%AE%BF%2c+%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88&form=hpcapt&filters=HpDate%3a%2220250715_1500%22)
 <!-- Bing Wallpaper End -->
