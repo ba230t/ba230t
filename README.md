@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## イシス女神に捧げられた聖域
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TemplePhilae_JA-JP1883182948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[フィラエ神殿, エジプト (© Ratnakorn Piyasirisorost/Getty Images)](https://www.bing.com/search?q=%E3%83%95%E3%82%A3%E3%83%A9%E3%82%A8%E7%A5%9E%E6%AE%BF%2c+%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88&form=hpcapt&filters=HpDate%3a%2220250715_1500%22)
+## 一面に広がる紫の絨毯
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FranceLavender_JA-JP2202328070_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヴァレンソール高原のラベンダー畑, フランス (© zpagistock/Getty Images)](https://www.bing.com/search?q=%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E9%AB%98%E5%8E%9F%E3%81%AE%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E7%95%91%2c+%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250716_1500%22)
 <!-- Bing Wallpaper End -->
