@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 天にそびえる五つの塔
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DolomitiEstate_JA-JP1752445418_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ドロミーティのチンクェトッリ, イタリア (© usabin/Getty Images)](https://www.bing.com/search?q=%E3%83%89%E3%83%AD%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%81%AE%E3%83%81%E3%83%B3%E3%82%AF%E3%82%A7%E3%83%88%E3%83%83%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220250717_1500%22)
+## カトリック教会の総本山
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.VaticanCity_JA-JP3107889250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サン・ピエトロ大聖堂, バチカン市国 (© RudyBalasko/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%94%E3%82%A8%E3%83%88%E3%83%AD%E5%A4%A7%E8%81%96%E5%A0%82%2c+%E3%83%90%E3%83%81%E3%82%AB%E3%83%B3%E5%B8%82%E5%9B%BD&form=hpcapt&filters=HpDate%3a%2220250718_1500%22)
 <!-- Bing Wallpaper End -->
