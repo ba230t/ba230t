@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は月面着陸の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[観測機器で撮影された月 (© Sergey Kuznetsov/Getty Images)](https://www.bing.com/search?q=%E6%9C%88%E9%9D%A2%E7%9D%80%E9%99%B8%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250719_1500%22)
+## 今日は海の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MarineDay2025_JA-JP8195760967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[青い海に浮かぶ種子島の無人島, 鹿児島県 (© Ippei Naoi/Getty Images)](https://www.bing.com/search?q=%E6%B5%B7%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250720_1500%22)
 <!-- Bing Wallpaper End -->
