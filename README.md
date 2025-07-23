@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 風と水が刻んだ奇岩地帯
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BadlandsSunset_JA-JP4206808892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[バッドランズ国立公園, 米国 サウスダコタ州 (© Petr Bednarik/Danita Delimont/Alamy)](https://www.bing.com/search?q=%E3%83%90%E3%83%83%E3%83%89%E3%83%A9%E3%83%B3%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%2c+%E3%82%B5%E3%82%A6%E3%82%B9%E3%83%80%E3%82%B3%E3%82%BF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250721_1500%22)
+## 祇園祭・後祭の宵山期間中
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GionFestival2025_JA-JP8597633874_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[提灯の灯りに照らされた南観音山, 京都市 (© Route16/Adobe Stock)](https://www.bing.com/search?q=%E5%8D%97%E8%A6%B3%E9%9F%B3%E5%B1%B1%2c+%E4%BA%AC%E9%83%BD%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220250722_1500%22)
 <!-- Bing Wallpaper End -->
