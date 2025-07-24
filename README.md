@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 祇園祭・後祭の宵山期間中
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GionFestival2025_JA-JP8597633874_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[提灯の灯りに照らされた南観音山, 京都市 (© Route16/Adobe Stock)](https://www.bing.com/search?q=%E5%8D%97%E8%A6%B3%E9%9F%B3%E5%B1%B1%2c+%E4%BA%AC%E9%83%BD%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220250722_1500%22)
+## 南アジアの可愛い鳥
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AshyWoodswallow_JA-JP4870541560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[枝にとまるハイイロモリツバメ (© Captain Skyhigh/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%82%A4%E3%82%A4%E3%83%AD%E3%83%A2%E3%83%AA%E3%83%84%E3%83%90%E3%83%A1&form=hpcapt&filters=HpDate%3a%2220250723_1500%22)
 <!-- Bing Wallpaper End -->
