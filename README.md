@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 南アジアの可愛い鳥
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AshyWoodswallow_JA-JP4870541560_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[枝にとまるハイイロモリツバメ (© Captain Skyhigh/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%82%A4%E3%82%A4%E3%83%AD%E3%83%A2%E3%83%AA%E3%83%84%E3%83%90%E3%83%A1&form=hpcapt&filters=HpDate%3a%2220250723_1500%22)
+## カラフルな家々が並ぶ港湾都市
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LasPalmas_JA-JP9180112071_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ラス・パルマス・デ・グラン・カナリア, スペイン (© Marco Bottigelli/Getty Images)](https://www.bing.com/search?q=%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%91%E3%83%AB%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%8A%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250724_1500%22)
 <!-- Bing Wallpaper End -->
