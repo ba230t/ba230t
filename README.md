@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## タツカマスの群れ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BlackfinBarracuda_JA-JP9849559763_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ラスムハンマド国立公園, エジプト (© Alex Mustard/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%BF%E3%83%84%E3%82%AB%E3%83%9E%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250726_1500%22)
+## 今日は世界自然保護デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MongoliaYurts_JA-JP0052773408_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[大草原に佇むゲル,  モンゴル国 (© Michel Arnault/Shutterstock)](https://www.bing.com/search?q=%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%9B%BD%E3%81%AE%E8%8D%89%E5%8E%9F&form=hpcapt&filters=HpDate%3a%2220250727_1500%22)
 <!-- Bing Wallpaper End -->
