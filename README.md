@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界自然保護デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MongoliaYurts_JA-JP0052773408_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[大草原に佇むゲル,  モンゴル国 (© Michel Arnault/Shutterstock)](https://www.bing.com/search?q=%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%9B%BD%E3%81%AE%E8%8D%89%E5%8E%9F&form=hpcapt&filters=HpDate%3a%2220250727_1500%22)
+## 今日は世界トラの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TigerDay_JA-JP0300467728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ベンガルトラのメス, インド (© Axel Gomille/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%99%E3%83%B3%E3%82%AC%E3%83%AB%E3%83%88%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220250728_1500%22)
 <!-- Bing Wallpaper End -->
