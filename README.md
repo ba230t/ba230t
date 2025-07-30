@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界トラの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TigerDay_JA-JP0300467728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ベンガルトラのメス, インド (© Axel Gomille/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%99%E3%83%B3%E3%82%AC%E3%83%AB%E3%83%88%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220250728_1500%22)
+## 今日は国際フレンドシップ・デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SaypeDubai_JA-JP1584990235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[Saype による地上絵, アラブ首長国連邦 (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://www.bing.com/search?q=saype+%E5%A3%81%E3%82%92%E8%B6%8A%E3%81%88%E3%81%A6&form=hpcapt&filters=HpDate%3a%2220250729_1500%22)
 <!-- Bing Wallpaper End -->
