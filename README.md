@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際フレンドシップ・デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SaypeDubai_JA-JP1584990235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[Saype による地上絵, アラブ首長国連邦 (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://www.bing.com/search?q=saype+%E5%A3%81%E3%82%92%E8%B6%8A%E3%81%88%E3%81%A6&form=hpcapt&filters=HpDate%3a%2220250729_1500%22)
+## 断崖絶壁の海岸線
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NaPaliKauai_JA-JP1764842674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ナ・パリ・コースト, 米国 ハワイ州 (© Russ Bishop/DanitaDelimont.com)](https://www.bing.com/search?q=%E3%83%8A%E3%83%BB%E3%83%91%E3%83%AA%E3%83%BB%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88&form=hpcapt&filters=HpDate%3a%2220250730_1500%22)
 <!-- Bing Wallpaper End -->
