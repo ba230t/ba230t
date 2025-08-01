@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 断崖絶壁の海岸線
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NaPaliKauai_JA-JP1764842674_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ナ・パリ・コースト, 米国 ハワイ州 (© Russ Bishop/DanitaDelimont.com)](https://www.bing.com/search?q=%E3%83%8A%E3%83%BB%E3%83%91%E3%83%AA%E3%83%BB%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88&form=hpcapt&filters=HpDate%3a%2220250730_1500%22)
+## 今日からエディンバラ・フェスティバル・フリンジ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.EdinburghFringe_JA-JP2026368495_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[エディンバラの旧市街, スコットランド (© MEDITERRANEAN/Getty Images)](https://www.bing.com/search?q=%E3%82%A8%E3%83%87%E3%82%A3%E3%83%B3%E3%83%90%E3%83%A9%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%E3%83%BB%E3%83%95%E3%83%AA%E3%83%B3%E3%82%B8&form=hpcapt&filters=HpDate%3a%2220250731_1500%22)
 <!-- Bing Wallpaper End -->
