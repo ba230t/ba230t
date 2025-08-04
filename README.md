@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 弘前ねぷたまつり開催中
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HirosakiNeputaFestival2025_JA-JP2869487998_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[優美な扇ねぷた, 青森県 弘前市 (© John S Lander/寄稿者/Getty Images)](https://www.bing.com/search?q=%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220250802_1500%22)
+## 今日は国際フクロウの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LaplandOwl_JA-JP2701506191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カラフトフクロウのペア, フィンランド (© imageBROKER.com/Alamy)](https://www.bing.com/search?q=%E3%82%AB%E3%83%A9%E3%83%95%E3%83%88%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6%E3%81%AE%E3%83%9A%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250803_1500%22)
 <!-- Bing Wallpaper End -->
