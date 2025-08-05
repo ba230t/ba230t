@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際フクロウの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LaplandOwl_JA-JP2701506191_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カラフトフクロウのペア, フィンランド (© imageBROKER.com/Alamy)](https://www.bing.com/search?q=%E3%82%AB%E3%83%A9%E3%83%95%E3%83%88%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6%E3%81%AE%E3%83%9A%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220250803_1500%22)
+## 岩場の小さな潮だまり
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CaliforniaTidepool_JA-JP3202345029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ラホヤの引き潮, 米国 カリフォルニア州 (© Andrew Shoemaker/DanitaDelimont.com)](https://www.bing.com/search?q=%E3%83%A9%E3%83%9B%E3%83%A4%E3%81%AE%E5%BC%95%E3%81%8D%E6%BD%AE&form=hpcapt&filters=HpDate%3a%2220250804_1500%22)
 <!-- Bing Wallpaper End -->
