@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 岩場の小さな潮だまり
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CaliforniaTidepool_JA-JP3202345029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ラホヤの引き潮, 米国 カリフォルニア州 (© Andrew Shoemaker/DanitaDelimont.com)](https://www.bing.com/search?q=%E3%83%A9%E3%83%9B%E3%83%A4%E3%81%AE%E5%BC%95%E3%81%8D%E6%BD%AE&form=hpcapt&filters=HpDate%3a%2220250804_1500%22)
+## 今日は広島平和記念日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HiroshimaPeace2025_JA-JP3351733972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[平和のピースキャンドル, 長崎県 長崎市 (© NurPhoto/寄稿者/Getty Images)](https://www.bing.com/search?q=%E5%BA%83%E5%B3%B6%E5%B9%B3%E5%92%8C%E8%A8%98%E5%BF%B5%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250805_1500%22)
 <!-- Bing Wallpaper End -->
