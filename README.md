@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は広島平和記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HiroshimaPeace2025_JA-JP3351733972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[平和のピースキャンドル, 長崎県 長崎市 (© NurPhoto/寄稿者/Getty Images)](https://www.bing.com/search?q=%E5%BA%83%E5%B3%B6%E5%B9%B3%E5%92%8C%E8%A8%98%E5%BF%B5%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220250805_1500%22)
+## しましまの長い尾を誇るサル
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BabyLemur_JA-JP3588561100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ワオキツネザル, マダガスカル (© Andy Rouse/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%AF%E3%82%AA%E3%82%AD%E3%83%84%E3%83%8D%E3%82%B6%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250806_1500%22)
 <!-- Bing Wallpaper End -->
