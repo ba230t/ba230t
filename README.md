@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## しましまの長い尾を誇るサル
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BabyLemur_JA-JP3588561100_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ワオキツネザル, マダガスカル (© Andy Rouse/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%AF%E3%82%AA%E3%82%AD%E3%83%84%E3%83%8D%E3%82%B6%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250806_1500%22)
+## 世界最大級の滝群
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IguazuArgentina_JA-JP1040777979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[イグアスの滝, アルゼンチン (© Mark Meredith/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%82%B0%E3%82%A2%E3%82%B9%E3%81%AE%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220250807_1500%22)
 <!-- Bing Wallpaper End -->
