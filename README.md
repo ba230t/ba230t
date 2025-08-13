@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界ゾウの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KenyaElephants_JA-JP2052759218_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アフリカゾウの群れ, ケニア (© Chase Dekker/Minden Pictures)](https://www.bing.com/search?q=%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%82%BE%E3%82%A6%E3%81%AE%E7%BE%A4%E3%82%8C&form=hpcapt&filters=HpDate%3a%2220250811_1500%22)
+## 岩のアーチからぶら下がる冒険者
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoronaArch_JA-JP2223848865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[コロナ・アーチ, 米国 ユタ州 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220250812_1500%22)
 <!-- Bing Wallpaper End -->
