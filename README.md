@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 岩のアーチからぶら下がる冒険者
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoronaArch_JA-JP2223848865_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[コロナ・アーチ, 米国 ユタ州 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220250812_1500%22)
+## アルプスの名峰
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PizNairPeak_JA-JP2425115607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ピッツ・ネイル, スイス (© Roberto Moiola/Alamy)](https://www.bing.com/search?q=%E3%83%94%E3%83%83%E3%83%84%E3%83%BB%E3%83%8D%E3%82%A4%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250813_1500%22)
 <!-- Bing Wallpaper End -->
