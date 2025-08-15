@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## アルプスの名峰
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PizNairPeak_JA-JP2425115607_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ピッツ・ネイル, スイス (© Roberto Moiola/Alamy)](https://www.bing.com/search?q=%E3%83%94%E3%83%83%E3%83%84%E3%83%BB%E3%83%8D%E3%82%A4%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250813_1500%22)
+## 羽ばたくように泳ぐ美しい魚
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpottedEagleRay_JA-JP3008170568_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マダラトビエイ, エクアドル (© Tui De Roy/Minden Pictures)](https://www.bing.com/search?q=%E3%83%9E%E3%83%80%E3%83%A9%E3%83%88%E3%83%93%E3%82%A8%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220250814_1500%22)
 <!-- Bing Wallpaper End -->
