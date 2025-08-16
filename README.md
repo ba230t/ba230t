@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 羽ばたくように泳ぐ美しい魚
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpottedEagleRay_JA-JP3008170568_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マダラトビエイ, エクアドル (© Tui De Roy/Minden Pictures)](https://www.bing.com/search?q=%E3%83%9E%E3%83%80%E3%83%A9%E3%83%88%E3%83%93%E3%82%A8%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220250814_1500%22)
+## 今日は五山送り火
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Okuribi2025_JA-JP4621795615_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[大の字の中心・金尾の火床, 京都府 京都市 (© kumikomini/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E3%81%AE%E5%AD%97%E3%81%AE%E4%B8%AD%E5%BF%83%E3%83%BB%E9%87%91%E5%B0%BE%E3%81%AE%E7%81%AB%E5%BA%8A&form=hpcapt&filters=HpDate%3a%2220250815_1500%22)
 <!-- Bing Wallpaper End -->
