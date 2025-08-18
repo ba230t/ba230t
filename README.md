@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 砂丘に立つ白亜の灯台
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LyngvigLighthouse_JA-JP3502925142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[リングヴィグ灯台, デンマーク (© Caroline Brundle Bugge/Getty Images)](https://www.bing.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%B4%E3%82%A3%E3%82%B0%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220250816_1500%22)
+## 緑に包まれた高山湖
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AvalancheLake_JA-JP3739900372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アヴァランチ湖, 米国 ニューヨーク州 (© Posnov/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B4%E3%82%A1%E3%83%A9%E3%83%B3%E3%83%81%E6%B9%96%2c+%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220250817_1500%22)
 <!-- Bing Wallpaper End -->
