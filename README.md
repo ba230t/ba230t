@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 絵本のような村
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SantaMaddalena_JA-JP3939499195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サンタ・マッダレーナ, イタリア (© Sakrapee Nopparat/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%BB%E3%83%9E%E3%83%83%E3%83%80%E3%83%AC%E3%83%BC%E3%83%8A&form=hpcapt&filters=HpDate%3a%2220250818_1500%22)
+## 地中海を見下ろす絶景のお城
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CitadelBonifacio_JA-JP4122292062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ボニファシオの城塞, フランス (© Marc Dozier/Getty Images)](https://www.bing.com/search?q=%E3%83%9C%E3%83%8B%E3%83%95%E3%82%A1%E3%82%B7%E3%82%AA%E3%81%AE%E5%9F%8E%E5%A1%9E&form=hpcapt&filters=HpDate%3a%2220250819_1500%22)
 <!-- Bing Wallpaper End -->
