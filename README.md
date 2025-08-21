@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 地中海を見下ろす絶景のお城
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CitadelBonifacio_JA-JP4122292062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ボニファシオの城塞, フランス (© Marc Dozier/Getty Images)](https://www.bing.com/search?q=%E3%83%9C%E3%83%8B%E3%83%95%E3%82%A1%E3%82%B7%E3%82%AA%E3%81%AE%E5%9F%8E%E5%A1%9E&form=hpcapt&filters=HpDate%3a%2220250819_1500%22)
+## 花咲く野に佇むハシグロヒタキ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WheatearBird_JA-JP4532304114_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ピーク・ディストリクト国立公園, イングランド (© Ben Hall/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%8F%E3%82%B7%E3%82%B0%E3%83%AD%E3%83%92%E3%82%BF%E3%82%AD&form=hpcapt&filters=HpDate%3a%2220250820_1500%22)
 <!-- Bing Wallpaper End -->
