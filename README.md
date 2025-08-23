@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 緑と金の畑に覆われた丘陵
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PalouseWA_JA-JP5363056424_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[パルース丘陵, 米国 ワシントン州 (© svetlana57/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%AB%E3%83%BC%E3%82%B9%E4%B8%98%E9%99%B5&form=hpcapt&filters=HpDate%3a%2220250821_1500%22)
+## 今日は処暑
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Morningglory2025_JA-JP5429610056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[早朝に開花する美しいアサガオ (© borchee/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA&form=hpcapt&filters=HpDate%3a%2220250822_1500%22)
 <!-- Bing Wallpaper End -->
