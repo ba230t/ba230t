@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は処暑
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Morningglory2025_JA-JP5429610056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[早朝に開花する美しいアサガオ (© borchee/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA&form=hpcapt&filters=HpDate%3a%2220250822_1500%22)
+## 季節ごとに装いを変えるシカ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CervusDama_JA-JP5457977522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ダマジカ, イギリス (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/search?q=%E3%83%80%E3%83%9E%E3%82%B8%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220250823_1500%22)
 <!-- Bing Wallpaper End -->
