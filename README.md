@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 白い崖とうねる川
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YellowstoneRiver_JA-JP5485264478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[イエローストーン国立公園, 米国 ワイオミング州 (© Rebecca L. Latson/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250824_1500%22)
+## とんがり屋根が並ぶ小さな町
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TrulliHouses_JA-JP5521004094_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アルベロベッロ, イタリア (© Feng Wei Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AD%E3%83%99%E3%83%83%E3%83%AD&form=hpcapt&filters=HpDate%3a%2220250825_1500%22)
 <!-- Bing Wallpaper End -->
