@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界湖沼の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FaroeLake_JA-JP5563873968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ソールヴァグスヴァトン湖, デンマーク (© Anton Petrus/Getty Images)](https://www.bing.com/search?q=%E3%82%BD%E3%83%BC%E3%83%AB%E3%83%B4%E3%82%A1%E3%82%B0%E3%82%B9%E3%83%B4%E3%82%A1%E3%83%88%E3%83%B3%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220250826_1500%22)
+## 世界を渡る白き旅人
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WhiteEgret_JA-JP5628214526_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ダイサギ, ハンガリー  (© Markus Varesvuo/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%80%E3%82%A4%E3%82%B5%E3%82%AE&form=hpcapt&filters=HpDate%3a%2220250827_1500%22)
 <!-- Bing Wallpaper End -->
