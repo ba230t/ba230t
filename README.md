@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 世界を渡る白き旅人
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WhiteEgret_JA-JP5628214526_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ダイサギ, ハンガリー  (© Markus Varesvuo/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%80%E3%82%A4%E3%82%B5%E3%82%AE&form=hpcapt&filters=HpDate%3a%2220250827_1500%22)
+## 歴史的な長方形の広場
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PlazaMayor_JA-JP5661212297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マヨール広場, スペイン (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/search?q=%E3%83%9E%E3%83%A8%E3%83%BC%E3%83%AB%E5%BA%83%E5%A0%B4&form=hpcapt&filters=HpDate%3a%2220250828_1500%22)
 <!-- Bing Wallpaper End -->
