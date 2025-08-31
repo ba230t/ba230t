@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は全国花火競技大会の開催日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OmagariFireworks2025_JA-JP5692415884_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/寄稿者/Getty Images)](https://www.bing.com/search?q=%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%81%AB%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220250829_1500%22)
+## 彩られた雲と静かな断崖
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ScottsBluff_JA-JP5785584590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スコッツブラフ国定記念物, 米国 ネブラスカ州 (© Hawk Buckman/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%82%B3%E3%83%83%E3%83%84%E3%83%96%E3%83%A9%E3%83%95%E5%9B%BD%E5%AE%9A%E8%A8%98%E5%BF%B5%E7%89%A9&form=hpcapt&filters=HpDate%3a%2220250830_1500%22)
 <!-- Bing Wallpaper End -->
