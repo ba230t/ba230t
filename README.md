@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 夕陽に染まる遊園地のシルエット
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SunsetPier_JA-JP6277978338_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[パシフィック・パーク, 米国 カリフォルニア州 (© EXTREME-PHOTOGRAPHER/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%82%B7%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220250904_1500%22)
+## 北米を翔ける小さな旅人
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RufousHummer_JA-JP7090993703_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アカフトオハチドリ, 米国 カリフォルニア州 (© jeremyborkat/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%83%95%E3%83%88%E3%82%AA%E3%83%8F%E3%83%81%E3%83%89%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220250905_1500%22)
 <!-- Bing Wallpaper End -->
