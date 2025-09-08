@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## バルト海に輝く色とりどりの港町
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BlueGdansk_JA-JP0907344323_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グダニスク, ポーランド (© Oscar Dominguez/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%B0%E3%83%80%E3%83%8B%E3%82%B9%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220250906_1500%22)
+## 今日は国際識字デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.OrchardLibrary_JA-JP1251489199_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ライブラリー＠オーチャード, シンガポール (© Darwin Fan/Getty Images)](https://www.bing.com/search?q=%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC%EF%BC%A0%E3%82%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89&form=hpcapt&filters=HpDate%3a%2220250907_1500%22)
 <!-- Bing Wallpaper End -->
