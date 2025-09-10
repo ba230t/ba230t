@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ふわふわのしっぽを持つリス
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SwissSquirrel_JA-JP3789357030_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[苔を運ぶキタリス, スイス (© Jean-Luc and Francoise Ziegler/Minden Pictures)](https://www.bing.com/search?q=%E3%82%AD%E3%82%BF%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250908_1500%22)
+## 金色に輝く牧草ロール
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YorkshireHay_JA-JP4491584308_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヨークの農場, イングランド (© Nick Brundle Photography/Getty Images)](https://www.bing.com/search?q=%E7%89%A7%E8%8D%89%E3%83%AD%E3%83%BC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250909_1500%22)
 <!-- Bing Wallpaper End -->
