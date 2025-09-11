@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 金色に輝く牧草ロール
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YorkshireHay_JA-JP4491584308_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヨークの農場, イングランド (© Nick Brundle Photography/Getty Images)](https://www.bing.com/search?q=%E7%89%A7%E8%8D%89%E3%83%AD%E3%83%BC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220250909_1500%22)
+## 岩山を挟んで流れる二本の川
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ExtremaduraJamon_JA-JP6016561282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[モンフラグエ国立公園にあるペニャ・ファルコン岩, スペイン (© Daniel Viñé Garcia/Getty Images)](https://www.bing.com/search?q=%E3%83%A2%E3%83%B3%E3%83%95%E3%83%A9%E3%82%B0%E3%82%A8%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%E3%81%AB%E3%81%82%E3%82%8B%E3%83%9A%E3%83%8B%E3%83%A3%E3%83%BB%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B3%E3%83%B3%E5%B2%A9&form=hpcapt&filters=HpDate%3a%2220250910_1500%22)
 <!-- Bing Wallpaper End -->
