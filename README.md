@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## チムニー・ロックの美しい海岸
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PointReyesSeashore_JA-JP7685899201_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ポイント・レイズ国定海岸, 米国 カリフォルニア州 (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/search?q=%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%BB%E3%83%AC%E3%82%A4%E3%82%BA%E5%9B%BD%E5%AE%9A%E6%B5%B7%E5%B2%B8&form=hpcapt&filters=HpDate%3a%2220250912_1500%22)
+## 苔と水が織りなす風景
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HohWaterfall_JA-JP8707934931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オリンピック国立公園, 米国 ワシントン州 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220250913_1500%22)
 <!-- Bing Wallpaper End -->
