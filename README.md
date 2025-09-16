@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は敬老の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AgedDay2025_JA-JP9424136979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アメリカワシミミズク (© Scott Suriano/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%AF%E3%82%B7%E3%83%9F%E3%83%9F%E3%82%BA%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220250914_1500%22)
+## 今日は国際オゾン層保護デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.OzoneEarth_JA-JP1432094253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[高度約 360km から撮影したガルフコースト (© Stocktrek Images/Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%82%AA%E3%82%BE%E3%83%B3%E5%B1%A4%E4%BF%9D%E8%AD%B7%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250915_1500%22)
 <!-- Bing Wallpaper End -->
