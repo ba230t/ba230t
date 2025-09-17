@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際オゾン層保護デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OzoneEarth_JA-JP1432094253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[高度約 360km から撮影したガルフコースト (© Stocktrek Images/Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%82%AA%E3%82%BE%E3%83%B3%E5%B1%A4%E4%BF%9D%E8%AD%B7%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250915_1500%22)
+## 若き角の輝き
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YoungMoose_JA-JP2388659996_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[若いオスのヘラジカ, 米国 アラスカ州 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E8%8B%A5%E3%81%84%E3%82%AA%E3%82%B9%E3%81%AE%E3%83%98%E3%83%A9%E3%82%B8%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220250916_1500%22)
 <!-- Bing Wallpaper End -->
