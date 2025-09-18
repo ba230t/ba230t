@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 若き角の輝き
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YoungMoose_JA-JP2388659996_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[若いオスのヘラジカ, 米国 アラスカ州 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E8%8B%A5%E3%81%84%E3%82%AA%E3%82%B9%E3%81%AE%E3%83%98%E3%83%A9%E3%82%B8%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220250916_1500%22)
+## 崖沿いに続く美しい蛇行階段
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DunquinIreland_JA-JP7345541610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ダンキンの船着き場, アイルランド (© Hugh O'Connor/Getty Images)](https://www.bing.com/search?q=%E3%83%80%E3%83%B3%E3%82%AD%E3%83%B3%E3%81%AE%E8%88%B9%E7%9D%80%E3%81%8D%E5%A0%B4&form=hpcapt&filters=HpDate%3a%2220250917_1500%22)
 <!-- Bing Wallpaper End -->
