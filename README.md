@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 崖沿いに続く美しい蛇行階段
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DunquinIreland_JA-JP7345541610_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ダンキンの船着き場, アイルランド (© Hugh O'Connor/Getty Images)](https://www.bing.com/search?q=%E3%83%80%E3%83%B3%E3%82%AD%E3%83%B3%E3%81%AE%E8%88%B9%E7%9D%80%E3%81%8D%E5%A0%B4&form=hpcapt&filters=HpDate%3a%2220250917_1500%22)
+## 川に浮かぶ 1,800 の島々
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThousandIslands_JA-JP7633482914_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サウザンド諸島 (© benedek/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%82%A6%E3%82%B6%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220250918_1500%22)
 <!-- Bing Wallpaper End -->
