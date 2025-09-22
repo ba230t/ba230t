@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今週はラッコ啓蒙週間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.IceOtters_JA-JP8317371641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[プリンス・ウィリアム湾, 米国 アラスカ州 (© Gerald Corsi/Getty Images)](https://www.bing.com/search?q=%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E6%B9%BE%E3%81%AE%E3%83%A9%E3%83%83%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220250920_1500%22)
+## 色とりどりのくちばしを持つオオハシ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サンショクキムネオオハシ, コスタリカ (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A7%E3%82%AF%E3%82%AD%E3%83%A0%E3%83%8D%E3%82%AA%E3%82%AA%E3%83%8F%E3%82%B7&form=hpcapt&filters=HpDate%3a%2220250921_1500%22)
 <!-- Bing Wallpaper End -->
