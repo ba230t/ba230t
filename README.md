@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 色とりどりのくちばしを持つオオハシ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サンショクキムネオオハシ, コスタリカ (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A7%E3%82%AF%E3%82%AD%E3%83%A0%E3%83%8D%E3%82%AA%E3%82%AA%E3%83%8F%E3%82%B7&form=hpcapt&filters=HpDate%3a%2220250921_1500%22)
+## 今日は秋分の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AutumnEquinox2025_JA-JP9152081751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[秋の七草 ハギ (© kororokerokero/Getty Images)](https://www.bing.com/search?q=%E7%A7%8B%E3%81%AE%E4%B8%83%E8%8D%89+%E3%83%8F%E3%82%AE&form=hpcapt&filters=HpDate%3a%2220250922_1500%22)
 <!-- Bing Wallpaper End -->
