@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は秋分の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AutumnEquinox2025_JA-JP9152081751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[秋の七草 ハギ (© kororokerokero/Getty Images)](https://www.bing.com/search?q=%E7%A7%8B%E3%81%AE%E4%B8%83%E8%8D%89+%E3%83%8F%E3%82%AE&form=hpcapt&filters=HpDate%3a%2220250922_1500%22)
+## 空を切り裂く稲妻と巨大な岩山
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BearLodge_JA-JP0426816004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[デビルスタワー, 米国 ワイオミング州 (© Laura Hedien/Getty Images)](https://www.bing.com/search?q=%E3%83%87%E3%83%93%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250923_1500%22)
 <!-- Bing Wallpaper End -->
