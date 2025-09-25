@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 空を切り裂く稲妻と巨大な岩山
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BearLodge_JA-JP0426816004_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[デビルスタワー, 米国 ワイオミング州 (© Laura Hedien/Getty Images)](https://www.bing.com/search?q=%E3%83%87%E3%83%93%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%AF%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220250923_1500%22)
+## 勇者たちの誇りを刻むお城
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FortChittorgarh_JA-JP1975287268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[チットールガル城, インド (© chetansoni/Shutterstock)](https://www.bing.com/search?q=%E3%83%81%E3%83%83%E3%83%88%E3%83%BC%E3%83%AB%E3%82%AC%E3%83%AB%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220250924_1500%22)
 <!-- Bing Wallpaper End -->
