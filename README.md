@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 勇者たちの誇りを刻むお城
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FortChittorgarh_JA-JP1975287268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[チットールガル城, インド (© chetansoni/Shutterstock)](https://www.bing.com/search?q=%E3%83%81%E3%83%83%E3%83%88%E3%83%BC%E3%83%AB%E3%82%AC%E3%83%AB%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220250924_1500%22)
+## 頬を膨らませる姿
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AutumnChipmunk_JA-JP1455684810_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[チビシマリス, 米国 モンタナ州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/search?q=%E3%83%81%E3%83%93%E3%82%B7%E3%83%9E%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220250925_1500%22)
 <!-- Bing Wallpaper End -->
