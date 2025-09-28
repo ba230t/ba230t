@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 星降る夜の水鏡
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TankLakes_JA-JP1667519475_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[タンク・レイクス, 米国 ワシントン州 (© Austin Trigg/TANDEM Stills + Motion)](https://www.bing.com/search?q=Tanks+Lake&form=hpcapt&filters=HpDate%3a%2220250926_1500%22)
+## トスカーナの小さな町
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PienzaItaly_JA-JP1964382138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ピエンツァ, イタリア (© zpagistock/Getty Images)](https://www.bing.com/search?q=%E3%83%94%E3%82%A8%E3%83%B3%E3%83%84%E3%82%A1&form=hpcapt&filters=HpDate%3a%2220250927_1500%22)
 <!-- Bing Wallpaper End -->
