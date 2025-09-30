@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は招き猫の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ManekiNeko_JA-JP6063646197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[豪徳寺の招き猫, 東京都 (© Maria S./Alamy Stock Photo)](https://www.bing.com/search?q=%E8%B1%AA%E5%BE%B3%E5%AF%BA%E3%81%AE%E6%8B%9B%E3%81%8D%E7%8C%AB&form=hpcapt&filters=HpDate%3a%2220250928_1500%22)
+## 丸い体とふわふわの耳をもつ動物
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.EucalyptusKoala_JA-JP6385601679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[コアラ, オーストラリア (© Jamie Lamb - elusive-images.co.uk/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%82%A2%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220250929_1500%22)
 <!-- Bing Wallpaper End -->
