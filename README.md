@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## スネーク川と山々の絶景スポット
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OxbowBend_JA-JP6534968552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オックスボウ・ベンド, 米国 ワイオミング州 (© DanitaDelimont.com/AWL Images/SuperStock)](https://www.bing.com/search?q=%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%9C%E3%82%A6%E3%83%BB%E3%83%99%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220251001_1500%22)
+## 紫の花咲く大地
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SkyeHeather_JA-JP7561347402_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グレン・ブリトル, スコットランド (© Adam Mowery/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AA%E3%83%88%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220251002_1500%22)
 <!-- Bing Wallpaper End -->
