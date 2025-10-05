@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日から世界宇宙週間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DragonEndeavour_JA-JP7626531843_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エンデバーから見た ISS のソーラーパネル (© NASA)](https://www.bing.com/search?q=+ISS%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220251003_1500%22)
+## 今日は世界教師デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TeacherOwl_JA-JP7686022274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[森に佇むキンメフクロウ (© Ondrej Prosicky/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%95%99%E5%B8%AB%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251004_1500%22)
 <!-- Bing Wallpaper End -->
