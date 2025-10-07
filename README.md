@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は中秋の名月
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AnshunBridge_JA-JP7739273331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[錦江に映える安順橋と満月, 中国 (© Philippe LEJEANVRE/Getty Images)](https://www.bing.com/search?q=%E5%AE%89%E9%A0%86%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220251005_1500%22)
+## 黄金に染まる山
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RidgwayAspens_JA-JP7797192109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スネフェルス山, 米国 コロラド州 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%B9%E3%83%8D%E3%83%95%E3%82%A7%E3%83%AB%E3%82%B9%E5%B1%B1+%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220251006_1500%22)
 <!-- Bing Wallpaper End -->
