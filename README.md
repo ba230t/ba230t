@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 黄金に染まる山
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RidgwayAspens_JA-JP7797192109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[スネフェルス山, 米国 コロラド州 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%B9%E3%83%8D%E3%83%95%E3%82%A7%E3%83%AB%E3%82%B9%E5%B1%B1+%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220251006_1500%22)
+## 今日は寒露
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Ryuzufalls2025_JA-JP6418303608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[竜頭の滝, 栃木県 日光市 (© kecl/Getty images)](https://www.bing.com/search?q=%E7%AB%9C%E9%A0%AD%E3%81%AE%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220251007_1500%22)
 <!-- Bing Wallpaper End -->
