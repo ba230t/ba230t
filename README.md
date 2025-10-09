@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は寒露
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Ryuzufalls2025_JA-JP6418303608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[竜頭の滝, 栃木県 日光市 (© kecl/Getty images)](https://www.bing.com/search?q=%E7%AB%9C%E9%A0%AD%E3%81%AE%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220251007_1500%22)
+## 10 月 4 日から 10 日まで世界宇宙週間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ジェームズ・ウェッブ宇宙望遠鏡が撮影した創造の柱 (© NASA)](https://www.bing.com/search?q=%E5%89%B5%E9%80%A0%E3%81%AE%E6%9F%B1&form=hpcapt&filters=HpDate%3a%2220251008_1500%22)
 <!-- Bing Wallpaper End -->
