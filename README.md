@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はフィジー共和国の独立記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MonurikiFiji_JA-JP7889877935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[モンリキ島, フィジー (© David Wall/SuperStock)](https://www.bing.com/search?q=%E3%83%A2%E3%83%B3%E3%83%AA%E3%82%AD%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220251009_1500%22)
+## 今日は世界渡り鳥の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WoodDuckHen_JA-JP7933266501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[メスのアメリカオシ, 米国 (© ps50ace/iStock/Getty Images)](https://www.bing.com/search?q=%E3%83%A1%E3%82%B9%E3%81%AE%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%AA%E3%82%B7&form=hpcapt&filters=HpDate%3a%2220251010_1500%22)
 <!-- Bing Wallpaper End -->
