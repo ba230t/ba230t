@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 湖に映る紅葉の風景
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SaranacLake_JA-JP8002477019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サラナック・レイク村, 米国 ニューヨーク州 (© DenisTangneyJr/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%A9%E3%83%8A%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AC%E3%82%A4%E3%82%AF%E6%9D%91&form=hpcapt&filters=HpDate%3a%2220251011_1500%22)
+## 青空と海に囲まれたイア村
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.OiaSantorini_JA-JP8051360298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[イア村, グリース (© f9photos/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%82%A2%E6%9D%91&form=hpcapt&filters=HpDate%3a%2220251012_1500%22)
 <!-- Bing Wallpaper End -->
