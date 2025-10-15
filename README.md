@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は鉄道の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RailwayDay2025_JA-JP0346908442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[第一只見川橋梁, 福島県 大沼郡 (© Doctor Egg/Getty Images)](https://www.bing.com/search?q=%E7%AC%AC%E4%B8%80%E5%8F%AA%E8%A6%8B%E5%B7%9D%E6%A9%8B%E6%A2%81&form=hpcapt&filters=HpDate%3a%2220251013_1500%22)
+## ハウテンのカラフルな家並み
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HoutenHouses_JA-JP0762629111_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ハウテン町, オランダ (© George Pachantouris/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%82%A6%E3%83%86%E3%83%B3%E7%94%BA&form=hpcapt&filters=HpDate%3a%2220251014_1500%22)
 <!-- Bing Wallpaper End -->
