@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 秋色に染まるロック・リバー・フォールズ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RockRiverFalls_JA-JP0295221799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ロック・リバー・フォールズ, 米国 ミシガン州 (© Matt Anderson Photography/Getty Images)](https://www.bing.com/search?q=%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%90%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%82%BA&form=hpcapt&filters=HpDate%3a%2220251016_1500%22)
+## 今日は国際考古学の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SilburyHill_JA-JP0577938785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シルベリー・ヒル, イングランド (© dbstockphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B7%E3%83%AB%E3%83%99%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%92%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220251017_1500%22)
 <!-- Bing Wallpaper End -->
