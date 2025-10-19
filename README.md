@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際考古学の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SilburyHill_JA-JP0577938785_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[シルベリー・ヒル, イングランド (© dbstockphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B7%E3%83%AB%E3%83%99%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%92%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220251017_1500%22)
+## たわわに実るリンゴ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AppleHarvest_JA-JP0862857490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[収穫時期を迎えたリンゴ, 米国 ミネソタ州 (© Tammi Mild/Getty Images)](https://www.bing.com/search?q=%E5%8F%8E%E7%A9%AB%E6%99%82%E6%9C%9F%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B4&form=hpcapt&filters=HpDate%3a%2220251018_1500%22)
 <!-- Bing Wallpaper End -->
