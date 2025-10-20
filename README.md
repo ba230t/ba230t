@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## たわわに実るリンゴ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AppleHarvest_JA-JP0862857490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[収穫時期を迎えたリンゴ, 米国 ミネソタ州 (© Tammi Mild/Getty Images)](https://www.bing.com/search?q=%E5%8F%8E%E7%A9%AB%E6%99%82%E6%9C%9F%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E3%83%AA%E3%83%B3%E3%82%B4&form=hpcapt&filters=HpDate%3a%2220251018_1500%22)
+## 今日は国際ナマケモノの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HoffmansSloth_JA-JP1255329003_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ホフマンナマケモノ, エクアドル (© Murray Cooper/Minden Pictures)](https://www.bing.com/search?q=%E3%83%9B%E3%83%95%E3%83%9E%E3%83%B3%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E&form=hpcapt&filters=HpDate%3a%2220251019_1500%22)
 <!-- Bing Wallpaper End -->
