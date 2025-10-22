@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はディワリ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DiyaDiwali_JA-JP1552911829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ハリマンディル・サーヒブ, インド (© EyeEm Mobile GmbH/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%83%AA%E3%83%9E%E3%83%B3%E3%83%87%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%92%E3%83%96&form=hpcapt&filters=HpDate%3a%2220251020_1500%22)
+## 今日は平安遷都の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HeianDay2025_JA-JP1910457007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[平安神宮の泰平閣, 京都府 京都市 (© Trevor Chriss/Alamy)](https://www.bing.com/search?q=%E5%B9%B3%E5%AE%89%E7%A5%9E%E5%AE%AE%E3%81%AE%E6%B3%B0%E5%B9%B3%E9%96%A3&form=hpcapt&filters=HpDate%3a%2220251021_1500%22)
 <!-- Bing Wallpaper End -->
