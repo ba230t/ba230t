@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は平安遷都の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HeianDay2025_JA-JP1910457007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[平安神宮の泰平閣, 京都府 京都市 (© Trevor Chriss/Alamy)](https://www.bing.com/search?q=%E5%B9%B3%E5%AE%89%E7%A5%9E%E5%AE%AE%E3%81%AE%E6%B3%B0%E5%B9%B3%E9%96%A3&form=hpcapt&filters=HpDate%3a%2220251021_1500%22)
+## 今日は霜降
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AomoriAutumn2025_JA-JP3668853549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[八甲田山の紅葉, 青森県青森市 (© Mekdet/Getty images)](https://www.bing.com/search?q=%E5%85%AB%E7%94%B2%E7%94%B0%E5%B1%B1%E3%81%AE%E7%B4%85%E8%91%89&form=hpcapt&filters=HpDate%3a%2220251022_1500%22)
 <!-- Bing Wallpaper End -->
