@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は霜降
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AomoriAutumn2025_JA-JP3668853549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[八甲田山の紅葉, 青森県青森市 (© Mekdet/Getty images)](https://www.bing.com/search?q=%E5%85%AB%E7%94%B2%E7%94%B0%E5%B1%B1%E3%81%AE%E7%B4%85%E8%91%89&form=hpcapt&filters=HpDate%3a%2220251022_1500%22)
+## ライトアップされた元豪華客船
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.QueenMary_JA-JP3893109028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[クイーン・メリー, 米国 カリフォルニア州 (© Kit Leong/Shutterstock)](https://www.bing.com/search?q=%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%A1%E3%83%AA%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251023_1500%22)
 <!-- Bing Wallpaper End -->
