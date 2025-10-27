@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はナショナル・パンプキン・デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PumpkinFarm_JA-JP4335474767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カボチャ農園, 米国 ノースカロライナ州 (© Matthew H Irvin/Getty Images)](https://www.bing.com/search?q=%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%BB%E3%83%91%E3%83%B3%E3%83%97%E3%82%AD%E3%83%B3%E3%83%BB%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251025_1500%22)
+## 大きなくちばしを持つカラス
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AfricanRaven_JA-JP4581712736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オオハシガラス, エチオピア (© Ignacio Yufera/FLPA/Minden Pictures)](https://www.bing.com/search?q=%E3%82%AA%E3%82%AA%E3%83%8F%E3%82%B7%E3%82%AC%E3%83%A9%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220251026_1500%22)
 <!-- Bing Wallpaper End -->
