@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 大きなくちばしを持つカラス
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AfricanRaven_JA-JP4581712736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オオハシガラス, エチオピア (© Ignacio Yufera/FLPA/Minden Pictures)](https://www.bing.com/search?q=%E3%82%AA%E3%82%AA%E3%83%8F%E3%82%B7%E3%82%AC%E3%83%A9%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220251026_1500%22)
+## 岩の迷宮
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TepliceRocks_JA-JP4817805390_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アドルシュパフ=テプリツェ奇岩群, チェコ共和国 (© Kseniya_Milner/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%89%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%91%E3%83%95%3d%E3%83%86%E3%83%97%E3%83%AA%E3%83%84%E3%82%A7%E5%A5%87%E5%B2%A9%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220251027_1500%22)
 <!-- Bing Wallpaper End -->
