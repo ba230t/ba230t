@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 岩の迷宮
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TepliceRocks_JA-JP4817805390_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アドルシュパフ=テプリツェ奇岩群, チェコ共和国 (© Kseniya_Milner/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%89%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%91%E3%83%95%3d%E3%83%86%E3%83%97%E3%83%AA%E3%83%84%E3%82%A7%E5%A5%87%E5%B2%A9%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220251027_1500%22)
+## 霧に包まれた幻想の森
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FanalForest_JA-JP5058622515_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マデイラ島のファナルの森, ポルトガル (© Lukas Jonaitis/Shutterstock)](https://www.bing.com/search?q=%E3%83%9E%E3%83%87%E3%82%A4%E3%83%A9%E5%B3%B6+%E3%83%95%E3%82%A1%E3%83%8A%E3%83%AB%E3%81%AE%E6%A3%AE&form=hpcapt&filters=HpDate%3a%2220251028_1500%22)
 <!-- Bing Wallpaper End -->
