@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日からプシュカル・キャメルフェア
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PushkarFair_JA-JP5237549354_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[砂漠を歩くラクダたち, インド ラージャスターン州 (© f9photos/Getty Images)](https://www.bing.com/search?q=%E3%83%97%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%AB%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AB%E3%83%95%E3%82%A7%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220251029_1500%22)
+## 今日はハロウィン
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BranCastle_JA-JP1493249630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ブラン城, ルーマニア (© blue sky in my pocket/Getty Images)](https://www.bing.com/search?q=%E3%83%96%E3%83%A9%E3%83%B3%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220251030_1500%22)
 <!-- Bing Wallpaper End -->
