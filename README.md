@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 爽やかな渓谷と木製の遊歩道
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HinterseeWaterfall_JA-JP9416603910_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ウィンバッハ峡谷, ドイツ (© EyeEm Mobile GmbH/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%90%E3%83%83%E3%83%8F%E5%B3%A1%E8%B0%B7&form=hpcapt&filters=HpDate%3a%2220251102_1500%22)
+## ロンドンを象徴する美しい橋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[タワーブリッジ, イングランド (© Nick Brundle Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8&form=hpcapt&filters=HpDate%3a%2220251103_1500%22)
 <!-- Bing Wallpaper End -->
