@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ロンドンを象徴する美しい橋
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[タワーブリッジ, イングランド (© Nick Brundle Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8&form=hpcapt&filters=HpDate%3a%2220251103_1500%22)
+## モンカヨ自然公園の秋景色
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MoncayoAutumn_JA-JP0004840781_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ペーニャ・ロヤのブナ林, スペイン (© David Santiago Garcia/DEEPOL by plainpicture)](https://www.bing.com/search?q=Pe%C3%B1a+Roya+beech+forest&form=hpcapt&filters=HpDate%3a%2220251104_1500%22)
 <!-- Bing Wallpaper End -->
