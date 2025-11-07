@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はロイクラトン
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LanternsThailand_JA-JP0402404581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ワット・プラタートハリプンチャイ寺院, タイ (© MR. ANUJAK JAIMOOK/Getty Images)](https://www.bing.com/search?q=%E3%83%AF%E3%83%83%E3%83%88%E3%83%BB%E3%83%97%E3%83%A9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%8F%E3%83%AA%E3%83%97%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E5%AF%BA%E9%99%A2&form=hpcapt&filters=HpDate%3a%2220251105_1500%22)
+## 今日は立冬
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Lidong2025_JA-JP0788996940_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[エナガ, 日本 (© feathercollector/Shutterstock)](https://www.bing.com/search?q=%E3%82%A8%E3%83%8A%E3%82%AC&form=hpcapt&filters=HpDate%3a%2220251106_1500%22)
 <!-- Bing Wallpaper End -->
