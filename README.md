@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は立冬
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Lidong2025_JA-JP0788996940_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エナガ, 日本 (© feathercollector/Shutterstock)](https://www.bing.com/search?q=%E3%82%A8%E3%83%8A%E3%82%AC&form=hpcapt&filters=HpDate%3a%2220251106_1500%22)
+## 波や風に削られた岩
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BandonBeach_JA-JP1159899135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[バンドンビーチの海蝕岩, 米国 オレゴン州 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%83%90%E3%83%B3%E3%83%89%E3%83%B3%E3%83%93%E3%83%BC%E3%83%81%E3%81%AE%E6%B5%B7%E8%9D%95%E5%B2%A9&form=hpcapt&filters=HpDate%3a%2220251107_1500%22)
 <!-- Bing Wallpaper End -->
