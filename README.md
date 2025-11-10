@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はカール・セーガン・デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LagoonNebula_JA-JP1393658321_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ハッブル宇宙望遠鏡が撮影したラグーン星雲の星間雲 (© ESA/NASA)](https://www.bing.com/search?q=%E6%98%9F%E9%96%93%E9%9B%B2&form=hpcapt&filters=HpDate%3a%2220251108_1500%22)
+## 今日は松本城の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MatsumotoCastleDay2025_JA-JP3896283133_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[松本城, 長野県 松本市 (© Sangchai Olanrittinunt/Shutterstock)](https://www.bing.com/search?q=%E6%9D%BE%E6%9C%AC%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220251109_1500%22)
 <!-- Bing Wallpaper End -->
