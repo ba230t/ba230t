@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 浸食で形成された砂岩
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BulgariaRocks_JA-JP2963566999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ベログラトチク岩, ブルガリア (© EvaL Miko/Shutterstock)](https://www.bing.com/search?q=%E3%83%99%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%88%E3%83%81%E3%82%AF%E5%B2%A9&form=hpcapt&filters=HpDate%3a%2220251110_1500%22)
+## ライトアップされたフラウィウス円形闘技場
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ColosseumRome_JA-JP4396797747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[コロッセオ, イタリア (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%83%AD%E3%83%83%E3%82%BB%E3%82%AA&form=hpcapt&filters=HpDate%3a%2220251111_1500%22)
 <!-- Bing Wallpaper End -->
