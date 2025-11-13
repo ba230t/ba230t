@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ライトアップされたフラウィウス円形闘技場
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ColosseumRome_JA-JP4396797747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[コロッセオ, イタリア (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%83%AD%E3%83%83%E3%82%BB%E3%82%AA&form=hpcapt&filters=HpDate%3a%2220251111_1500%22)
+## ナミビアにある星空観賞の名所
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AloeDichotoma_JA-JP4764495415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[クイバーツリーの森, ナミビア (© Wim van den Heever/naturepl.com)](https://www.bing.com/search?q=%E3%82%AF%E3%82%A4%E3%83%90%E3%83%BC%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AE%E6%A3%AE&form=hpcapt&filters=HpDate%3a%2220251112_1500%22)
 <!-- Bing Wallpaper End -->
