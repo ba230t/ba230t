@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ナミビアにある星空観賞の名所
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AloeDichotoma_JA-JP4764495415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[クイバーツリーの森, ナミビア (© Wim van den Heever/naturepl.com)](https://www.bing.com/search?q=%E3%82%AF%E3%82%A4%E3%83%90%E3%83%BC%E3%83%84%E3%83%AA%E3%83%BC%E3%81%AE%E6%A3%AE&form=hpcapt&filters=HpDate%3a%2220251112_1500%22)
+## 11 月はマナティー啓発月間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ManateeBaby_JA-JP3549645655_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マナティー, 米国 フロリダ州 (© Gregory Sweeney/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%83%8A%E3%83%86%E3%82%A3%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251113_1500%22)
 <!-- Bing Wallpaper End -->
