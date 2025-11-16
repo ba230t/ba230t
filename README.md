@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 紅葉盛りのいろは坂
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.IrohazakaAutumn_JA-JP9540132956_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[いろは坂, 栃木県 日光市 (© oneinchpunch/Shutterstock)](https://www.bing.com/search?q=%E3%81%84%E3%82%8D%E3%81%AF%E5%9D%82&form=hpcapt&filters=HpDate%3a%2220251114_1500%22)
+## 歴史ある建物に囲まれた空の窓
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LyonTraboules_JA-JP9477523078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[リヨンにあるトラブール, フランス (© TPopova/Getty Images)](https://www.bing.com/search?q=%E3%83%AA%E3%83%A8%E3%83%B3%E3%81%AB%E3%81%82%E3%82%8B%E3%83%88%E3%83%A9%E3%83%96%E3%83%BC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220251115_1500%22)
 <!-- Bing Wallpaper End -->
