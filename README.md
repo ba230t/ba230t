@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 歴史ある建物に囲まれた空の窓
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LyonTraboules_JA-JP9477523078_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[リヨンにあるトラブール, フランス (© TPopova/Getty Images)](https://www.bing.com/search?q=%E3%83%AA%E3%83%A8%E3%83%B3%E3%81%AB%E3%81%82%E3%82%8B%E3%83%88%E3%83%A9%E3%83%96%E3%83%BC%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220251115_1500%22)
+## 今日はナショナル・ハイキング・デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シェナンドー国立公園, 米国 バージニア州 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/search?q=%E3%82%B7%E3%82%A7%E3%83%8A%E3%83%B3%E3%83%89%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220251116_1500%22)
 <!-- Bing Wallpaper End -->
