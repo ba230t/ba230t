@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はナショナル・ハイキング・デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ShenandoahTrail_JA-JP4220647370_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[シェナンドー国立公園, 米国 バージニア州 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/search?q=%E3%82%B7%E3%82%A7%E3%83%8A%E3%83%B3%E3%83%89%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220251116_1500%22)
+## 湖で泳ぐ白黒の冠羽を持つ水鳥
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AutumnMerganser_JA-JP4454078554_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オスのオウギアイサ, 米国 オレゴン州 (© Eric Vogt/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%AA%E3%82%B9%E3%81%AE%E3%82%AA%E3%82%A6%E3%82%AE%E3%82%A2%E3%82%A4%E3%82%B5&form=hpcapt&filters=HpDate%3a%2220251117_1500%22)
 <!-- Bing Wallpaper End -->
