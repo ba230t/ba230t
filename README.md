@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ライトアップされたブダペストの心臓
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BudapestParliament_JA-JP4965401234_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[国会議事堂, ハンガリー (© Alexander Spatari/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E3%81%AE%E5%9B%BD%E4%BC%9A%E8%AD%B0%E4%BA%8B%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220251118_1500%22)
+## 今日は「世界子どもの日」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SaypeGeneva_JA-JP5293768953_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[Saype によるランドアート「World in progress」, スイス (© Valentin Flauraud/EPA-EFE/Shutterstock)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220251119_1500%22)
 <!-- Bing Wallpaper End -->
