@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界ハロー・デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SealWaving_JA-JP5482157523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ゼニガタアザラシ, 米国 ニューヨーク州 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251120_1500%22)
+## 紅葉に彩られた日本庭園
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Kenrokuen2025_JA-JP5771782879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[兼六園, 石川県 金沢市 (© Darby Sawchuk/Alamy)](https://www.bing.com/search?q=%E5%85%BC%E5%85%AD%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220251121_1500%22)
 <!-- Bing Wallpaper End -->
