@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 紅葉に彩られた日本庭園
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Kenrokuen2025_JA-JP5771782879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[兼六園, 石川県 金沢市 (© Darby Sawchuk/Alamy)](https://www.bing.com/search?q=%E5%85%BC%E5%85%AD%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220251121_1500%22)
+## 今日はフィボナッチ数の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MadgascarAmmonite_JA-JP9626898982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アンモナイトの化石, マダガスカル (© ThomasLENNE/Shutterstock)](https://www.bing.com/search?q=%E3%83%95%E3%82%A3%E3%83%9C%E3%83%8A%E3%83%83%E3%83%81%E6%95%B0&form=hpcapt&filters=HpDate%3a%2220251122_1500%22)
 <!-- Bing Wallpaper End -->
