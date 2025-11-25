@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 丘の上に築かれた壮大な要塞
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GwailorFort_JA-JP6608183418_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グワーリヤル城, インド マディヤ・プラデーシュ州 (© ImagesofIndia/Shutterstock)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AF%E3%83%BC%E3%83%AA%E3%83%A4%E3%83%AB%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220251123_1500%22)
+## 願いを託す噴水
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TreviFountain_JA-JP7108167891_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[トレヴィの泉, イタリア (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/search?q=%E3%83%88%E3%83%AC%E3%83%B4%E3%82%A3%E3%81%AE%E6%B3%89&form=hpcapt&filters=HpDate%3a%2220251124_1500%22)
 <!-- Bing Wallpaper End -->
