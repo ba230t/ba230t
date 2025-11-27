@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「いい風呂の日」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TamagawaHotspring2025_JA-JP7774958074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[玉川温泉, 秋田県 仙北市 (© jiraphoto/Shutterstock)](https://www.bing.com/search?q=%E7%8E%89%E5%B7%9D%E6%B8%A9%E6%B3%89&form=hpcapt&filters=HpDate%3a%2220251125_1500%22)
+## 崖に彫られた巨大な石仏
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LeshanBuddha_JA-JP7625382649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[楽山大仏, 中国 四川省 (© www.anotherdayattheoffice.org/Getty Images)](https://www.bing.com/search?q=%E6%A5%BD%E5%B1%B1%E5%A4%A7%E4%BB%8F&form=hpcapt&filters=HpDate%3a%2220251126_1500%22)
 <!-- Bing Wallpaper End -->
