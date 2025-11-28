@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 崖に彫られた巨大な石仏
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LeshanBuddha_JA-JP7625382649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[楽山大仏, 中国 四川省 (© www.anotherdayattheoffice.org/Getty Images)](https://www.bing.com/search?q=%E6%A5%BD%E5%B1%B1%E5%A4%A7%E4%BB%8F&form=hpcapt&filters=HpDate%3a%2220251126_1500%22)
+## ライトアップされたヴィクトリア様式の桟橋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_JA-JP3886406072_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[イーストボーン・ピア, イングランド (© Tolga_TEZCAN/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%94%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220251127_1500%22)
 <!-- Bing Wallpaper End -->
