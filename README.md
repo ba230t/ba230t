@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 賑やかなクリスマスマーケット
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LeipzigMarket_JA-JP4635398784_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ライプツィヒ・クリスマスマーケット, ドイツ (© Krzysztof Baranowski/Getty Images)](https://www.bing.com/search?q=%E3%83%A9%E3%82%A4%E3%83%97%E3%83%84%E3%82%A3%E3%83%92%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88&form=hpcapt&filters=HpDate%3a%2220251129_1500%22)
+## 今日は南極の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[南極の氷山に刻まれた天然のアーチ, 南極大陸 (© Gabrielle/Adobe Stock)](https://www.bing.com/search?q=%E5%8D%97%E6%A5%B5%E3%81%AE%E6%B0%B7%E5%B1%B1%E3%81%AB%E5%88%BB%E3%81%BE%E3%82%8C%E3%81%9F%E5%A4%A9%E7%84%B6%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220251130_1500%22)
 <!-- Bing Wallpaper End -->
