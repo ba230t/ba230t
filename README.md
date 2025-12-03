@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はアラスカ国有地保護法の記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WillowLake_JA-JP5149786689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ウィロー湖とブラックバーン山, 米国 アラスカ州 (© Patrick J. Endres/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%82%A3%E3%83%AD%E3%83%BC%E6%B9%96%E3%81%A8%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%83%BC%E3%83%B3%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220251201_1500%22)
+## 今日は秩父夜祭の大祭り
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChichibuNightFestival2025_JA-JP8715169093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[秩父夜祭の屋台, 埼玉県 秩父市 (© Joshua Hawley/Alamy)](https://www.bing.com/search?q=%E7%A7%A9%E7%88%B6%E5%A4%9C%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220251202_1500%22)
 <!-- Bing Wallpaper End -->
