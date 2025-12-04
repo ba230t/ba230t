@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は秩父夜祭の大祭り
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChichibuNightFestival2025_JA-JP8715169093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[秩父夜祭の屋台, 埼玉県 秩父市 (© Joshua Hawley/Alamy)](https://www.bing.com/search?q=%E7%A7%A9%E7%88%B6%E5%A4%9C%E7%A5%AD%E3%81%AE%E5%B1%8B%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220251202_1500%22)
+## 今日は世界野生生物保全の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CheetahMound_JA-JP6984308413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[チーター, ケニア (© Andy Rouse/naturepl.com)](https://www.bing.com/search?q=%E3%83%81%E3%83%BC%E3%82%BF%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251203_1500%22)
 <!-- Bing Wallpaper End -->
