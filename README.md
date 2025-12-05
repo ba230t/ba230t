@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界野生生物保全の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CheetahMound_JA-JP6984308413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[チーター, ケニア (© Andy Rouse/naturepl.com)](https://www.bing.com/search?q=%E3%83%81%E3%83%BC%E3%82%BF%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251203_1500%22)
+## ホンジュラスにある世界遺産
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CopanRuins_JA-JP2710848355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[コパンのマヤ遺跡, ホンジュラス (© diegograndi/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%9E%E3%83%A4%E9%81%BA%E8%B7%A1&form=hpcapt&filters=HpDate%3a%2220251204_1500%22)
 <!-- Bing Wallpaper End -->
