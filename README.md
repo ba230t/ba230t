@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ホンジュラスにある世界遺産
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CopanRuins_JA-JP2710848355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[コパンのマヤ遺跡, ホンジュラス (© diegograndi/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%83%91%E3%83%B3%E3%81%AE%E3%83%9E%E3%83%A4%E9%81%BA%E8%B7%A1&form=hpcapt&filters=HpDate%3a%2220251204_1500%22)
+## 水とマングローブの迷宮
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.EvergladesSunrise_JA-JP2745208080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[エバーグレーズ国立公園, 米国 (© Troy Harrison/Getty Images)](https://www.bing.com/search?q=%E3%82%A8%E3%83%90%E3%83%BC%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220251205_1500%22)
 <!-- Bing Wallpaper End -->
