@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日 は「大雪」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[白馬三山の雪景色 (© Thirawatana Phaisalratana/Getty Images)](https://www.bing.com/search?q=%E7%99%BD%E9%A6%AC%E4%B8%89%E5%B1%B1%E3%81%AE%E9%9B%AA%E6%99%AF%E8%89%B2&form=hpcapt&filters=HpDate%3a%2220251206_1500%22)
+## コモ湖畔にある小さな町
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ドマーゾ, イタリア (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2+%E3%83%89%E3%83%9E%E3%83%BC%E3%82%BE&form=hpcapt&filters=HpDate%3a%2220251207_1500%22)
 <!-- Bing Wallpaper End -->
