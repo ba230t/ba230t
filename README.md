@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## コモ湖畔にある小さな町
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ドマーゾ, イタリア (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2+%E3%83%89%E3%83%9E%E3%83%BC%E3%82%BE&form=hpcapt&filters=HpDate%3a%2220251207_1500%22)
+## 今日はリャマの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LlamaDay_JA-JP7586440652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[バルデス半島のグアナコ, アルゼンチン (© Sylvain Cordier/naturepl.com)](https://www.bing.com/search?q=%E3%82%B0%E3%82%A2%E3%83%8A%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220251208_1500%22)
 <!-- Bing Wallpaper End -->
