@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はリャマの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LlamaDay_JA-JP7586440652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[バルデス半島のグアナコ, アルゼンチン (© Sylvain Cordier/naturepl.com)](https://www.bing.com/search?q=%E3%82%B0%E3%82%A2%E3%83%8A%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220251208_1500%22)
+## イスラムとキリスト教が交差する奇跡の空間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CordobaCathedral_JA-JP3405653486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[メスキータ, スペイン アンダルシア州 (© Elena Zolotova/Getty Images)](https://www.bing.com/search?q=%E3%83%A1%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%BF&form=hpcapt&filters=HpDate%3a%2220251209_1500%22)
 <!-- Bing Wallpaper End -->
