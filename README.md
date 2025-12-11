@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## イスラムとキリスト教が交差する奇跡の空間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CordobaCathedral_JA-JP3405653486_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[メスキータ, スペイン アンダルシア州 (© Elena Zolotova/Getty Images)](https://www.bing.com/search?q=%E3%83%A1%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%BF&form=hpcapt&filters=HpDate%3a%2220251209_1500%22)
+## 今日は国際山岳デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.EverestGlow_JA-JP3566583579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[黄金色に染めるエベレスト, ネパール  (© shoults/Alamy)](https://www.bing.com/search?q=%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88&form=hpcapt&filters=HpDate%3a%2220251210_1500%22)
 <!-- Bing Wallpaper End -->
