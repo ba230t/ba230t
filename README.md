@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際山岳デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.EverestGlow_JA-JP3566583579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[黄金色に染めるエベレスト, ネパール  (© shoults/Alamy)](https://www.bing.com/search?q=%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88&form=hpcapt&filters=HpDate%3a%2220251210_1500%22)
+## 今日はポインセチアの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[雪のような白い斑点模様のポインセチア (© DigiPub/Getty Images)](https://www.bing.com/search?q=%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%81%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220251211_1500%22)
 <!-- Bing Wallpaper End -->
