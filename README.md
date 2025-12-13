@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はポインセチアの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[雪のような白い斑点模様のポインセチア (© DigiPub/Getty Images)](https://www.bing.com/search?q=%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%81%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220251211_1500%22)
+## マーセド川に映る雪景色
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YosemiteWinter_JA-JP0378777748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マーセド川, 米国 カリフォルニア州 (© Ron and Patty Thomas/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%83%BC%E3%82%BB%E3%83%89%E5%B7%9D&form=hpcapt&filters=HpDate%3a%2220251212_1500%22)
 <!-- Bing Wallpaper End -->
