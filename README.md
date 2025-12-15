@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日からクリスマス・バード・カウント
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TuftedTitmouse_JA-JP0548402698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エボシガラ, 米国 マサチューセッツ州 (© Tim Laman/NPL/Minden Pictures)](https://www.bing.com/search?q=%E3%82%A8%E3%83%9C%E3%82%B7%E3%82%AC%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220251213_1500%22)
+## ライトアップされたアムステルダムの鏡の運河
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AmsterdamLights_JA-JP0747282471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スピーゲルグラハト, オランダ (© Amith Nag Photography/Getty Images)](https://www.bing.com/search?q=Spiegelgracht+canal&form=hpcapt&filters=HpDate%3a%2220251214_1500%22)
 <!-- Bing Wallpaper End -->
