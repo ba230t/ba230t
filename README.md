@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ライトアップされたアムステルダムの鏡の運河
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AmsterdamLights_JA-JP0747282471_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[スピーゲルグラハト, オランダ (© Amith Nag Photography/Getty Images)](https://www.bing.com/search?q=Spiegelgracht+canal&form=hpcapt&filters=HpDate%3a%2220251214_1500%22)
+## クリスマスマーケットに並べられた手作りトムテ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChristmasGnomes_JA-JP0954643924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[手作りのトムテ, クリスマス・マーケット (© Veronika Seppanen/Shutterstock)](https://www.bing.com/search?q=%E3%83%88%E3%83%A0%E3%83%86&form=hpcapt&filters=HpDate%3a%2220251215_1500%22)
 <!-- Bing Wallpaper End -->
