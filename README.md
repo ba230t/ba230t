@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## クリスマスマーケットに並べられた手作りトムテ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChristmasGnomes_JA-JP0954643924_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[手作りのトムテ, クリスマス・マーケット (© Veronika Seppanen/Shutterstock)](https://www.bing.com/search?q=%E3%83%88%E3%83%A0%E3%83%86&form=hpcapt&filters=HpDate%3a%2220251215_1500%22)
+## 雪の積もった松の枝にとまるキタリス
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FrostySquirrel_JA-JP1466167178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[キタリス, イングランド (© Michael_Conrad/Getty Images)](https://www.bing.com/search?q=%E3%82%AD%E3%82%BF%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220251216_1500%22)
 <!-- Bing Wallpaper End -->
