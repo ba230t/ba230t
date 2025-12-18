@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 雪の積もった松の枝にとまるキタリス
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FrostySquirrel_JA-JP1466167178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[キタリス, イングランド (© Michael_Conrad/Getty Images)](https://www.bing.com/search?q=%E3%82%AD%E3%82%BF%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220251216_1500%22)
+## 今日は米国キャピトル・リーフ国立公園の記念日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CathedralValley_JA-JP1654490549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[太陽の神殿, 米国 ユタ州 (© Austin Cronnelly/TANDEM Stills + Motion)](https://www.bing.com/search?q=Temple+of+The+Sun+and+Moon&form=hpcapt&filters=HpDate%3a%2220251217_1500%22)
 <!-- Bing Wallpaper End -->
