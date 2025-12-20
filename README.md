@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## アルプスに抱かれた温泉の町
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BormioItaly_JA-JP1791938778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ボルミオ, イタリア ロンバルディア州 (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2+%E3%83%9C%E3%83%AB%E3%83%9F%E3%82%AA&form=hpcapt&filters=HpDate%3a%2220251218_1500%22)
+## クリスマスのイルミネーション装飾
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.StarLanterns_JA-JP2184605933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[星型のランプ, ドイツ (© artas/Getty Images)](https://www.bing.com/search?q=Paper+Christmas+star+lanterns&form=hpcapt&filters=HpDate%3a%2220251219_1500%22)
 <!-- Bing Wallpaper End -->
