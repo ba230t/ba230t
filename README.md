@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## クリスマスのイルミネーション装飾
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.StarLanterns_JA-JP2184605933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[星型のランプ, ドイツ (© artas/Getty Images)](https://www.bing.com/search?q=Paper+Christmas+star+lanterns&form=hpcapt&filters=HpDate%3a%2220251219_1500%22)
+## 今日は冬至
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WinterSolstice2025_JA-JP2351386518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[屈斜路湖のオオハクチョウ, 北海道 (© Jan Vermeer/Minden)](https://www.bing.com/search?q=%E5%B1%88%E6%96%9C%E8%B7%AF%E6%B9%96%E3%81%AE%E3%82%AA%E3%82%AA%E3%83%8F%E3%82%AF%E3%83%81%E3%83%A7%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220251220_1500%22)
 <!-- Bing Wallpaper End -->
