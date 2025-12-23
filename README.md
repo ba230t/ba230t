@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## サンタクロースの相棒
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ReindeerFinland_JA-JP2648977140_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[雪の中を進むトナカイ, フィンランド (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E3%83%88%E3%83%8A%E3%82%AB%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220251221_1500%22)
+## 今日は東京タワー完工の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TokyoTower2025_JA-JP2794529209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ライトアップされた夜の東京タワー, 東京 (© Najjsiri Nimyizhune/Getty Images)](https://www.bing.com/search?q=%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220251222_1500%22)
 <!-- Bing Wallpaper End -->
