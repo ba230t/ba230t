@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はクリスマス・イヴ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ElmauChapel_JA-JP2947590238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[クリスマスツリーで飾られた礼拝堂, ドイツ (© mauritius images GmbH/Alamy)](https://www.bing.com/search?q=%E3%83%90%E3%82%A4%E3%82%A8%E3%83%AB%E3%83%B3%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%2c+%E3%83%89%E3%82%A4%E3%83%84&form=hpcapt&filters=HpDate%3a%2220251223_1500%22)
+## 今日はクリスマス
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[クリスマスマーケットのスノードーム, ドイツ (© George Pachantouris/Getty Images)](https://www.bing.com/search?q=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%2c+%E3%83%89%E3%82%A4%E3%83%84&form=hpcapt&filters=HpDate%3a%2220251224_1500%22)
 <!-- Bing Wallpaper End -->
