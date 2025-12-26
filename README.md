@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はクリスマス
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SantaGlobe_JA-JP3196648040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[クリスマスマーケットのスノードーム, ドイツ (© George Pachantouris/Getty Images)](https://www.bing.com/search?q=%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%2c+%E3%83%89%E3%82%A4%E3%83%84&form=hpcapt&filters=HpDate%3a%2220251224_1500%22)
+## 冬空にそびえるイギリス最高の尖塔
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ソールズベリー大聖堂, イングランド (© Julian Elliott Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%BD%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%99%E3%83%AA%E3%83%BC%E5%A4%A7%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220251225_1500%22)
 <!-- Bing Wallpaper End -->
