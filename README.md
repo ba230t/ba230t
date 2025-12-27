@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 冬空にそびえるイギリス最高の尖塔
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WiltshireDawn_JA-JP8756136772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ソールズベリー大聖堂, イングランド (© Julian Elliott Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%BD%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%99%E3%83%AA%E3%83%BC%E5%A4%A7%E8%81%96%E5%A0%82&form=hpcapt&filters=HpDate%3a%2220251225_1500%22)
+## 湖の岸に押し寄せる割れた氷の山
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SuperiorIceMN_JA-JP0628295807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[凍結するスペリオル湖, 米国 ミネソタ州 (© wanderluster/Getty Images)](https://www.bing.com/search?q=%E5%87%8D%E7%B5%90%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%AA%E3%83%AB%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220251226_1500%22)
 <!-- Bing Wallpaper End -->
