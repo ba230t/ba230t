@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 湖の岸に押し寄せる割れた氷の山
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SuperiorIceMN_JA-JP0628295807_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[凍結するスペリオル湖, 米国 ミネソタ州 (© wanderluster/Getty Images)](https://www.bing.com/search?q=%E5%87%8D%E7%B5%90%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9A%E3%83%AA%E3%82%AA%E3%83%AB%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220251226_1500%22)
+## 霧に包まれた針葉樹林
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アルザス地域圏の森, フランス (© alekseystemmer/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%82%B6%E3%82%B9%E5%9C%B0%E5%9F%9F%E5%9C%8F&form=hpcapt&filters=HpDate%3a%2220251227_1500%22)
 <!-- Bing Wallpaper End -->
