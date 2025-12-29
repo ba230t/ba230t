@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 霧に包まれた針葉樹林
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MistyPineForest_JA-JP0902135263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アルザス地域圏の森, フランス (© alekseystemmer/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%82%B6%E3%82%B9%E5%9C%B0%E5%9F%9F%E5%9C%8F&form=hpcapt&filters=HpDate%3a%2220251227_1500%22)
+## 栄枯盛衰を感じさせる美しい廃墟
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AniTurkey_JA-JP3058730246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アブガムレンツ聖グリゴル教会, トルコ (© Kenan Talas/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%96%E3%82%AC%E3%83%A0%E3%83%AC%E3%83%B3%E3%83%84%E8%81%96%E3%82%B0%E3%83%AA%E3%82%B4%E3%83%AB%E6%95%99%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220251228_1500%22)
 <!-- Bing Wallpaper End -->
