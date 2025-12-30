@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 栄枯盛衰を感じさせる美しい廃墟
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AniTurkey_JA-JP3058730246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アブガムレンツ聖グリゴル教会, トルコ (© Kenan Talas/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%96%E3%82%AC%E3%83%A0%E3%83%AC%E3%83%B3%E3%83%84%E8%81%96%E3%82%B0%E3%83%AA%E3%82%B4%E3%83%AB%E6%95%99%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220251228_1500%22)
+## 夕陽に染まる空を舞う冬の使者
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[古徳沼, 茨城県 那珂市 (© Martin Bailey/Shutterstock)](https://www.bing.com/search?q=%E5%8F%A4%E5%BE%B3%E6%B2%BC&form=hpcapt&filters=HpDate%3a%2220251229_1500%22)
 <!-- Bing Wallpaper End -->
