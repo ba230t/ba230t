@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 夕陽に染まる空を舞う冬の使者
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[古徳沼, 茨城県 那珂市 (© Martin Bailey/Shutterstock)](https://www.bing.com/search?q=%E5%8F%A4%E5%BE%B3%E6%B2%BC&form=hpcapt&filters=HpDate%3a%2220251229_1500%22)
+## 今日は大晦日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Omisoka2026_JA-JP3799587419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[輪王寺の梵鐘, 宮城県 仙台市 (© Grandbrothers/Alamy)](https://www.bing.com/search?q=%E8%BC%AA%E7%8E%8B%E5%AF%BA%E4%BB%99%E5%8F%B0%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220251230_1500%22)
 <!-- Bing Wallpaper End -->
