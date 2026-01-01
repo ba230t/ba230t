@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は大晦日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Omisoka2026_JA-JP3799587419_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[輪王寺の梵鐘, 宮城県 仙台市 (© Grandbrothers/Alamy)](https://www.bing.com/search?q=%E8%BC%AA%E7%8E%8B%E5%AF%BA%E4%BB%99%E5%8F%B0%E5%B8%82&form=hpcapt&filters=HpDate%3a%2220251230_1500%22)
+## 今日は元日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[えびす岩・大黒岩, 北海道 (© Ambling Images/Alamy)](https://www.bing.com/search?q=%E3%81%88%E3%81%B3%E3%81%99%E5%B2%A9%E3%83%BB%E5%A4%A7%E9%BB%92%E5%B2%A9&form=hpcapt&filters=HpDate%3a%2220251231_1500%22)
 <!-- Bing Wallpaper End -->
