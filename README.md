@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## アドリア海に抱かれた歴史都市
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.VeniceView_JA-JP5599144263_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヴェネツィア, イタリア (© Clement Leonard/Getty Images)](https://www.bing.com/search?q=%E3%83%B4%E3%82%A7%E3%83%8D%E3%83%84%E3%82%A3%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260101_1500%22)
+## 今日は J・R・R・トールキンの誕生日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LauterbrunnenValley_JA-JP5166517859_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ラウターブルンネン, スイス (© pongnathee kluaythong/Getty Images)](https://www.bing.com/search?q=%E3%83%A9%E3%82%A6%E3%82%BF%E3%83%BC%E3%83%96%E3%83%AB%E3%83%B3%E3%83%8D%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260102_1500%22)
 <!-- Bing Wallpaper End -->
