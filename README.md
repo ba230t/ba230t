@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は J・R・R・トールキンの誕生日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LauterbrunnenValley_JA-JP5166517859_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ラウターブルンネン, スイス (© pongnathee kluaythong/Getty Images)](https://www.bing.com/search?q=%E3%83%A9%E3%82%A6%E3%82%BF%E3%83%BC%E3%83%96%E3%83%AB%E3%83%B3%E3%83%8D%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260102_1500%22)
+## 雪に覆われた険しい峰
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[キングスマウンテン, 米国 アラスカ州 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://www.bing.com/search?q=Kings+Mountain%2c+Alaska&form=hpcapt&filters=HpDate%3a%2220260103_1500%22)
 <!-- Bing Wallpaper End -->
