@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 雪に覆われた険しい峰
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KingMountain_JA-JP5338011772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[キングスマウンテン, 米国 アラスカ州 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://www.bing.com/search?q=Kings+Mountain%2c+Alaska&form=hpcapt&filters=HpDate%3a%2220260103_1500%22)
+## 警戒するインパラの群れ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ImpalaRooibok_JA-JP8577579873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ロンドロジ私営動物保護区, 南アフリカ (© Mint Images/Getty Images)](https://www.bing.com/search?q=Impala&form=hpcapt&filters=HpDate%3a%2220260104_1500%22)
 <!-- Bing Wallpaper End -->
