@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 警戒するインパラの群れ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ImpalaRooibok_JA-JP8577579873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ロンドロジ私営動物保護区, 南アフリカ (© Mint Images/Getty Images)](https://www.bing.com/search?q=Impala&form=hpcapt&filters=HpDate%3a%2220260104_1500%22)
+## グリーンランドの最大の都市
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NuukGreenland_JA-JP5673892352_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヌーク, デンマーク (© nevereverro/Getty Images)](https://www.bing.com/search?q=%E3%83%8C%E3%83%BC%E3%82%AF%2c+%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89&form=hpcapt&filters=HpDate%3a%2220260105_1500%22)
 <!-- Bing Wallpaper End -->
