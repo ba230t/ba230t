@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ノース・ウィンドウの開口部から望むタレットアーチ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OldRockArch_JA-JP5889672492_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アーチーズ国立公園, 米国 ユタ州 (© Jim Patterson/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E3%82%A2%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260106_1500%22)
+## 廃墟となった桟橋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ウェスト・ピア, イギリス (© Philip Reeve/Photodisc/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%88%E3%83%BB%E3%83%94%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260107_1500%22)
 <!-- Bing Wallpaper End -->
