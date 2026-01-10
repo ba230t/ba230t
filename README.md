@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はミュアウッズ国定公園の指定記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MuirWoodsMonument_JA-JP8497438583_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ミュアウッズ国定公園, 米国 カリフォルニア州 (© photo by canderson/Getty Images)](https://www.bing.com/search?q=%E3%83%9F%E3%83%A5%E3%82%A2%E3%82%A6%E3%83%83%E3%82%BA%E5%9B%BD%E5%AE%9A%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260108_1500%22)
+## 朝日で黄金色に染まった山頂
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マッターホルン, アルプス山脈 (© Andy Trowbridge/naturepl.com)](https://www.bing.com/search?q=%E3%83%9E%E3%83%83%E3%82%BF%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260109_1500%22)
 <!-- Bing Wallpaper End -->
