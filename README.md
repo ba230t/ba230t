@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 朝日で黄金色に染まった山頂
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MatterhornSunrise_JA-JP8773317185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マッターホルン, アルプス山脈 (© Andy Trowbridge/naturepl.com)](https://www.bing.com/search?q=%E3%83%9E%E3%83%83%E3%82%BF%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260109_1500%22)
+## 今日はモロッコの独立宣言記念日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シャウエン, モロッコ (© AnetteAndersen/Getty Images)](https://www.bing.com/search?q=%E3%82%B7%E3%83%A3%E3%82%A6%E3%82%A8%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260110_1500%22)
 <!-- Bing Wallpaper End -->
