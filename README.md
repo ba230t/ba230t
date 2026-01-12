@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はモロッコの独立宣言記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BlueMorocco_JA-JP9617982350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[シャウエン, モロッコ (© AnetteAndersen/Getty Images)](https://www.bing.com/search?q=%E3%82%B7%E3%83%A3%E3%82%A6%E3%82%A8%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260110_1500%22)
+## 今日はスキーの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ガーラ湯沢スキー場, 新潟県 (© Metta Bunkeaw/Alamy)](https://www.bing.com/search?q=%E3%82%AC%E3%83%BC%E3%83%A9%E6%B9%AF%E6%B2%A2&form=hpcapt&filters=HpDate%3a%2220260111_1500%22)
 <!-- Bing Wallpaper End -->
