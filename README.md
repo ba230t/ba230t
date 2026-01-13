@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はスキーの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ガーラ湯沢スキー場, 新潟県 (© Metta Bunkeaw/Alamy)](https://www.bing.com/search?q=%E3%82%AC%E3%83%BC%E3%83%A9%E6%B9%AF%E6%B2%A2&form=hpcapt&filters=HpDate%3a%2220260111_1500%22)
+## 今日はウェールズの旧正月
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WalesWinter_JA-JP9906263295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[クレイド渓谷, イギリス ウェールズ (© Valerie Blencowe/Getty Images)](https://www.bing.com/search?q=Vale+of+Clwyd&form=hpcapt&filters=HpDate%3a%2220260112_1500%22)
 <!-- Bing Wallpaper End -->
