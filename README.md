@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はウェールズの旧正月
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WalesWinter_JA-JP9906263295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[クレイド渓谷, イギリス ウェールズ (© Valerie Blencowe/Getty Images)](https://www.bing.com/search?q=Vale+of+Clwyd&form=hpcapt&filters=HpDate%3a%2220260112_1500%22)
+## 今日は米国の「階段の日」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PalamidiFortress_JA-JP0089449076_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[パラミディ要塞, ギリシャ (© George Pachantouris/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%A9%E3%83%9F%E3%83%87%E3%82%A3%E8%A6%81%E5%A1%9E&form=hpcapt&filters=HpDate%3a%2220260113_1500%22)
 <!-- Bing Wallpaper End -->
