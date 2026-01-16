@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## ノルウェーで最も美しい漁村
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ReineSunrise_JA-JP0217422028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[レーヌ, ノルウェー (© Roberto Moiola/Cavan Images/SuperStock)](https://www.bing.com/search?q=%E3%83%AC%E3%83%BC%E3%83%8C&form=hpcapt&filters=HpDate%3a%2220260114_1500%22)
+## 雪の上にたたずむ可愛い水辺の動物
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SnowOtters_JA-JP0357169871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ユーラシアカワウソ, エストニア (© Sven Zacek/naturepl.com)](https://www.bing.com/search?q=%E3%83%A6%E3%83%BC%E3%83%A9%E3%82%B7%E3%82%A2%E3%82%AB%E3%83%AF%E3%82%A6%E3%82%BD&form=hpcapt&filters=HpDate%3a%2220260115_1500%22)
 <!-- Bing Wallpaper End -->
