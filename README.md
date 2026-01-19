@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 雪原のような石膏砂漠
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WhiteSandsNM_JA-JP0644225456_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ホワイトサンズ国立公園, 米国 ニューメキシコ州 (© Francesco Carucci/Getty Images)](https://www.bing.com/search?q=%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B5%E3%83%B3%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260117_1500%22)
+## 森にそびえる砂岩の奇岩群
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ExternsteineSunset_JA-JP0787932101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[エクスターンシュタイネ岩塔群, ドイツ (© Michael Sroka/Getty Images)](https://www.bing.com/search?q=%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%8D%E5%B2%A9%E5%A1%94%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220260118_1500%22)
 <!-- Bing Wallpaper End -->
