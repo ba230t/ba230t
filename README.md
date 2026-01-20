@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 森にそびえる砂岩の奇岩群
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ExternsteineSunset_JA-JP0787932101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エクスターンシュタイネ岩塔群, ドイツ (© Michael Sroka/Getty Images)](https://www.bing.com/search?q=%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%8D%E5%B2%A9%E5%A1%94%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220260118_1500%22)
+## 今日は「大寒」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[雪に覆われた星峠の棚田, 新潟県 十日町市 (© solakoudai/Shutterstock)](https://www.bing.com/search?q=%E6%98%9F%E5%B3%A0%E3%81%AE%E6%A3%9A%E7%94%B0&form=hpcapt&filters=HpDate%3a%2220260119_1500%22)
 <!-- Bing Wallpaper End -->
