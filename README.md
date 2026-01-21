@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「大寒」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[雪に覆われた星峠の棚田, 新潟県 十日町市 (© solakoudai/Shutterstock)](https://www.bing.com/search?q=%E6%98%9F%E5%B3%A0%E3%81%AE%E6%A3%9A%E7%94%B0&form=hpcapt&filters=HpDate%3a%2220260119_1500%22)
+## 今日はリスの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BerrySquirrel_JA-JP1197927538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[赤褐色の毛並みが美しいキタリス (© Galina Jacyna/Getty Images)](https://www.bing.com/search?q=%E3%82%AD%E3%82%BF%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220260120_1500%22)
 <!-- Bing Wallpaper End -->
