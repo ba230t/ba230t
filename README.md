@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はリスの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BerrySquirrel_JA-JP1197927538_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[赤褐色の毛並みが美しいキタリス (© Galina Jacyna/Getty Images)](https://www.bing.com/search?q=%E3%82%AD%E3%82%BF%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220260120_1500%22)
+## 雪に覆われた温泉の街
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.KarlovyVary_JA-JP1329702586_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カルロヴィ・ヴァリ, チェコ (© Henryk Sadura/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%83%AB%E3%83%AD%E3%83%B4%E3%82%A3%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220260121_1500%22)
 <!-- Bing Wallpaper End -->
