@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 雪に包まれた山村が輝く夜
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AndermattSwiss_JA-JP9574225546_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アンデルマット, スイス (© Xantana/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%AB%E3%83%9E%E3%83%83%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260123_1500%22)
+## 今日はスコットランドの「バーンズ・ナイト」
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BurnsPark_JA-JP9708968769_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[バーンズ国立遺産公園, スコットランド (© Alister Firth/Alamy)](https://www.bing.com/search?q=Burns+National+Heritage+Park&form=hpcapt&filters=HpDate%3a%2220260124_1500%22)
 <!-- Bing Wallpaper End -->
