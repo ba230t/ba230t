@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 色鮮やかな空の下に広がる凍った湖
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アブラハムレイク, カナダ (© Luis F Arevalo/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%96%E3%83%A9%E3%83%8F%E3%83%A0%E3%83%AC%E3%82%A4%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220260125_1500%22)
+## 静かな湖を並んで泳ぐ白い鳥
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DalmationPelicans_JA-JP5723564956_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ニシハイイロペリカン, ギリシャ (© Guy Edwardes/naturepl.com)](https://www.bing.com/search?q=%E3%83%8B%E3%82%B7%E3%83%8F%E3%82%A4%E3%82%A4%E3%83%AD%E3%83%9A%E3%83%AA%E3%82%AB%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260126_1500%22)
 <!-- Bing Wallpaper End -->
