@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 静かな湖を並んで泳ぐ白い鳥
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DalmationPelicans_JA-JP5723564956_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ニシハイイロペリカン, ギリシャ (© Guy Edwardes/naturepl.com)](https://www.bing.com/search?q=%E3%83%8B%E3%82%B7%E3%83%8F%E3%82%A4%E3%82%A4%E3%83%AD%E3%83%9A%E3%83%AA%E3%82%AB%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260126_1500%22)
+## 森林に抱かれた川が描く大きなカーブ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WhanganuiPark_JA-JP0176066803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ワンガヌイ国立公園, ニュージーランド (© Matthew Micah Wright/Getty Images)](https://www.bing.com/search?q=%E3%83%AF%E3%83%B3%E3%82%AC%E3%83%8C%E3%82%A4%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260127_1500%22)
 <!-- Bing Wallpaper End -->
