@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 森林に抱かれた川が描く大きなカーブ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WhanganuiPark_JA-JP0176066803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ワンガヌイ国立公園, ニュージーランド (© Matthew Micah Wright/Getty Images)](https://www.bing.com/search?q=%E3%83%AF%E3%83%B3%E3%82%AC%E3%83%8C%E3%82%A4%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260127_1500%22)
+## 高く伸びる歴史的建築のアトリウム
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MilwaukeeHall_JA-JP0738561179_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ミルウォーキー市庁舎, 米国 ウィスコンシン州 (© lavin photography/Getty Images)](https://www.bing.com/search?q=%E3%83%9F%E3%83%AB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AD%E3%83%BC%E5%B8%82%E5%BA%81%E8%88%8E&form=hpcapt&filters=HpDate%3a%2220260128_1500%22)
 <!-- Bing Wallpaper End -->
