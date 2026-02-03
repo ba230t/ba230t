@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はグラウンドホッグデー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AlpineMarmots_JA-JP1553270450_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アルプスマーモット, オーストリア (© Raimund Linke/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%9B%E3%83%83%E3%82%B0%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260201_1500%22)
+## 碧き湖に浮かぶ小島
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP1861312549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[タホ湖, 米国 (© Bill Stevenson/Cavan Images)](https://www.bing.com/search?q=%E3%82%BF%E3%83%9B%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220260202_1500%22)
 <!-- Bing Wallpaper End -->
