@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 碧き湖に浮かぶ小島
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP1861312549_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[タホ湖, 米国 (© Bill Stevenson/Cavan Images)](https://www.bing.com/search?q=%E3%82%BF%E3%83%9B%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220260202_1500%22)
+## 今日は立春
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[梅の枝に止まるメジロ (© naotoshinkai/Getty Images)](https://www.bing.com/search?q=%E6%A2%85%E3%81%AE%E6%9E%9D%E3%81%AB%E6%AD%A2%E3%81%BE%E3%82%8B%E3%83%A1%E3%82%B8%E3%83%AD&form=hpcapt&filters=HpDate%3a%2220260203_1500%22)
 <!-- Bing Wallpaper End -->
