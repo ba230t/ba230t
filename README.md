@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 海岸沿いに広がる伝統的な塩田
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MaltaSalt_JA-JP9601510868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ゴゾ島, マルタ共和国 (© Marius Roman/Getty Images)](https://www.bing.com/search?q=%E3%82%B4%E3%82%BE%E5%B3%B6%E3%81%AE%E5%A1%A9%E7%94%B0&form=hpcapt&filters=HpDate%3a%2220260204_1500%22)
+## 今日から 2026 冬季五輪
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GiauPass_JA-JP8605769992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ラ・グセラ峰, イタリア (© Tomasz Podolski/Getty Images)](https://www.bing.com/search?q=%E3%83%A9%E3%83%BB%E3%82%B0%E3%82%BB%E3%83%A9%E5%B3%B0&form=hpcapt&filters=HpDate%3a%2220260205_1500%22)
 <!-- Bing Wallpaper End -->
