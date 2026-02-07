@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日から 2026 冬季五輪
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GiauPass_JA-JP8605769992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ラ・グセラ峰, イタリア (© Tomasz Podolski/Getty Images)](https://www.bing.com/search?q=%E3%83%A9%E3%83%BB%E3%82%B0%E3%82%BB%E3%83%A9%E5%B3%B0&form=hpcapt&filters=HpDate%3a%2220260205_1500%22)
+## さっぽろ雪まつり開催中
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[大通公園, 札幌市 (© Reuters/Kimimasa Mayama)](https://www.bing.com/search?q=%E5%A4%A7%E9%80%9A%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260206_1500%22)
 <!-- Bing Wallpaper End -->
