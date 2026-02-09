@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 紺碧の夜空に映える美しい街並み
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CorfuGreece_JA-JP0379760885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ケルキラ島, ギリシャ (© whitewizzard/Getty Images)](https://www.bing.com/search?q=%E3%82%B1%E3%83%AB%E3%82%AD%E3%83%A9%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220260207_1500%22)
+## 冬の森を静かに歩む慎重なハンター
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LeopardCat_JA-JP0545650228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アムールヤマネコ, ロシア (© Valeriy Maleev/naturepl.com)](https://www.bing.com/search?q=%E3%82%A2%E3%83%A0%E3%83%BC%E3%83%AB%E3%83%A4%E3%83%9E%E3%83%8D%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220260208_1500%22)
 <!-- Bing Wallpaper End -->
