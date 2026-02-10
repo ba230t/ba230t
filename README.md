@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 冬の森を静かに歩む慎重なハンター
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LeopardCat_JA-JP0545650228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アムールヤマネコ, ロシア (© Valeriy Maleev/naturepl.com)](https://www.bing.com/search?q=%E3%82%A2%E3%83%A0%E3%83%BC%E3%83%AB%E3%83%A4%E3%83%9E%E3%83%8D%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220260208_1500%22)
+## 穏やかな海に佇む神秘的な島
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[エス・ヴェドラ島, スペイン (© L. Apolli/Getty Images)](https://www.bing.com/search?q=%E3%82%A8%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%89%E3%83%A9%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220260209_1500%22)
 <!-- Bing Wallpaper End -->
