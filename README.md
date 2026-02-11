@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 穏やかな海に佇む神秘的な島
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エス・ヴェドラ島, スペイン (© L. Apolli/Getty Images)](https://www.bing.com/search?q=%E3%82%A8%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A7%E3%83%89%E3%83%A9%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220260209_1500%22)
+## 今日から水戸の梅まつり
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[白梅の花 (© EarthScapeImageGraphy/Getty Images)](https://www.bing.com/search?q=%E7%99%BD%E6%A2%85%E3%81%AE%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220260210_1500%22)
 <!-- Bing Wallpaper End -->
