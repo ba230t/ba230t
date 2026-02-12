@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日から水戸の梅まつり
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MitoPlumFestival2026_JA-JP1087345056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[白梅の花 (© EarthScapeImageGraphy/Getty Images)](https://www.bing.com/search?q=%E7%99%BD%E6%A2%85%E3%81%AE%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220260210_1500%22)
+## 鮮やかな色で飾られた家
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Olinda_JA-JP1273177244_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オリンダ歴史地区, ブラジル (© Robert Pekar/Alamy)](https://www.bing.com/search?q=%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%80%E6%AD%B4%E5%8F%B2%E5%9C%B0%E5%8C%BA&form=hpcapt&filters=HpDate%3a%2220260211_1500%22)
 <!-- Bing Wallpaper End -->
