@@ -14,7 +14,7 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 鮮やかな色で飾られた家
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Olinda_JA-JP1273177244_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オリンダ歴史地区, ブラジル (© Robert Pekar/Alamy)](https://www.bing.com/search?q=%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%80%E6%AD%B4%E5%8F%B2%E5%9C%B0%E5%8C%BA&form=hpcapt&filters=HpDate%3a%2220260211_1500%22)
+## 夕陽に染まる二国を結ぶ橋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FriendshipBridge_JA-JP1407443629_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[第3タイ・ラオス友好橋 (© chaiyut samsuk/Getty Images)](https://www.bing.com/search?q=%E7%AC%AC3%E3%82%BF%E3%82%A4%E3%83%BB%E3%83%A9%E3%82%AA%E3%82%B9%E5%8F%8B%E5%A5%BD%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260212_1500%22)
 <!-- Bing Wallpaper End -->
