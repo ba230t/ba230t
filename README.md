@@ -7,7 +7,8 @@
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba230t&layout=compact&theme=transparent" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ba230t&theme=transparent" />
+  <!-- <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ba230t&theme=transparent" /> -->
+  <img alt="github stats" height="150px" src="https://trophy.ryglcloud.net/api?username=ba230t&theme=transparent />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ba230t&theme=transparent&column=7)](https://github.com/ryo-ma/github-profile-trophy)
@@ -18,3 +19,4 @@
 ![Bing Wallpaper](https://www.bing.com/th?id=OHR.MontereyHumpbacks_JA-JP5360073142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 [海面から飛び出すザトウクジラ, 米国 カリフォルニア州 (© Kiliii Fish/Cavan Images)](https://www.bing.com/search?q=%E6%B5%B7%E9%9D%A2%E3%81%8B%E3%82%89%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%99%E3%82%B6%E3%83%88%E3%82%A6%E3%82%AF%E3%82%B8%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220260214_1500%22)
 <!-- Bing Wallpaper End -->
+
