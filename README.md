@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「ワールド・ホエール・デイ」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MontereyHumpbacks_JA-JP5360073142_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[海面から飛び出すザトウクジラ, 米国 カリフォルニア州 (© Kiliii Fish/Cavan Images)](https://www.bing.com/search?q=%E6%B5%B7%E9%9D%A2%E3%81%8B%E3%82%89%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%99%E3%82%B6%E3%83%88%E3%82%A6%E3%82%AF%E3%82%B8%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220260214_1500%22)
+## 雪の中を飛ぶハンター
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_JA-JP2834863474_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アカトビ (© Carl Mckie/500px/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%83%88%E3%83%93&form=hpcapt&filters=HpDate%3a%2220260215_1500%22)
 <!-- Bing Wallpaper End -->
 
