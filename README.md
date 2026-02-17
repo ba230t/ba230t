@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 雪の中を飛ぶハンター
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_JA-JP2834863474_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アカトビ (© Carl Mckie/500px/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%83%88%E3%83%93&form=hpcapt&filters=HpDate%3a%2220260215_1500%22)
+## 今日は中国の旧正月
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NewYearLantern_JA-JP3079738564_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[春節の赤い提灯, 中国 (© Gins Wang/Getty Images)](https://www.bing.com/search?q=%E6%98%A5%E7%AF%80&form=hpcapt&filters=HpDate%3a%2220260216_1500%22)
 <!-- Bing Wallpaper End -->
 
