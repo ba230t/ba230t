@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 現存する唯一の野生馬
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PrzewalskisHorse_JA-JP3314314525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[モウコノウマ (© Nemyrivskyi Viacheslav/Getty Images)](https://www.bing.com/search?q=%E3%83%A2%E3%82%A6%E3%82%B3%E3%83%8E%E3%82%A6%E3%83%9E&form=hpcapt&filters=HpDate%3a%2220260217_1500%22)
+## 龍の眼のような潮溜まり
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DragonsEyeRock_JA-JP3484187300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ウッタクレイヴ海岸, ノルウェー (© reisegraf/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%83%83%E3%82%BF%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%B4%E6%B5%B7%E5%B2%B8&form=hpcapt&filters=HpDate%3a%2220260218_1500%22)
 <!-- Bing Wallpaper End -->
 
