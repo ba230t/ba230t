@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 龍の眼のような潮溜まり
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DragonsEyeRock_JA-JP3484187300_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ウッタクレイヴ海岸, ノルウェー (© reisegraf/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%83%83%E3%82%BF%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%B4%E6%B5%B7%E5%B2%B8&form=hpcapt&filters=HpDate%3a%2220260218_1500%22)
+## 炎の滝が一瞬だけ現れる夕刻
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ホーステール滝, 米国 カリフォルニア州 (© Jorge Villalba/Getty Images)](https://www.bing.com/search?q=%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%83%AB%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220260219_1500%22)
 <!-- Bing Wallpaper End -->
 
