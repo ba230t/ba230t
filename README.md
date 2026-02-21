@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 炎の滝が一瞬だけ現れる夕刻
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ホーステール滝, 米国 カリフォルニア州 (© Jorge Villalba/Getty Images)](https://www.bing.com/search?q=%E3%83%9B%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%83%AB%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220260219_1500%22)
+## 降り積もる雪の中に生きる凛とした気配
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アカギツネ, 米国 ワイオミング州 (© Radomir Jakubowski/naturepl.com)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%82%AE%E3%83%84%E3%83%8D&form=hpcapt&filters=HpDate%3a%2220260220_1500%22)
 <!-- Bing Wallpaper End -->
 
