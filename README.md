@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日は「富士山の日」
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MountFuji2026_JA-JP8594170652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[富士山, 静岡県 (© Cravetiger/Getty Images)](https://www.bing.com/search?q=%E5%AF%8C%E5%A3%AB%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220260222_1500%22)
+## 自然の鏡に映る色とりどりの葉
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TulumLilies_JA-JP8645849779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スイレン, メキシコ (© Christian Vizl/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B9%E3%82%A4%E3%83%AC%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260223_1500%22)
 <!-- Bing Wallpaper End -->
 
