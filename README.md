@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 自然の鏡に映る色とりどりの葉
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TulumLilies_JA-JP8645849779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[スイレン, メキシコ (© Christian Vizl/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B9%E3%82%A4%E3%83%AC%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260223_1500%22)
+## 泡のような天井が広がるアイスケーブ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MendenhallCave_JA-JP8678792509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[メンデンホール氷河の氷の洞窟, 米国 アラスカ州 (© Designpics/Adobe Stock)](https://www.bing.com/search?q=%E3%83%A1%E3%83%B3%E3%83%87%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB%E6%B0%B7%E6%B2%B3%E3%81%AE%E6%B0%B7%E3%81%AE%E6%B4%9E%E7%AA%9F&form=hpcapt&filters=HpDate%3a%2220260224_1500%22)
 <!-- Bing Wallpaper End -->
 
