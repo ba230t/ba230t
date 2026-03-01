@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 緑の断崖絶壁から流れ落ちる白糸
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OloupenaFalls_JA-JP0587758979_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オロウペナ滝, 米国 ハワイ州 (© Andrew Aylett/Getty Images)](https://www.bing.com/search?q=%E3%82%AA%E3%83%AD%E3%82%A6%E3%83%9A%E3%83%8A%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220260227_1500%22)
+## ダンスミュージックの聖地
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[イビサ島, スペイン (© tokar/Shutterstock)](https://www.bing.com/search?q=%E3%82%A4%E3%83%93%E3%82%B5%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220260228_1500%22)
 <!-- Bing Wallpaper End -->
 
