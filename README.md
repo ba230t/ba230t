@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 港に浮かぶロングテールボート
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SamuiThailand_JA-JP8871404355_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サムイ島, タイ (© Foto2rich/Shutterstock)](https://www.bing.com/search?q=%E3%82%B5%E3%83%A0%E3%82%A4%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220260301_1500%22)
+## 今日はひな祭り
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HinaMatsuri2026_JA-JP1524445029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[竹筒から顔をのぞかせる可愛いひな人形 (© Bong Grit/Getty Images)](https://www.bing.com/search?q=%E3%81%B2%E3%81%AA%E7%A5%AD%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220260302_1500%22)
 <!-- Bing Wallpaper End -->
 
