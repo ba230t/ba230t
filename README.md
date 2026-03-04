@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 今日はひな祭り
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HinaMatsuri2026_JA-JP1524445029_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[竹筒から顔をのぞかせる可愛いひな人形 (© Bong Grit/Getty Images)](https://www.bing.com/search?q=%E3%81%B2%E3%81%AA%E7%A5%AD%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220260302_1500%22)
+## 残雪の山に咲く紫の小さな花
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RilaCrocuses_JA-JP8929761168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[紫クロッカス, ブルガリア (© Maya Karkalicheva/Getty Images)](https://www.bing.com/search?q=%E7%B4%AB%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AB%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220260303_1500%22)
 <!-- Bing Wallpaper End -->
 
