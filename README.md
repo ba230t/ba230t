@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 奇岩の谷に広がる幻想的な夜景
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GoremeTwilight_JA-JP8961447363_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ギョレメ国立公園, トルコ (© ONNAJA/Getty Images)](https://www.bing.com/search?q=%E3%82%AE%E3%83%A7%E3%83%AC%E3%83%A1%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260304_1500%22)
+## 水辺に波打つ集合住宅
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WaveDenmark_JA-JP3181035967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[集合住宅「ザ・ウェイブ」, デンマーク (© Frank Bach/Alamy)](https://www.bing.com/search?q=%E9%9B%86%E5%90%88%E4%BD%8F%E5%AE%85%E3%80%8C%E3%82%B6%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%80%8D&form=hpcapt&filters=HpDate%3a%2220260305_1500%22)
 <!-- Bing Wallpaper End -->
 
