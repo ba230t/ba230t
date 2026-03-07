@@ -15,8 +15,8 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 水辺に波打つ集合住宅
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WaveDenmark_JA-JP3181035967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[集合住宅「ザ・ウェイブ」, デンマーク (© Frank Bach/Alamy)](https://www.bing.com/search?q=%E9%9B%86%E5%90%88%E4%BD%8F%E5%AE%85%E3%80%8C%E3%82%B6%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%96%E3%80%8D&form=hpcapt&filters=HpDate%3a%2220260305_1500%22)
+## 日の出の霧に包まれる岩場
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BrockenSunrise_JA-JP0540053898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ブロッケン山, ドイツ (© imageBROKER/AVTG/Getty Images)](https://www.bing.com/search?q=%E3%83%96%E3%83%AD%E3%83%83%E3%82%B1%E3%83%B3%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220260306_1500%22)
 <!-- Bing Wallpaper End -->
 
