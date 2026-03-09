@@ -18,9 +18,9 @@
 
 
 <!-- Bing Wallpaper Start -->
-## 米国は今日から夏時間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.UlmClock_JA-JP3640087811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ウルム市庁舎の天文時計, ドイツ (© Tomekbudujedomek/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%83%AB%E3%83%A0%E5%B8%82%E5%BA%81%E8%88%8E%E3%81%AE%E5%A4%A9%E6%96%87%E6%99%82%E8%A8%88&form=hpcapt&filters=HpDate%3a%2220260307_1500%22)
+## 今日は米国の全国昼寝の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NappingSeal_JA-JP4638317955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アザラシ, スコットランド (© Andrew Mason/Minden Pictures)](https://www.bing.com/search?q=%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7&form=hpcapt&filters=HpDate%3a%2220260308_1500%22)
 <!-- Bing Wallpaper End -->
 
 
