@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 東日本大震災から15年
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TohokuEarthquakeMemorial2026_JA-JP5225999611_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[復興の願いが書かれた灯籠, 宮城県 名取市 (© NurPhoto/Getty Images)](https://www.bing.com/search?q=%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E3%81%8B%E3%82%8915%E5%B9%B4&form=hpcapt&filters=HpDate%3a%2220260310_1500%22)
+## 今日は東大寺のお水取り
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TodaijiTempleOmizutori2026_JA-JP4273263363_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[東大寺, 奈良県 奈良市 (© Sean Pavone/Alamy)](https://www.bing.com/search?q=%E6%9D%B1%E5%A4%A7%E5%AF%BA%E3%81%AE%E3%81%8A%E6%B0%B4%E5%8F%96%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220260311_1500%22)
 <!-- Bing Wallpaper End -->
