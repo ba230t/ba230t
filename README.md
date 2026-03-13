@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は東大寺のお水取り
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TodaijiTempleOmizutori2026_JA-JP4273263363_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[東大寺, 奈良県 奈良市 (© Sean Pavone/Alamy)](https://www.bing.com/search?q=%E6%9D%B1%E5%A4%A7%E5%AF%BA%E3%81%AE%E3%81%8A%E6%B0%B4%E5%8F%96%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220260311_1500%22)
+## 歴史ある聖堂のアーチ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.VendeeVaults_JA-JP5730260896_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ノートルダム・ド・ボン＝ポルト教会, フランス (© Helmut Meyer zur Capellen/Alamy)](https://www.bing.com/search?q=%E3%83%8E%E3%83%BC%E3%83%88%E3%83%AB%E3%83%80%E3%83%A0%E3%83%BB%E3%83%89%E3%83%BB%E3%83%9C%E3%83%B3%EF%BC%9D%E3%83%9D%E3%83%AB%E3%83%88%E6%95%99%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220260312_1500%22)
 <!-- Bing Wallpaper End -->
