@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 卵を産む哺乳類
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ハリモグラ, オーストラリア (© Etienne Littlefair/naturepl.com)](https://www.bing.com/search?q=%E3%83%8F%E3%83%AA%E3%83%A2%E3%82%B0%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220260318_1500%22)
+## 今日は春分の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpringSnowdrops_JA-JP8554533353_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スノードロップ花 (© klagyivik/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220260319_1500%22)
 <!-- Bing Wallpaper End -->
