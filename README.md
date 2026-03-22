@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際森林デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LeteaForest_JA-JP1668119659_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[レテア森林, ルーマニア (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%AC%E3%83%86%E3%82%A2%E6%A3%AE%E6%9E%97&form=hpcapt&filters=HpDate%3a%2220260320_1500%22)
+## 今日は世界水の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TanganyikaWater_JA-JP1905215650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[タンガニーカ湖, タンザニア (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://www.bing.com/search?q=%E3%82%BF%E3%83%B3%E3%82%AC%E3%83%8B%E3%83%BC%E3%82%AB%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220260321_1500%22)
 <!-- Bing Wallpaper End -->
