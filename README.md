@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界水の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TanganyikaWater_JA-JP1905215650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[タンガニーカ湖, タンザニア (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://www.bing.com/search?q=%E3%82%BF%E3%83%B3%E3%82%AC%E3%83%8B%E3%83%BC%E3%82%AB%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220260321_1500%22)
+## 今日は世界気象デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SonoranStorm_JA-JP6793978883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ベンケイチュウ, 米国 アリゾナ州 (© Jack Dykinga/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%99%E3%83%B3%E3%82%B1%E3%82%A4%E3%83%81%E3%83%A5%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220260322_1500%22)
 <!-- Bing Wallpaper End -->
