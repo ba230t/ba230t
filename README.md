@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 桜に包まれた五重塔
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_JA-JP2678725444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[東湖桜花園, 中国 (© Zhang Qiao/VCG/Getty Images)](https://www.bing.com/search?q=%E6%9D%B1%E6%B9%96%E6%A1%9C%E8%8A%B1%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260323_1500%22)
+## 今日はマナティー感謝の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マナティー, 米国 フロリダ州 (© Gregory Sweeney/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%83%8A%E3%83%86%E3%82%A3%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260324_1500%22)
 <!-- Bing Wallpaper End -->
