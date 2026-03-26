@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日はマナティー感謝の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ManateeSpring_JA-JP3825784405_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マナティー, 米国 フロリダ州 (© Gregory Sweeney/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%83%8A%E3%83%86%E3%82%A3%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260324_1500%22)
+## 森に溶け込む吊り橋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LoganCreek_JA-JP4033681513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ローガン・クリーク吊り橋, カナダ (© Tandem Stock/Adobe Stock)](https://www.bing.com/search?q=Logan+Creek+Suspension+Bridge%2c+West+Coast+Trail&form=hpcapt&filters=HpDate%3a%2220260325_1500%22)
 <!-- Bing Wallpaper End -->
