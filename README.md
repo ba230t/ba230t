@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日はさくらの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SakuraDay2026_JA-JP6970025028_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[日本一早い桜、沖縄 (© @hapidayss/Getty Images)](https://www.bing.com/search?q=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A9%E3%81%84%E6%A1%9C&form=hpcapt&filters=HpDate%3a%2220260326_1500%22)
+## 口ひげのように見える角を持つ動物
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CapeBuffalo_JA-JP4477954927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アフリカスイギュウ, タンザニア (© jesuss8/500px/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%82%B9%E3%82%A4%E3%82%AE%E3%83%A5%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220260327_1500%22)
 <!-- Bing Wallpaper End -->
