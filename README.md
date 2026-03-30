@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 夕焼けの空と海に佇む灯台
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PeggysLighthouse_JA-JP4636734313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ペギーズ・ポイント灯台, カナダ (© Prashanth Bala/Shutterstock)](https://www.bing.com/search?q=%E3%83%9A%E3%82%AE%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E7%81%AF%E5%8F%B0&form=hpcapt&filters=HpDate%3a%2220260328_1500%22)
+## 求愛ダンスが得意な鳥
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IndiaCranes_JA-JP0130275400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アネハヅル, インド (© Axel Gomille/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%A2%E3%83%8D%E3%83%8F%E3%83%85%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220260329_1500%22)
 <!-- Bing Wallpaper End -->
