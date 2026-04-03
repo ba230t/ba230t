@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 春を告げる紫の花
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MagnoliaBloom2026_JA-JP8135720992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[シモクレン (© Aflo Co., Ltd./Alamy)](https://www.bing.com/search?q=%E3%82%B7%E3%83%A2%E3%82%AF%E3%83%AC%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260401_1500%22)
+## 静かな運河に映る街並み
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アルムブルグ橋, オランダ (© Alexander Spatari/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%A0%E3%83%96%E3%83%AB%E3%82%B0%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260402_1500%22)
 <!-- Bing Wallpaper End -->
