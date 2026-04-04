@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 静かな運河に映る街並み
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ArmbrugBridge_JA-JP3428221440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アルムブルグ橋, オランダ (© Alexander Spatari/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%A0%E3%83%96%E3%83%AB%E3%82%B0%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260402_1500%22)
+## 今日は清明
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.QingmingFestival2026_JA-JP3473610824_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[首里城歓会門, 沖縄県 那覇市 (© Jui-Chi Chan/Getty images)](https://www.bing.com/search?q=%E9%A6%96%E9%87%8C%E5%9F%8E%E6%AD%93%E4%BC%9A%E9%96%80&form=hpcapt&filters=HpDate%3a%2220260403_1500%22)
 <!-- Bing Wallpaper End -->
