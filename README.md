@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は復活祭
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LithuaniaEggs_JA-JP3508325746_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カラフルな木製イースターエッグ, リトアニア (© maximkabb/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%81%AA%E6%9C%A8%E8%A3%BD%E3%82%A4%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%B0&form=hpcapt&filters=HpDate%3a%2220260404_1500%22)
+## 今日は城の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CastleBlossoms_JA-JP3550257541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[弘前城, 青森県 弘前市 (© Glenn Waters/Getty Images)](https://www.bing.com/search?q=%E5%BC%98%E5%89%8D%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220260405_1500%22)
 <!-- Bing Wallpaper End -->
