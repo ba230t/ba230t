@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は城の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CastleBlossoms_JA-JP3550257541_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[弘前城, 青森県 弘前市 (© Glenn Waters/Getty Images)](https://www.bing.com/search?q=%E5%BC%98%E5%89%8D%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220260405_1500%22)
+## 今日は国際ビーバーデー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BeaverPortrait_JA-JP3724788571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ビーバー, ドイツ (© Andyworks/Getty Images)](https://www.bing.com/search?q=%E3%83%93%E3%83%BC%E3%83%90%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260406_1500%22)
 <!-- Bing Wallpaper End -->
