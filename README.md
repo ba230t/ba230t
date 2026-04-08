@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際ビーバーデー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BeaverPortrait_JA-JP3724788571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ビーバー, ドイツ (© Andyworks/Getty Images)](https://www.bing.com/search?q=%E3%83%93%E3%83%BC%E3%83%90%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260406_1500%22)
+## 夕焼けに染まる港と街の景色
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シアトル市のウォーターフロント, 米国 ワシントン州 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B7%E3%82%A2%E3%83%88%E3%83%AB%E5%B8%82%E3%81%AE%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260407_1500%22)
 <!-- Bing Wallpaper End -->
