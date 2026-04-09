@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 夕焼けに染まる港と街の景色
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[シアトル市のウォーターフロント, 米国 ワシントン州 (© Jim Patterson/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B7%E3%82%A2%E3%83%88%E3%83%AB%E5%B8%82%E3%81%AE%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260407_1500%22)
+## 森の中に流れ落ちる滝
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WalesWaterfall_JA-JP5848698751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スグド・イル・エイル滝, ウェールズ (© Guy Edwardes/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%B9%E3%82%B0%E3%83%89%E3%83%BB%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%AB%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220260408_1500%22)
 <!-- Bing Wallpaper End -->
