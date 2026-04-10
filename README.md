@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 森の中に流れ落ちる滝
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WalesWaterfall_JA-JP5848698751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[スグド・イル・エイル滝, ウェールズ (© Guy Edwardes/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%B9%E3%82%B0%E3%83%89%E3%83%BB%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%AB%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220260408_1500%22)
+## 今日はきょうだいの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アカギツネ, エストニア (© Sven Zacek/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%82%AE%E3%83%84%E3%83%8D&form=hpcapt&filters=HpDate%3a%2220260409_1500%22)
 <!-- Bing Wallpaper End -->
