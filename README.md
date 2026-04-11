@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日はきょうだいの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FoxSiblings_JA-JP3895166955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アカギツネ, エストニア (© Sven Zacek/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%A2%E3%82%AB%E3%82%AE%E3%83%84%E3%83%8D&form=hpcapt&filters=HpDate%3a%2220260409_1500%22)
+## 乾いた大地に囲まれた青い海
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PlayaPapagayo_JA-JP3931450183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[パパガヨビーチ, スペイン (© Gavin Hellier/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%91%E3%82%AC%E3%83%A8%E3%83%93%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220260410_1500%22)
 <!-- Bing Wallpaper End -->
