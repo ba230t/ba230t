@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界宇宙飛行の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpaceTrails_JA-JP7486143829_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[光の筋となる都市の夜景, 国際宇宙ステーション (© NASA)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%AE%87%E5%AE%99%E9%A3%9B%E8%A1%8C%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260411_1500%22)
+## 今日から国際ダークスカイ・ウィーク
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BorregoStars_JA-JP7872026496_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アンザ・ボレゴ砂漠州立公園, 米国 カリフォルニア州 (© Kevin Key/Slworking)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%83%80%E3%83%BC%E3%82%AF%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220260412_1500%22)
 <!-- Bing Wallpaper End -->
