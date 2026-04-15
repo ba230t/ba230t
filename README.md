@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## イソギンチャクの中で身を寄せる小魚
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OcellarisClownfish_JA-JP4425106127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[クマノミ, インドネシア (© Magnus Lundgren/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%AF%E3%83%9E%E3%83%8E%E3%83%9F&form=hpcapt&filters=HpDate%3a%2220260413_1500%22)
+## 富士芝桜まつりが開催中
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[芝桜, 山梨県 (© DoctorEgg/Getty images)](https://www.bing.com/search?q=%E8%8A%9D%E6%A1%9C&form=hpcapt&filters=HpDate%3a%2220260414_1500%22)
 <!-- Bing Wallpaper End -->
