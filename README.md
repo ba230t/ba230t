@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際コウモリ感謝の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FlyingFoxMom_JA-JP9261315523_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ハイイロオオコウモリ, オーストラリア (© Doug Gimesy/Nature Picture Library)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%82%B3%E3%82%A6%E3%83%A2%E3%83%AA%E6%84%9F%E8%AC%9D%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260416_1500%22)
+## 今日は世界遺産の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MaoiStatues_JA-JP0155278246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[モアイ像, チリ (© Gavin Hellier/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260417_1500%22)
 <!-- Bing Wallpaper End -->
