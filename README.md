@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界遺産の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MaoiStatues_JA-JP0155278246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[モアイ像, チリ (© Gavin Hellier/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260417_1500%22)
+## 水辺にたたずむ歴史的な塔
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BelemTowerBank_JA-JP0304685153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ベレンの塔, ポルトガル (© f9photos/Getty Images)](https://www.bing.com/search?q=%E3%83%99%E3%83%AC%E3%83%B3%E3%81%AE%E5%A1%94&form=hpcapt&filters=HpDate%3a%2220260418_1500%22)
 <!-- Bing Wallpaper End -->
