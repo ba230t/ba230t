@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 水辺にたたずむ歴史的な塔
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BelemTowerBank_JA-JP0304685153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ベレンの塔, ポルトガル (© f9photos/Getty Images)](https://www.bing.com/search?q=%E3%83%99%E3%83%AC%E3%83%B3%E3%81%AE%E5%A1%94&form=hpcapt&filters=HpDate%3a%2220260418_1500%22)
+## 今週は米国の国立公園週間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SunsetKiva_JA-JP0609102045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[キャニオンランズ国立公園, 米国 ユタ州 (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/search?q=%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%E9%80%B1%E9%96%93&form=hpcapt&filters=HpDate%3a%2220260419_1500%22)
 <!-- Bing Wallpaper End -->
