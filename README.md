@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 緑の中にたたずむ小動物
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpringHedgehog_JA-JP0798616014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ハリネズミ, フランス (© Klein & Hubert/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%8F%E3%83%AA%E3%83%8D%E3%82%BA%E3%83%9F&form=hpcapt&filters=HpDate%3a%2220260420_1500%22)
+## 今日は地球の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TartuEstonia_JA-JP0849293902_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アラムペジャ自然保護区, エストニア (© Sven Zacek/Nature Picture Library)](https://www.bing.com/search?q=%E5%9C%B0%E7%90%83%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260421_1500%22)
 <!-- Bing Wallpaper End -->
