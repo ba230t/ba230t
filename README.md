@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は地球の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TartuEstonia_JA-JP0849293902_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アラムペジャ自然保護区, エストニア (© Sven Zacek/Nature Picture Library)](https://www.bing.com/search?q=%E5%9C%B0%E7%90%83%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260421_1500%22)
+## 今日はシェイクスピアの命日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HathawayCottage_JA-JP0891184783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アン・ハサウェイのコテージ, イングランド (© David Steele/Shutterstock)](https://www.bing.com/search?q=%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2%E3%81%AE%E5%91%BD%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260422_1500%22)
 <!-- Bing Wallpaper End -->
