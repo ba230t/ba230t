@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## やさしく咲く淡いピンクの花
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AppleBlossoms_JA-JP1155653651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[リンゴの花, 米国 カリフォルニア州 (© Mimi Ditchie Photography/Getty Images)](https://www.bing.com/search?q=%E3%83%AA%E3%83%B3%E3%82%B4%E3%81%AE%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220260425_1500%22)
+## 壮麗なガラスドーム
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MilanGalleria_JA-JP1271955440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヴィットーリオ・エマヌエーレ 2 世のガッレリア, イタリア (© PhillipMinnis/Getty Images)](https://www.bing.com/search?q=%E3%83%B4%E3%82%A3%E3%83%83%E3%83%88%E3%83%BC%E3%83%AA%E3%82%AA%E3%83%BB%E3%82%A8%E3%83%9E%E3%83%8C%E3%82%A8%E3%83%BC%E3%83%AC+2+%E4%B8%96%E3%81%AE%E3%82%AC%E3%83%83%E3%83%AC%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260426_1500%22)
 <!-- Bing Wallpaper End -->
