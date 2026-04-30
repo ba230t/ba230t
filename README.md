@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は昭和の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[国会議事堂, 東京都 (© Hiroshi Watanabe/Getty images)](https://www.bing.com/search?q=%E6%98%AD%E5%92%8C%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260428_1500%22)
+## 色とりどりに咲き誇る花畑
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DutchTulips_JA-JP3809671349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[チューリップ, オランダ (© Martin Ruegner/Getty Images)](https://www.bing.com/search?q=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97&form=hpcapt&filters=HpDate%3a%2220260429_1500%22)
 <!-- Bing Wallpaper End -->
