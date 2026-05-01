@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 色とりどりに咲き誇る花畑
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DutchTulips_JA-JP3809671349_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[チューリップ, オランダ (© Martin Ruegner/Getty Images)](https://www.bing.com/search?q=%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97&form=hpcapt&filters=HpDate%3a%2220260429_1500%22)
+## 自然が描く湖畔の景色
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GreenJasper_JA-JP1765702331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ジャスパー国立公園, カナダ (© Don White/Getty Images)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%91%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260430_1500%22)
 <!-- Bing Wallpaper End -->
