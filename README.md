@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は八十八夜
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[和束の茶畑, 京都府 和束町 (© Tuul and Bruno Morandi/Alamy)](https://www.bing.com/search?q=%E5%85%AB%E5%8D%81%E5%85%AB%E5%A4%9C&form=hpcapt&filters=HpDate%3a%2220260501_1500%22)
+## 今日は国際ヒョウの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MasaiLeopard_JA-JP2209890088_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[樹上で眠るヒョウ, ケニア (© Klein & Hubert/Nature Picture Library)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%83%92%E3%83%A7%E3%82%A6%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260502_1500%22)
 <!-- Bing Wallpaper End -->
