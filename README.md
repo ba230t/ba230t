@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日はスター・ウォーズの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KsarOuledSoltane_JA-JP4160189832_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[クサル・ウレド・ソルタネ, チュニジア (© Dark_Eni/Getty Images Plus)](https://www.bing.com/search?q=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260503_1500%22)
+## 今日はこどもの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[姫の沢公園, 静岡県 熱海市 (© SKY Stock/Shutterstock)](https://www.bing.com/search?q=%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260504_1500%22)
 <!-- Bing Wallpaper End -->
