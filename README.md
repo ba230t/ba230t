@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日はこどもの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[姫の沢公園, 静岡県 熱海市 (© SKY Stock/Shutterstock)](https://www.bing.com/search?q=%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260504_1500%22)
+## 雷雨が迫るドラマチックな空
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[平原に現れた巨大積乱雲, ブルガリア (© Revolu7ion93/Getty Images)](https://www.bing.com/search?q=%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260505_1500%22)
 <!-- Bing Wallpaper End -->
