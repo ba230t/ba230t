@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 雷雨が迫るドラマチックな空
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[平原に現れた巨大積乱雲, ブルガリア (© Revolu7ion93/Getty Images)](https://www.bing.com/search?q=%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260505_1500%22)
+## 夕陽を受けて輝く山々
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Kofa_JA-JP4672929305_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[コファ国立野生生物保護区, 米国 アリゾナ州 (© Denis Tangney Jr/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%83%95%E3%82%A1%E5%9B%BD%E7%AB%8B%E9%87%8E%E7%94%9F%E7%94%9F%E7%89%A9%E4%BF%9D%E8%AD%B7%E5%8C%BA&form=hpcapt&filters=HpDate%3a%2220260506_1500%22)
 <!-- Bing Wallpaper End -->
