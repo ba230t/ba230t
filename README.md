@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界ロバの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SardinianDonkey_JA-JP4826123491_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ロバの親子, フランス (© Klein & Hubert/Nature Picture Library)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%83%AD%E3%83%90%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260507_1500%22)
+## 緑豊かな森に輝く清流
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SkradinskiBuk_JA-JP5511016641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スクラディンスキ・ブクの滝, クロアチア (© Amazing Aerial Agency/Adobe Stock)](https://www.bing.com/search?q=%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BB%E3%83%96%E3%82%AF%E3%81%AE%E6%BB%9D&form=hpcapt&filters=HpDate%3a%2220260508_1500%22)
 <!-- Bing Wallpaper End -->
