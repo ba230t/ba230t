@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は母の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MotherCub_JA-JP7023780399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ホッキョクグマ, カナダ (© Hao Jiang/Getty Images)](https://www.bing.com/search?q=%E6%AF%8D%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260509_1500%22)
+## 透き通る海に広がるサンゴ礁
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.QueenslandReef_JA-JP5966336342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グレートバリアリーフ, オーストラリア (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%90%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%95&form=hpcapt&filters=HpDate%3a%2220260510_1500%22)
 <!-- Bing Wallpaper End -->
