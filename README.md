@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 透き通る海に広がるサンゴ礁
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.QueenslandReef_JA-JP5966336342_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グレートバリアリーフ, オーストラリア (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%90%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%95&form=hpcapt&filters=HpDate%3a%2220260510_1500%22)
+## 草地に集う海鳥
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Fratercula_JA-JP6144226561_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ニシツノメドリ, ウェールズ (© FLPA/Alamy)](https://www.bing.com/search?q=%E3%83%8B%E3%82%B7%E3%83%84%E3%83%8E%E3%83%A1%E3%83%89%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220260511_1500%22)
 <!-- Bing Wallpaper End -->
