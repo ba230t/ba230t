@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 草地に集う海鳥
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Fratercula_JA-JP6144226561_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ニシツノメドリ, ウェールズ (© FLPA/Alamy)](https://www.bing.com/search?q=%E3%83%8B%E3%82%B7%E3%83%84%E3%83%8E%E3%83%A1%E3%83%89%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220260511_1500%22)
+## 岩のアーチ越しに望む天の川
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アラバマヒルズ, 米国 カリフォルニア州 (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/search?q=%E3%82%A2%E3%83%A9%E3%83%90%E3%83%9E%E3%83%92%E3%83%AB%E3%82%BA&form=hpcapt&filters=HpDate%3a%2220260512_1500%22)
 <!-- Bing Wallpaper End -->
