@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 夕映えの断崖古都
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Pitigliano_JA-JP6741766886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ピティリアーノ, イタリア (© bluejayphoto/Getty Images Plus)](https://www.bing.com/search?q=%E3%83%94%E3%83%86%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%8E&form=hpcapt&filters=HpDate%3a%2220260513_1500%22)
+## 今日は絶滅危惧種の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.EndangeredWhales_JA-JP6796432237_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マッコウクジラ, インド洋 (© Tony Wu/Nature Picture Library)](https://www.bing.com/search?q=Endangered+Species+Day&form=hpcapt&filters=HpDate%3a%2220260514_1500%22)
 <!-- Bing Wallpaper End -->
