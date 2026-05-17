@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## そびえ立つ岩山と穏やかに曲がる川
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SmithRockPark_JA-JP7493165844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[スミスロック州立公園, 米国 オレゴン州 (© Alex Ratson/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%AD%E3%83%83%E3%82%AF%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260515_1500%22)
+## 山頂から望む夕日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ホークスビル山, 米国 バージニア州 (© John Baggaley/Getty Images)](https://www.bing.com/search?q=%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%93%E3%83%AB%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220260516_1500%22)
 <!-- Bing Wallpaper End -->
