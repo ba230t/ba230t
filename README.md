@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 山頂から望む夕日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ShenandoahSunset_JA-JP8062281581_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ホークスビル山, 米国 バージニア州 (© John Baggaley/Getty Images)](https://www.bing.com/search?q=%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%93%E3%83%AB%E5%B1%B1&form=hpcapt&filters=HpDate%3a%2220260516_1500%22)
+## 今日は国際博物館の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MuseumDay2026_JA-JP8089592575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[国立科学博物館, 東京 (© cowardlion/Shutterstock)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E5%8D%9A%E7%89%A9%E9%A4%A8%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260517_1500%22)
 <!-- Bing Wallpaper End -->
