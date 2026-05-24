@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界カメの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_JA-JP9111323268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カメと蝶 (© Patrick Gallet/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%AB%E3%83%A1%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260522_1500%22)
+## 今日はヨーロッパの公園の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DolomitesPark_JA-JP9299187350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[トレ・チーメ自然公園, イタリア (© Adisorn Fineday Chutikunakorn/Getty Images)](https://www.bing.com/search?q=European+Day+of+Parks&form=hpcapt&filters=HpDate%3a%2220260523_1500%22)
 <!-- Bing Wallpaper End -->
