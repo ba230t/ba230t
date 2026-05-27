@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 一面に咲き広がる青いルピナス
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LupineBloom_JA-JP9737515603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ルピナスの花, 米国 カリフォルニア州 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%83%AB%E3%83%94%E3%83%8A%E3%82%B9%E3%81%AE%E8%8A%B1&form=hpcapt&filters=HpDate%3a%2220260525_1500%22)
+## 今日は世界カワウソの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.OtterDay_JA-JP9963461992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ラッコ, 米国 アラスカ州 (© roclwyr/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%AB%E3%83%AF%E3%82%A6%E3%82%BD%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260526_1500%22)
 <!-- Bing Wallpaper End -->
