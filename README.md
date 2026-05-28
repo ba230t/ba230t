@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界カワウソの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OtterDay_JA-JP9963461992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ラッコ, 米国 アラスカ州 (© roclwyr/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%AB%E3%83%AF%E3%82%A6%E3%82%BD%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260526_1500%22)
+## 夕空に溶け込む城壁
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HwaesongFortress_JA-JP0157517591_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スウォンファソン, 韓国 水原市 (© aomam/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%B3%E3%83%95%E3%82%A1%E3%82%BD%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260527_1500%22)
 <!-- Bing Wallpaper End -->
