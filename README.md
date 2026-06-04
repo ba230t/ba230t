@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界自転車デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[バルデナス・レアレス自然公園, スペイン (© Artur Debat/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260602_1500%22)
+## 羽を整える水辺の鳥
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ユキコサギ, 米国 フロリダ州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/search?q=%E3%83%A6%E3%82%AD%E3%82%B3%E3%82%B5%E3%82%AE&form=hpcapt&filters=HpDate%3a%2220260603_1500%22)
 <!-- Bing Wallpaper End -->
