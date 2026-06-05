@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 羽を整える水辺の鳥
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ユキコサギ, 米国 フロリダ州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/search?q=%E3%83%A6%E3%82%AD%E3%82%B3%E3%82%B5%E3%82%AE&form=hpcapt&filters=HpDate%3a%2220260603_1500%22)
+## 今日は世界環境デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サーレク国立公園, スウェーデン (© Robert Haasmann/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%92%B0%E5%A2%83%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260604_1500%22)
 <!-- Bing Wallpaper End -->
