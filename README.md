@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 干潮時の浜辺で露出した巻貝たち
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Limpets_JA-JP0282972005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[プラヤ・ダ・ウルサ, ポルトガル (© Theo Bosboom/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%97%E3%83%A9%E3%83%A4%E3%83%BB%E3%83%80%E3%83%BB%E3%82%A6%E3%83%AB%E3%82%B5&form=hpcapt&filters=HpDate%3a%2220260606_1500%22)
+## 今日は世界海洋デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Cyanea_JA-JP0508555494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[海中を泳ぐキタユウレイクラゲ (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E6%B4%8B%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260607_1500%22)
 <!-- Bing Wallpaper End -->
