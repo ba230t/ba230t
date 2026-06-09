@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界海洋デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Cyanea_JA-JP0508555494_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[海中を泳ぐキタユウレイクラゲ (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E6%B4%8B%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260607_1500%22)
+## 夕暮れに包まれた海辺の町
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CTNPVernazza_JA-JP0736280487_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヴェルナッツァ, イタリア (© Kelly Cheng/Getty Images)](https://www.bing.com/search?q=%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%8A%E3%83%83%E3%83%84%E3%82%A1&form=hpcapt&filters=HpDate%3a%2220260608_1500%22)
 <!-- Bing Wallpaper End -->
