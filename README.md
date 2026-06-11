@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 大地に走る一筋の青
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[フナウサウポットル, アイスランド (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/search?q=Hnausapollur&form=hpcapt&filters=HpDate%3a%2220260609_1500%22)
+## 初夏の渓流に舞う光
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[蛍の光がきらめく森, 日本 (© tdub303/Getty Images)](https://www.bing.com/search?q=%E8%9B%8D%E3%81%AE%E5%85%89%E3%81%8C%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%A3%AE+&form=hpcapt&filters=HpDate%3a%2220260610_1500%22)
 <!-- Bing Wallpaper End -->
