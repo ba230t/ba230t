@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 初夏の渓流に舞う光
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[蛍の光がきらめく森, 日本 (© tdub303/Getty Images)](https://www.bing.com/search?q=%E8%9B%8D%E3%81%AE%E5%85%89%E3%81%8C%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%A3%AE+&form=hpcapt&filters=HpDate%3a%2220260610_1500%22)
+## 野の花をかすめる色鮮やかな鳥
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヨーロッパハチクイ, スペイン (© Andres M. Dominguez/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%83%8F%E3%83%81%E3%82%AF%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220260611_1500%22)
 <!-- Bing Wallpaper End -->
