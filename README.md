@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 野の花をかすめる色鮮やかな鳥
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヨーロッパハチクイ, スペイン (© Andres M. Dominguez/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%83%8F%E3%83%81%E3%82%AF%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220260611_1500%22)
+## 今日ははやぶさの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[はやぶさ 2 から切り離されたカプセル (© MORGAN SETTE/Getty Images)](https://www.bing.com/search?q=%E3%81%AF%E3%82%84%E3%81%B6%E3%81%95+%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260612_1500%22)
 <!-- Bing Wallpaper End -->
