@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界ウミガメの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SevenMileTurtle_JA-JP9577560353_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[優雅に泳ぐタイマイ, ケイマン諸島 (© Alex Mustard/Nature Picture Library)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%A6%E3%83%9F%E3%82%AC%E3%83%A1%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260615_1500%22)
+## 山肌に輝く曲がりくねった道路
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TremolaRoad_JA-JP0031183332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[トレモラ道路, スイス (© Sandro Bisaro/Getty Images)](https://www.bing.com/search?q=%E3%83%88%E3%83%AC%E3%83%A2%E3%83%A9%E9%81%93%E8%B7%AF&form=hpcapt&filters=HpDate%3a%2220260616_1500%22)
 <!-- Bing Wallpaper End -->
