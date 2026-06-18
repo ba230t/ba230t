@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 山肌に輝く曲がりくねった道路
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TremolaRoad_JA-JP0031183332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[トレモラ道路, スイス (© Sandro Bisaro/Getty Images)](https://www.bing.com/search?q=%E3%83%88%E3%83%AC%E3%83%A2%E3%83%A9%E9%81%93%E8%B7%AF&form=hpcapt&filters=HpDate%3a%2220260616_1500%22)
+## 上空から望む古代遺跡の構造美
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Saqsaywaman_JA-JP0282514779_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サクサイワマン, ペルー (© Creative-Family/Getty Images Plus)](https://www.bing.com/search?q=%E3%82%B5%E3%82%AF%E3%82%B5%E3%82%A4%E3%83%AF%E3%83%9E%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260617_1500%22)
 <!-- Bing Wallpaper End -->
