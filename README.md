@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は富士山が世界文化遺産に登録された日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Fujisan_JA-JP1483326201_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[富士山 (© phutthiseth thongtae/Getty Images)](https://www.bing.com/search?q=%E5%AF%8C%E5%A3%AB%E5%B1%B1%E3%81%8C%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3%E3%81%AB%E7%99%BB%E9%8C%B2%E3%81%95%E3%82%8C%E3%81%9F%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260621_1500%22)
+## 陽光が貫く密林
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[キノート・レイン・フォレスト, 米国 ワシントン州 (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%AD%E3%83%8E%E3%83%BC%E3%83%88%E3%83%BB%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260622_1500%22)
 <!-- Bing Wallpaper End -->
