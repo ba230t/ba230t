@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 初夏に揺れる紫の花畑
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ラベンダー畑, 北海道 中富良野町 (© Weiheng Pan/Getty Images Plus)](https://www.bing.com/search?q=%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260624_1500%22)
+## 活気あふれる川沿いの街並み
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[テムズ川, イングランド ロンドン (© Daniel Lange/Getty Images)](https://www.bing.com/search?q=%E3%83%86%E3%83%A0%E3%82%BA%E5%B7%9D&form=hpcapt&filters=HpDate%3a%2220260625_1500%22)
 <!-- Bing Wallpaper End -->
