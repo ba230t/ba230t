@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 青い花に包まれた小道
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Ajisai2026_JA-JP5953428145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[あじさいの花房, 岩手県 奥州市 (© nattya3714/Getty Images)](https://www.bing.com/search?q=%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E3%81%AE%E8%8A%B1%E6%88%BF&form=hpcapt&filters=HpDate%3a%2220260626_1500%22)
+## 夕日を浴びるベンケイチュウ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SaguaroSun_JA-JP5856249761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)](https://www.bing.com/search?q=Windgate+Pass&form=hpcapt&filters=HpDate%3a%2220260627_1500%22)
 <!-- Bing Wallpaper End -->
