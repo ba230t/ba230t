@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際熱帯デー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BoraBoraLagoon_JA-JP3981162879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ボラボラ島, フランス領ポリネシア (© Frederick Millett/Shutterstock)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E7%86%B1%E5%B8%AF%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260628_1500%22)
+## 夕焼けに浮かぶキリンの影
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マサイキリン, ケニヤ (© danm/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%82%B5%E3%82%A4%E3%82%AD%E3%83%AA%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260629_1500%22)
 <!-- Bing Wallpaper End -->
