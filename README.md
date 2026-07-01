@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 夕焼けに浮かぶキリンの影
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MasaiGiraffe_JA-JP6554855892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マサイキリン, ケニヤ (© danm/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%82%B5%E3%82%A4%E3%82%AD%E3%83%AA%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260629_1500%22)
+## 今日はカナダの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.DungeonPark_JA-JP3903067497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ダンジョン州立公園, カナダ (© Kaitlyn McLachlan/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%83%8A%E3%83%80%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260630_1500%22)
 <!-- Bing Wallpaper End -->
