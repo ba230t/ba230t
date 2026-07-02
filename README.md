@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日はカナダの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.DungeonPark_JA-JP3903067497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ダンジョン州立公園, カナダ (© Kaitlyn McLachlan/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%83%8A%E3%83%80%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260630_1500%22)
+## 古代神殿の壮麗な内部空間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TempleEsna_JA-JP0629204284_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%A8%E3%82%B9%E3%83%8A%E7%A5%9E%E6%AE%BF&form=hpcapt&filters=HpDate%3a%2220260701_1500%22)
 <!-- Bing Wallpaper End -->
