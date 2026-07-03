@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 古代神殿の壮麗な内部空間
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TempleEsna_JA-JP0629204284_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%A8%E3%82%B9%E3%83%8A%E7%A5%9E%E6%AE%BF&form=hpcapt&filters=HpDate%3a%2220260701_1500%22)
+## 夕焼けに染まる水辺と枯れ木
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ボニーヤード・ビーチ, 米国 サウスカロライナ州 (© Frances/Adobe Stock)](https://www.bing.com/search?q=%E3%83%8F%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B3%B6%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220260702_1500%22)
 <!-- Bing Wallpaper End -->
