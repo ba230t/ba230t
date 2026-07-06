@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 一面に広がる紫色のラベンダー畑
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヴァランソール高原, フランス (© Robert Harding/Shutterstock)](https://www.bing.com/search?q=%E3%83%B4%E3%82%A1%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E9%AB%98%E5%8E%9F&form=hpcapt&filters=HpDate%3a%2220260704_1500%22)
+## 夕焼けに染まる海に突き出た石造要塞
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シラクサ, イタリア (© Balate Dorin/Getty Images)](https://www.bing.com/search?q=%E3%82%B7%E3%83%A9%E3%82%AF%E3%82%B5&form=hpcapt&filters=HpDate%3a%2220260705_1500%22)
 <!-- Bing Wallpaper End -->
