@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 静けさにしずむ湖
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アティトラン湖, グアテマラ (© shayes17/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%86%E3%82%A3%E3%83%88%E3%83%A9%E3%83%B3%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220260707_1500%22)
+## 光差す山岳地帯の棚田
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SapaVietnam_JA-JP3354489397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サパの棚田, ベトナム (© Anujak Jaimook/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%91%E3%81%AE%E6%A3%9A%E7%94%B0&form=hpcapt&filters=HpDate%3a%2220260708_1500%22)
 <!-- Bing Wallpaper End -->
