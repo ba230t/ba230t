@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 光差す山岳地帯の棚田
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SapaVietnam_JA-JP3354489397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サパの棚田, ベトナム (© Anujak Jaimook/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%91%E3%81%AE%E6%A3%9A%E7%94%B0&form=hpcapt&filters=HpDate%3a%2220260708_1500%22)
+## 浜辺に打ち寄せる波
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.VictoriaBeach_JA-JP5622574083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ビクトリア州にあるビーチ, オーストラリア (© Nearmap/Getty Images)](https://www.bing.com/search?q=%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E5%B7%9E%E3%81%AB%E3%81%82%E3%82%8B%E3%83%93%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220260709_1500%22)
 <!-- Bing Wallpaper End -->
