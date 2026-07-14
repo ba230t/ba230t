@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際岩の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アンテロープ・キャニオン, 米国 アリゾナ州 (© Mark Skalny/Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E5%B2%A9%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260712_1500%22)
+## 今日はサメ啓発の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LemonShark_JA-JP9266528977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[レモンザメの幼魚, バハマ (© Shane Gross/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%B5%E3%83%A1%E5%95%93%E7%99%BA%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260713_1500%22)
 <!-- Bing Wallpaper End -->
