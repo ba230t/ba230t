@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 山々に囲まれた湖
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MarieLake_JA-JP9898730602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マリー・レイク, 米国 カリフォルニア州 (© Steve Dunleavy/Getty Images)](https://www.bing.com/search?q=%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A5%E3%82%A2%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%80%E3%83%8D%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220260714_1500%22)
+## 活気あふれる桟橋の夜景
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NavyPier_JA-JP0160307645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ネイビー・ピア, 米国イリノイ州 (© Christopher.F Photography/Getty Images)](https://www.bing.com/search?q=%E3%83%8D%E3%82%A4%E3%83%93%E3%83%BC%E3%83%BB%E3%83%94%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260715_1500%22)
 <!-- Bing Wallpaper End -->
