@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際月の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[月から見た地球 (© NASA)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E6%9C%88%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260719_1500%22)
+## 「縁結び風鈴」開催中
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Kawagoe2026_JA-JP2060864918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[川越氷川神社, 埼玉県 川越市 (© kudosstudio/Adobe)](https://www.bing.com/search?q=%E7%B8%81%E7%B5%90%E3%81%B3%E3%81%B5%E9%A2%A8%E9%88%B4&form=hpcapt&filters=HpDate%3a%2220260720_1500%22)
 <!-- Bing Wallpaper End -->
