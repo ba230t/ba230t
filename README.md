@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 「縁結び風鈴」開催中
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Kawagoe2026_JA-JP2060864918_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[川越氷川神社, 埼玉県 川越市 (© kudosstudio/Adobe)](https://www.bing.com/search?q=%E7%B8%81%E7%B5%90%E3%81%B3%E3%81%B5%E9%A2%A8%E9%88%B4&form=hpcapt&filters=HpDate%3a%2220260720_1500%22)
+## 今週は米国のサンゴ礁啓発週間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CoralAwareness_JA-JP2408708579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サンゴ礁, インドネシア (© SergeUWPhoto/Shutterstock)](https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%B5%E3%83%B3%E3%82%B4%E7%A4%81%E5%95%93%E7%99%BA%E9%80%B1%E9%96%93&form=hpcapt&filters=HpDate%3a%2220260721_1500%22)
 <!-- Bing Wallpaper End -->
