@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は米国いとこの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ベニイロフラミンゴ, エクアドル (© Tui De Roy/Nature Picture Library)](https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%81%84%E3%81%A8%E3%81%93%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260723_1500%22)
+## 干潮に現れる奇岩海岸
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GaliciaBeach_JA-JP2958100609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カテドラル・ビーチ, スペイン (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)](https://www.bing.com/search?q=%E3%82%AB%E3%83%86%E3%83%89%E3%83%A9%E3%83%AB%E3%83%BB%E3%83%93%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220260724_1500%22)
 <!-- Bing Wallpaper End -->
