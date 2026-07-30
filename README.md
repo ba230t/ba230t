@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界トラの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TigerFamily_JA-JP4965219864_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ベンガルトラの家族, インド (© Archna Singh/Shutterstock)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%83%88%E3%83%A9%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260728_1500%22)
+## 夕暮れの砂漠を貫く道
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NavajoNation_JA-JP5174852282_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[モニュメント・バレー, 米国 アリゾナ州 (© Westend61/Adobe Stock)](https://www.bing.com/search?q=%E3%83%A2%E3%83%8B%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%83%BB%E3%83%90%E3%83%AC%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260729_1500%22)
 <!-- Bing Wallpaper End -->
