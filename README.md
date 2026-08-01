@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 深緑の森を貫く木道
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images)](https://www.bing.com/search?q=%E3%83%90%E3%83%BC%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC%E3%83%BB%E3%83%88%E3%83%AC%E3%82%A4%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220260730_1500%22)
+## 今日から弘前ねぷたまつり
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[変わり種の金魚ねぷた, 青森県 弘前市 (© David Parker/Alamy)](https://www.bing.com/search?q=%E5%BC%98%E5%89%8D%E3%81%AD%E3%81%B7%E3%81%9F%E3%81%BE%E3%81%A4%E3%82%8A&form=hpcapt&filters=HpDate%3a%2220260731_1500%22)
 <!-- Bing Wallpaper End -->
