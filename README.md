@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## ブルーアワーに輝く湾岸の街
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)](https://www.bing.com/search?q=%E3%83%98%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%AD&form=hpcapt&filters=HpDate%3a%2220260801_1500%22)
+## エメラルドの海に浮かぶ色とりどりの船
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マルサシュロック, マルタ (© Klubovy/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%83%AB%E3%82%B5%E3%82%B7%E3%83%A5%E3%83%AD%E3%83%83%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220260802_1500%22)
 <!-- Bing Wallpaper End -->
