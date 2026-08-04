@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## エメラルドの海に浮かぶ色とりどりの船
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[マルサシュロック, マルタ (© Klubovy/Getty Images)](https://www.bing.com/search?q=%E3%83%9E%E3%83%AB%E3%82%B5%E3%82%B7%E3%83%A5%E3%83%AD%E3%83%83%E3%82%AF&form=hpcapt&filters=HpDate%3a%2220260802_1500%22)
+## 今日は国際フクロウの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AdorableOwlet_JA-JP7246946497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アナホリフクロウのひな, 米国 フロリダ州 (© mlorenzphotography/Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260803_1500%22)
 <!-- Bing Wallpaper End -->
