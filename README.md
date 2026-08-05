@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は国際フクロウの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AdorableOwlet_JA-JP7246946497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アナホリフクロウのひな, 米国 フロリダ州 (© mlorenzphotography/Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260803_1500%22)
+## 宮殿の門
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.FezMorocco_JA-JP7567982886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[フェズ王宮, モロッコ (© cgst26/Shutterstock)](https://www.bing.com/search?q=%E3%83%95%E3%82%A7%E3%82%BA%E7%8E%8B%E5%AE%AE&form=hpcapt&filters=HpDate%3a%2220260804_1500%22)
 <!-- Bing Wallpaper End -->
