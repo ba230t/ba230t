@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は広島平和記念日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[広島平和記念公園のとうろう流し, 広島県 広島市 (© Buddhika Weerasinghe/Stringer/Getty Images)](https://www.bing.com/search?q=%E5%BA%83%E5%B3%B6%E5%B9%B3%E5%92%8C%E8%A8%98%E5%BF%B5%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260805_1500%22)
+## 今日は米国灯台の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LimeKiln_JA-JP2506397292_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ライム・キルン灯台, 米国 ワシントン州 (© Edmund Lowe Photography/Shutterstock)](https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E7%81%AF%E5%8F%B0%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260806_1500%22)
 <!-- Bing Wallpaper End -->
