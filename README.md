@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は無限大の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.StocktonInfinity_JA-JP6357248728_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[インフィニティ・ブリッジ, イングランド (© Bahadir Yeniceri/Shutterstock)](https://www.bing.com/search?q=International+Infinity+Day&form=hpcapt&filters=HpDate%3a%2220260807_1500%22)
+## 今日は世界の先住民の国際デー
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.JMTjibaou_JA-JP3637480935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[チバウ文化センター, ニューカレドニア (© Fabien Astre/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%81%AE%E5%85%88%E4%BD%8F%E6%B0%91%E3%81%AE%E5%9B%BD%E9%9A%9B%E3%83%87%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260808_1500%22)
 <!-- Bing Wallpaper End -->
