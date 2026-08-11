@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 静かな水面に映るカラフルな街並み
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ニューハウン, デンマーク (© emicristea/Getty Images)](https://www.bing.com/search?q=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%8F%E3%82%A6%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260809_1500%22)
+## 今日は山の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MountainDay2026_JA-JP4675980762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[日本アルプス (© Sergey Alimov/Getty Images)](https://www.bing.com/search?q=%E5%B1%B1%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260810_1500%22)
 <!-- Bing Wallpaper End -->
