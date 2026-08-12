@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は山の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MountainDay2026_JA-JP4675980762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[日本アルプス (© Sergey Alimov/Getty Images)](https://www.bing.com/search?q=%E5%B1%B1%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260810_1500%22)
+## 今日は世界ゾウの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%BE%E3%82%A6%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260811_1500%22)
 <!-- Bing Wallpaper End -->
