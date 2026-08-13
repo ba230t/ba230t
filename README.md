@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界ゾウの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%BE%E3%82%A6%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260811_1500%22)
+## ペルセウス座流星群が輝く夜空
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[テイデ天文台, スペイン (© Westend61/Getty Images)](https://www.bing.com/search?q=%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7%E6%B5%81%E6%98%9F%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220260812_1500%22)
 <!-- Bing Wallpaper End -->
