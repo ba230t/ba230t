@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## ペルセウス座流星群が輝く夜空
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PerseidasTenerife_JA-JP5992050152_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[テイデ天文台, スペイン (© Westend61/Getty Images)](https://www.bing.com/search?q=%E3%83%9A%E3%83%AB%E3%82%BB%E3%82%A6%E3%82%B9%E5%BA%A7%E6%B5%81%E6%98%9F%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220260812_1500%22)
+## 灯りに彩られた歴史ある港町
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[下田港, 静岡県 下田市 (© Sean Pavone/Getty Images)](https://www.bing.com/search?q=%E4%B8%8B%E7%94%B0%E6%B8%AF&form=hpcapt&filters=HpDate%3a%2220260813_1500%22)
 <!-- Bing Wallpaper End -->
