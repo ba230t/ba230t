@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 灯りに彩られた歴史ある港町
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[下田港, 静岡県 下田市 (© Sean Pavone/Getty Images)](https://www.bing.com/search?q=%E4%B8%8B%E7%94%B0%E6%B8%AF&form=hpcapt&filters=HpDate%3a%2220260813_1500%22)
+## 夕陽を浴びる奇岩群
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ValleyDreams_JA-JP6579828761_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ア・シ・スレ・パ自然保護区, 米国 ニューメキシコ州 (© Westend61/Getty Images)](https://www.bing.com/search?q=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3%E5%B7%9E%E3%81%AE%E3%83%95%E3%83%BC%E3%83%89%E3%82%A5%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260814_1500%22)
 <!-- Bing Wallpaper End -->
