@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## イソギンチャクにすむ小魚たち
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%AB%E3%82%AF%E3%83%AC%E3%82%AF%E3%83%9E%E3%83%8E%E3%83%9F&form=hpcapt&filters=HpDate%3a%2220260816_1500%22)
+## 上空から見る星形要塞都市
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[パルマノーヴァ, イタリア (© Riccardo Saponi/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%AB%E3%83%9E%E3%83%8E%E3%83%BC%E3%83%B4%E3%82%A1&form=hpcapt&filters=HpDate%3a%2220260817_1500%22)
 <!-- Bing Wallpaper End -->
