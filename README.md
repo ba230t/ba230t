@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 上空から見る星形要塞都市
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[パルマノーヴァ, イタリア (© Riccardo Saponi/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%AB%E3%83%9E%E3%83%8E%E3%83%BC%E3%83%B4%E3%82%A1&form=hpcapt&filters=HpDate%3a%2220260817_1500%22)
+## 森をつなぐ動物専用橋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[エコダクト, ポーランド (© bbsferrari/Getty Images)](https://www.bing.com/search?q=%E5%8B%95%E7%89%A9%E7%94%A8%E3%81%AE%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260818_1500%22)
 <!-- Bing Wallpaper End -->
