@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 森をつなぐ動物専用橋
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エコダクト, ポーランド (© bbsferrari/Getty Images)](https://www.bing.com/search?q=%E5%8B%95%E7%89%A9%E7%94%A8%E3%81%AE%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260818_1500%22)
+## 雪山を望む海に現れたシャチ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LynnCanalOrca_JA-JP7810665550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シャチ, 米国 アラスカ州 (© John Hyde/Alamy)](https://www.bing.com/search?q=%E3%82%B7%E3%83%A3%E3%83%81&form=hpcapt&filters=HpDate%3a%2220260819_1500%22)
 <!-- Bing Wallpaper End -->
