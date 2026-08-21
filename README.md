@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 雪山を望む海に現れたシャチ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LynnCanalOrca_JA-JP7810665550_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[シャチ, 米国 アラスカ州 (© John Hyde/Alamy)](https://www.bing.com/search?q=%E3%82%B7%E3%83%A3%E3%83%81&form=hpcapt&filters=HpDate%3a%2220260819_1500%22)
+## アルブラアルプスを縫う山岳道路
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.JulierPass_JA-JP8487146662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ユリア峠, スイス (© Westend61/Getty Images)](https://www.bing.com/search?q=%E3%83%A6%E3%83%AA%E3%82%A2%E5%B3%A0&form=hpcapt&filters=HpDate%3a%2220260820_1500%22)
 <!-- Bing Wallpaper End -->
