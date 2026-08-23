@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 花と蝶の紫色のハーモニー
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CommonBlue_JA-JP8682246058_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%A4%E3%82%AB%E3%83%AB%E3%82%B9%E3%83%92%E3%83%A1%E3%82%B7%E3%82%B8%E3%83%9F&form=hpcapt&filters=HpDate%3a%2220260821_1500%22)
+## 今日は処暑
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[夏の森を潤す清流, 静岡県 (© Keiji Komatsu/AFLO/Getty Images)](https://www.bing.com/search?q=%E5%A4%8F%E3%81%AE%E6%A3%AE%E3%82%92%E6%BD%A4%E3%81%99%E6%B8%85%E6%B5%81&form=hpcapt&filters=HpDate%3a%2220260822_1500%22)
 <!-- Bing Wallpaper End -->
