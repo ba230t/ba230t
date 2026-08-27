@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## オーロラが描く幻想の空
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AurorasIceland_JA-JP9970815507_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オーロラ, アイスランド (© Cavan Images/Alamy)](https://www.bing.com/search?q=%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220260825_1500%22)
+## 今日は世界湖沼の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LakeMagadi_JA-JP0125683063_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[マガディ湖, ケニア (© Denis-Huot/Nature Picture Library)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B9%96%E6%B2%BC%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260826_1500%22)
 <!-- Bing Wallpaper End -->
