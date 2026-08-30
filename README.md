@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は大曲の花火の開催日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/Getty Images)](https://www.bing.com/search?q=%E5%85%A8%E5%9B%BD%E8%8A%B1%E7%81%AB%E7%AB%B6%E6%8A%80%E5%A4%A7%E4%BC%9A&form=hpcapt&filters=HpDate%3a%2220260828_1500%22)
+## 今日は国際ジンベエザメの日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YellowShark_JA-JP0572284773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ジンベエザメ, インドネシア (© Pete Oxford/Nature Picture Library)](https://www.bing.com/search?q=%E5%9B%BD%E9%9A%9B%E3%82%B8%E3%83%B3%E3%83%99%E3%82%A8%E3%82%B6%E3%83%A1%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260829_1500%22)
 <!-- Bing Wallpaper End -->
