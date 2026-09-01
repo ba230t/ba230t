@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 精緻な幾何学模様が彩る天井
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SamarkandCeiling_JA-JP0717876578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[レギスタン広場のマドラサ, ウズベキスタン (© Piero M. Bianchi/Getty Images)](https://www.bing.com/search?q=%E3%83%AC%E3%82%AE%E3%82%B9%E3%82%BF%E3%83%B3%E5%BA%83%E5%A0%B4%E3%81%AE%E3%83%9E%E3%83%89%E3%83%A9%E3%82%B5&form=hpcapt&filters=HpDate%3a%2220260830_1500%22)
+## 9 月は米国のキノコ月間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オチバタケ, ベラルーシ (© Máté/Nature Picture Library)](https://www.bing.com/search?q=%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3%E6%9C%88%E9%96%93&form=hpcapt&filters=HpDate%3a%2220260831_1500%22)
 <!-- Bing Wallpaper End -->
