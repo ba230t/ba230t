@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 海岸に並ぶカラフルな小屋
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ビーチハット, イングランド (© stevendocwra/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%89%E3%82%B5%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220260901_1500%22)
+## 今日は米国原生自然法制定の記念日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AZWilderness_JA-JP3309055326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[コヨーテ・ビュート, 米国 アリゾナ州 (© James Hager/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%83%A8%E3%83%BC%E3%83%86%E3%83%BB%E3%83%93%E3%83%A5%E3%83%BC%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260902_1500%22)
 <!-- Bing Wallpaper End -->
