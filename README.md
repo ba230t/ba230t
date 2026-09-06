@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は米国のハチドリの日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ミドリボウシテリハチドリ, コスタリカ (© Paul Hobson/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%8F%E3%83%81%E3%83%89%E3%83%AA%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260904_1500%22)
+## 空を映す静かな人工貯水池
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ファイアンズ湖, オーストラリア (© tracielouise/Getty Images)](https://www.bing.com/search?q=Fyans+Lake+%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260905_1500%22)
 <!-- Bing Wallpaper End -->
