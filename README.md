@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 空を映す静かな人工貯水池
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ファイアンズ湖, オーストラリア (© tracielouise/Getty Images)](https://www.bing.com/search?q=Fyans+Lake+%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260905_1500%22)
+## 川の上に建つ旧市庁舎
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BambergTownhall_JA-JP4474746509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[バンベルク市街, ドイツ (© SCStock/Getty Images)](https://www.bing.com/search?q=%E3%83%90%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E5%B8%82%E8%A1%97&form=hpcapt&filters=HpDate%3a%2220260906_1500%22)
 <!-- Bing Wallpaper End -->
