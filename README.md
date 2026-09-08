@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 川の上に建つ旧市庁舎
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BambergTownhall_JA-JP4474746509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[バンベルク市街, ドイツ (© SCStock/Getty Images)](https://www.bing.com/search?q=%E3%83%90%E3%83%B3%E3%83%99%E3%83%AB%E3%82%AF%E5%B8%82%E8%A1%97&form=hpcapt&filters=HpDate%3a%2220260906_1500%22)
+## 黄金色の麦畑に立つブナの木
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BeechEngland_JA-JP4737159434_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[イースト・ミーオン, イングランド (© Guy Edwardes/Minden Pictures)](https://www.bing.com/search?q=%E3%83%8F%E3%83%B3%E3%83%97%E3%82%B7%E3%83%A3%E3%83%BC&form=hpcapt&filters=HpDate%3a%2220260907_1500%22)
 <!-- Bing Wallpaper End -->
