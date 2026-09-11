@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 赤茶色の屋根が映えるアンダルシアの街
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Olvera_JA-JP5093791420_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[オルベラ, スペイン (© Marco Bottigelli/Getty Images)](https://www.bing.com/search?q=%E3%82%AA%E3%83%AB%E3%83%99%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220260909_1500%22)
+## 美しい海辺の風景
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ガビット・ケニ・ビーチ, インド (© Amith Nag Photography/Getty Images)](https://www.bing.com/search?q=Gabit+Keni+%E3%83%93%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220260910_1500%22)
 <!-- Bing Wallpaper End -->
