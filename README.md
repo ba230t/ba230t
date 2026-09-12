@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 美しい海辺の風景
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ガビット・ケニ・ビーチ, インド (© Amith Nag Photography/Getty Images)](https://www.bing.com/search?q=Gabit+Keni+%E3%83%93%E3%83%BC%E3%83%81&form=hpcapt&filters=HpDate%3a%2220260910_1500%22)
+## イワシの群れを狙うカリフォルニアアシカ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SardineBait_JA-JP5540649445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カリフォルニアアシカ, メキシコ沖 (© Henley Spiers/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E3%82%A2%E3%82%B7%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220260911_1500%22)
 <!-- Bing Wallpaper End -->
