@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## イワシの群れを狙うカリフォルニアアシカ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SardineBait_JA-JP5540649445_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カリフォルニアアシカ, メキシコ沖 (© Henley Spiers/Nature Picture Library)](https://www.bing.com/search?q=%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E3%82%A2%E3%82%B7%E3%82%AB&form=hpcapt&filters=HpDate%3a%2220260911_1500%22)
+## 雲間にそびえる鋭い峰々
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カディーニ・ディ・ミズリーナ山塊, イタリア (© Vithun Khamsong/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%8B%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BB%E3%83%9F%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%8A%E5%B1%B1%E5%A1%8A&form=hpcapt&filters=HpDate%3a%2220260912_1500%22)
 <!-- Bing Wallpaper End -->
