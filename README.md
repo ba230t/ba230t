@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 緑から紅へと染まる秋景色
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[コキア, 中国 (© lingqi xie/Getty Images)](https://www.bing.com/search?q=%E3%82%B3%E3%82%AD%E3%82%A2&form=hpcapt&filters=HpDate%3a%2220260914_1500%22)
+## 氷の世界で遊ぶ子グマたち
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IcyCubs_JA-JP6302430788_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ホッキョクグマの子, ノルウェー (© Danny Green/Nature Picture Library)](https://www.bing.com/search?q=%E3%83%9B%E3%83%83%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%B0%E3%83%9E%E3%81%AE%E5%AD%90&form=hpcapt&filters=HpDate%3a%2220260915_1500%22)
 <!-- Bing Wallpaper End -->
