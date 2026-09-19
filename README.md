@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 緑の丘を縫う道
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WinnatsPassPeak_JA-JP5840257609_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ウィナッツ・パス, イングランド (© Daniel_Kay/Getty Images)](https://www.bing.com/search?q=%E3%82%A6%E3%82%A3%E3%83%8A%E3%83%83%E3%83%84%E3%83%BB%E3%83%91%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220260917_1500%22)
+## 今日はオクトーバーフェストの開幕日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AlphornBavaria_JA-JP7669654652_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アルプホルン奏者たち, ドイツ (© U. J. Alexander/Shutterstock)](https://www.bing.com/search?q=%E3%82%A2%E3%83%AB%E3%83%97%E3%83%9B%E3%83%AB%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220260918_1500%22)
 <!-- Bing Wallpaper End -->
