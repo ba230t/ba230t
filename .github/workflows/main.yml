@@ -44,11 +44,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # Trophy
-      - name: Prepare trophy output
+      - name: Clean up trophy files and prepare dist
         run: |
           mkdir -p dist
-          if [ -d ./trophy.svg ]; then rm -rf ./trophy.svg; fi
-          if [ -f ./trophy.svg ]; then rm -f ./trophy.svg; fi
+          rm -rf ./trophy.svg
+          rm -rf dist/trophy.svg
 
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@master
@@ -57,7 +57,14 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           theme: transparent
           max-rows: 1
-          outputPath: dist/trophy.svg
+
+      - name: Move trophy output
+        run: |
+          if [ -f ./trophy.svg ]; then
+            mv ./trophy.svg dist/trophy.svg
+          else
+            echo "Warning: trophy.svg not found in root"
+          fi
 
       # Push all generated files
       - name: push generated files
