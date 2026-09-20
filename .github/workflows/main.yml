@@ -43,29 +43,6 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Trophy
-      - name: Clean up trophy files and prepare dist
-        run: |
-          mkdir -p dist
-          rm -rf ./trophy.svg
-          rm -rf dist/trophy.svg
-
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@master
-        with:
-          username: ${{ github.repository_owner }}
-          token: ${{ secrets.GH_PAT }}
-          theme: transparent
-          max-rows: 1
-
-      - name: Move trophy output
-        run: |
-          if [ -f ./trophy.svg ]; then
-            mv ./trophy.svg dist/trophy.svg
-          else
-            echo "Warning: trophy.svg not found in root"
-          fi
-
       # Push all generated files
       - name: push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
