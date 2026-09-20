@@ -45,13 +45,14 @@ jobs:
 
       # Trophy
       - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: Erik-Donath/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
           file: dist/trophy.svg
           theme: transparent
           max-rows: 1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Push all generated files
       # Push the content of <build_dir> to <target_branch>
