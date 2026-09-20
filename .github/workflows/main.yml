@@ -46,7 +46,7 @@ jobs:
       # Trophy
       - name: Prepare trophy output
         run: |
-          rm -f trophy.svg
+          rm -rf trophy.svg
           mkdir -p dist
 
       - name: Generate trophy
