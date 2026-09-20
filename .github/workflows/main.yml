@@ -44,18 +44,25 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # Trophy
+      - name: Prepare trophy output
+        run: |
+          rm -f trophy.svg
+          mkdir -p dist
+
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
-          file: dist/trophy.svg
           theme: transparent
           max-rows: 1
-          token: ${{ secrets.GH_PAT }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+
+      - name: Move trophy output
+        run: |
+          mv -f trophy.svg dist/trophy.svg
 
       # Push all generated files
-      # Push the content of <build_dir> to <target_branch>
-      # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
