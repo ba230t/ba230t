@@ -46,9 +46,9 @@ jobs:
       # Trophy
       - name: Prepare trophy output
         run: |
+          mkdir -p dist
           if [ -d ./trophy.svg ]; then rm -rf ./trophy.svg; fi
           if [ -f ./trophy.svg ]; then rm -f ./trophy.svg; fi
-          mkdir -p dist
 
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@master
@@ -57,10 +57,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           theme: transparent
           max-rows: 1
-
-      - name: Move trophy output
-        run: |
-          mv -f trophy.svg dist/trophy.svg
+          outputPath: dist/trophy.svg
 
       # Push all generated files
       - name: push generated files
