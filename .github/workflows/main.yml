@@ -53,10 +53,9 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
+          token: ${{ secrets.GH_PAT }}
           theme: transparent
           max-rows: 1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
       - name: Move trophy output
         run: |
