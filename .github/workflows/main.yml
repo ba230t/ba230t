@@ -46,7 +46,8 @@ jobs:
       # Trophy
       - name: Prepare trophy output
         run: |
-          rm -f trophy.svg
+          if [ -d ./trophy.svg ]; then rm -rf ./trophy.svg; fi
+          if [ -f ./trophy.svg ]; then rm -f ./trophy.svg; fi
           mkdir -p dist
 
       - name: Generate trophy
