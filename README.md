@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 夕焼けに染まるエッフェル塔
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[パリ, フランス (© Alexander Spatari/Getty Images)](https://www.bing.com/search?q=%E3%83%91%E3%83%AA&form=hpcapt&filters=HpDate%3a%2220260919_1500%22)
+## 今週はラッコ啓蒙週間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.GroomingOtter_JA-JP7012183872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ラッコ, 米国 カリフォルニア州 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/search?q=%E3%83%A9%E3%83%83%E3%82%B3%E5%95%93%E8%92%99%E9%80%B1%E9%96%93&form=hpcapt&filters=HpDate%3a%2220260920_1500%22)
 <!-- Bing Wallpaper End -->
