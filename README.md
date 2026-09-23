@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 黄金色に染まる秋の森
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FallAspens_JA-JP7201900997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アスペンの森, 米国 ユタ州 (© Danita Delimont/Shutterstock)](https://www.bing.com/search?q=%E3%82%A2%E3%82%B9%E3%83%9A%E3%83%B3%E3%81%AE%E6%A3%AE&form=hpcapt&filters=HpDate%3a%2220260921_1500%22)
+## 今日は秋分の日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[秋の七草のナデシコ (© igaguri_1/Getty Images)](https://www.bing.com/search?q=%E7%A7%8B%E5%88%86%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260922_1500%22)
 <!-- Bing Wallpaper End -->
