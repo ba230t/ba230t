@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は秋分の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[秋の七草のナデシコ (© igaguri_1/Getty Images)](https://www.bing.com/search?q=%E7%A7%8B%E5%88%86%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260922_1500%22)
+## 黒い海岸に寄せる白波
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ランサローテ島, スペイン (© Westend61/Adobe Stock)](https://www.bing.com/search?q=%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%AD%E3%83%BC%E3%83%86%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220260923_1500%22)
 <!-- Bing Wallpaper End -->
