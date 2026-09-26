@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は中秋の名月
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[中秋節用の中国提灯 (© LeeYiuTung/Getty Images)](https://www.bing.com/search?q=%E4%B8%AD%E7%A7%8B%E3%81%AE%E5%90%8D%E6%9C%88&form=hpcapt&filters=HpDate%3a%2220260924_1500%22)
+## 標高約2,000mから見渡す大峡谷
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%B7%E3%83%BC%E3%83%80%E3%83%BC%E3%83%A1%E3%82%B5&form=hpcapt&filters=HpDate%3a%2220260925_1500%22)
 <!-- Bing Wallpaper End -->
