@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 優美な柱が並ぶ宮殿
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アンベール城, インド (© R.M. Nunes/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%99%E3%83%BC%E3%83%AB%E5%9F%8E&form=hpcapt&filters=HpDate%3a%2220260927_1500%22)
+## 氷河の恵みをたたえる川
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.KasilofRiver_JA-JP7219675730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カシロフ川, 米国 アラスカ州 (© jared lloyd/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%82%B7%E3%83%AD%E3%83%95%E5%B7%9D&form=hpcapt&filters=HpDate%3a%2220260928_1500%22)
 <!-- Bing Wallpaper End -->
