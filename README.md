@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 枯れ草にとまる小鳥
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BeardReedling_JA-JP9843863193_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヒゲガラ, イングランド (© Andrew Sproule/Shutterstock)](https://www.bing.com/search?q=%E3%83%92%E3%82%B2%E3%82%AC%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220260929_1500%22)
+## 夕日に染まるヨセミテの岩峰
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.OlmstedPoint_JA-JP0098463265_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[オルムステッド・ポイント, 米国 カリフォルニア州 (© Robb Hirsch/Tandem Stills + Motion)](https://www.bing.com/search?q=%E3%82%AA%E3%83%AB%E3%83%A0%E3%82%B9%E3%83%86%E3%83%83%E3%83%89%E3%83%BB%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88&form=hpcapt&filters=HpDate%3a%2220260930_1500%22)
 <!-- Bing Wallpaper End -->
