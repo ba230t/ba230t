@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 川面を流れる紅葉
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)](https://www.bing.com/search?q=%E3%83%81%E3%83%A3%E3%83%88%E3%82%A5%E3%83%BC%E3%82%AC%E5%B7%9D&form=hpcapt&filters=HpDate%3a%2220261001_1500%22)
+## 古代の海に生息していた動物の化石
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AmmoniteFossils_JA-JP8778940090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アンモナイトの化石 (© J Nemchinova/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8A%E3%82%A4%E3%83%88&form=hpcapt&filters=HpDate%3a%2220261002_1500%22)
 <!-- Bing Wallpaper End -->
