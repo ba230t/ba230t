@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 古代の海に生息していた動物の化石
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AmmoniteFossils_JA-JP8778940090_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[アンモナイトの化石 (© J Nemchinova/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8A%E3%82%A4%E3%83%88&form=hpcapt&filters=HpDate%3a%2220261002_1500%22)
+## 今日から世界宇宙週間
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%AE%87%E5%AE%99%E9%80%B1%E9%96%93&form=hpcapt&filters=HpDate%3a%2220261003_1500%22)
 <!-- Bing Wallpaper End -->
