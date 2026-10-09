@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は寒露
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Chestnut2026_JA-JP0900389061_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[栗の実 (© y-studio/Getty Images)](https://www.bing.com/search?q=%E5%AF%92%E9%9C%B2&form=hpcapt&filters=HpDate%3a%2220261007_1500%22)
+## コルシカ島を彩る美しい夕日
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.IlesSanguinaires_JA-JP1377358410_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[サンギネール諸島, フランス (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/search?q=%E3%82%B5%E3%83%B3%E3%82%AE%E3%83%8D%E3%83%BC%E3%83%AB%E8%AB%B8%E5%B3%B6&form=hpcapt&filters=HpDate%3a%2220261008_1500%22)
 <!-- Bing Wallpaper End -->
