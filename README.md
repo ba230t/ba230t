@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は世界渡り鳥の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.CormorantsFlight_JA-JP1768857084_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[モントレー湾, 米国 カリフォルニア州 (© Hiroya Minakuchi/Minden Pictures)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B8%A1%E3%82%8A%E9%B3%A5%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220261009_1500%22)
+## 紅葉に包まれた水車小屋
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BabcockSP_JA-JP1996620132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州 (© dszc/Getty Images)](https://www.bing.com/search?q=%E3%83%90%E3%83%96%E3%82%B3%E3%83%83%E3%82%AF%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220261010_1500%22)
 <!-- Bing Wallpaper End -->
