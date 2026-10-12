@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 紅葉に包まれた水車小屋
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.BabcockSP_JA-JP1996620132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[グレイド・クリーク・グリスト・ミル, 米国 ウェストバージニア州 (© dszc/Getty Images)](https://www.bing.com/search?q=%E3%83%90%E3%83%96%E3%82%B3%E3%83%83%E3%82%AF%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220261010_1500%22)
+## 熱帯の森を舞う極彩色の鳥たち
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RedMacawsFlight_JA-JP3781300138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ベニコンゴウインコのペア (© markes51/Getty Images)](https://www.bing.com/search?q=%E3%83%99%E3%83%8B%E3%82%B3%E3%83%B3%E3%82%B4%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B3&form=hpcapt&filters=HpDate%3a%2220261011_1500%22)
 <!-- Bing Wallpaper End -->
