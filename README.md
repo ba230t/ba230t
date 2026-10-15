@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 今日は鉄道の日
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[嵯峨野トロッコ列車, 京都府京都市 (© giggsy25/Shutterstock)](https://www.bing.com/search?q=%E9%89%84%E9%81%93%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220261013_1500%22)
+## 黄金色に輝く旧市街
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ヴロツワフ, ポーランド (© Piotr Mitelski/Shutterstock)](https://www.bing.com/search?q=%E3%83%B4%E3%83%AD%E3%83%84%E3%83%AF%E3%83%95&form=hpcapt&filters=HpDate%3a%2220261014_1500%22)
 <!-- Bing Wallpaper End -->
