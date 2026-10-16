@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 黄金色に輝く旧市街
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヴロツワフ, ポーランド (© Piotr Mitelski/Shutterstock)](https://www.bing.com/search?q=%E3%83%B4%E3%83%AD%E3%83%84%E3%83%AF%E3%83%95&form=hpcapt&filters=HpDate%3a%2220261014_1500%22)
+## 黄金色の森の先にそびえる山
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SneffelsAutumn_JA-JP1327078827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[スネフェル山, 米国 コロラド州 (© lightphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%83%8D%E3%83%95%E3%82%A7%E3%83%AB%E5%B1%B1+%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220261015_1500%22)
 <!-- Bing Wallpaper End -->
