@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 黄金色の森の先にそびえる山
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SneffelsAutumn_JA-JP1327078827_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[スネフェル山, 米国 コロラド州 (© lightphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%B9%E3%83%8D%E3%83%95%E3%82%A7%E3%83%AB%E5%B1%B1+%E3%82%B3%E3%83%AD%E3%83%A9%E3%83%89%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220261015_1500%22)
+## 秋の風に揺れる干し柿
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ずらりと並ぶ干し柿, 長野県 妻籠宿 (© wayfarer2020/Shutterstock)](https://www.bing.com/search?q=%E5%B9%B2%E3%81%97%E6%9F%BF&form=hpcapt&filters=HpDate%3a%2220261016_1500%22)
 <!-- Bing Wallpaper End -->
