@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 夕焼けに染まるヴェネツィアの大運河
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.VeniceSunrise_JA-JP2535499489_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[カナル・グランデ, イタリア (© Juan Romero/Cavan Images)](https://www.bing.com/search?q=%E3%82%AB%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87&form=hpcapt&filters=HpDate%3a%2220261018_1500%22)
+## 木の枝にぶら下がるナマケモノ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BrownSloth_JA-JP2697515435_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[木の枝にぶら下がるナマケモノ, コスタリカ (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E5%9B%BD%E9%9A%9B%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220261019_1500%22)
 <!-- Bing Wallpaper End -->
