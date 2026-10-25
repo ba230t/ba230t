@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 図書館の天窓から差し込む自然光
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[王立ポルトガル図書館, ブラジル (© Antonio Salaverry/Shutterstock)](https://www.bing.com/search?q=%E7%8E%8B%E7%AB%8B%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB%E5%9B%B3%E6%9B%B8%E9%A4%A8&form=hpcapt&filters=HpDate%3a%2220261023_1500%22)
+## 冬の大地を進むオオカミたち
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ハイイロオオカミ, 米国 ワイオミング州 (© John Morrison/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%82%A4%E3%82%A4%E3%83%AD%E3%82%AA%E3%82%AA%E3%82%AB%E3%83%9F&form=hpcapt&filters=HpDate%3a%2220261024_1500%22)
 <!-- Bing Wallpaper End -->
