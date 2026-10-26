@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 冬の大地を進むオオカミたち
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ハイイロオオカミ, 米国 ワイオミング州 (© John Morrison/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%82%A4%E3%82%A4%E3%83%AD%E3%82%AA%E3%82%AA%E3%82%AB%E3%83%9F&form=hpcapt&filters=HpDate%3a%2220261024_1500%22)
+## 紅葉の中を流れ落ちる滝
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シトヴォ滝, ブルガリア (© Nadya85/Getty Images)](https://www.bing.com/search?q=Sitovo+waterfall&form=hpcapt&filters=HpDate%3a%2220261025_1500%22)
 <!-- Bing Wallpaper End -->
