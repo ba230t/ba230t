@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 紅葉の中を流れ落ちる滝
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[シトヴォ滝, ブルガリア (© Nadya85/Getty Images)](https://www.bing.com/search?q=Sitovo+waterfall&form=hpcapt&filters=HpDate%3a%2220261025_1500%22)
+## 水面に映る秋の森
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images)](https://www.bing.com/search?q=%E3%83%9D%E3%83%B3%E3%83%89%E3%82%B5%E3%82%A4%E3%83%97%E3%83%AC%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220261026_1500%22)
 <!-- Bing Wallpaper End -->
