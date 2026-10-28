@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 水面に映る秋の森
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ポンドサイプレス, 米国 ジョージア州 (© Chris Moore/Getty Images)](https://www.bing.com/search?q=%E3%83%9D%E3%83%B3%E3%83%89%E3%82%B5%E3%82%A4%E3%83%97%E3%83%AC%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220261026_1500%22)
+## 夕暮れに佇む古城
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[クネティツカー・ホラ城, チェコ (© Marek Saroch/Alamy)](https://www.bing.com/search?q=Kun%C4%9Btick%C3%A1+hora+Castle+&form=hpcapt&filters=HpDate%3a%2220261027_1500%22)
 <!-- Bing Wallpaper End -->
