@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 草原に立ち並ぶ巨石群
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[エーヴベリー 巨石群, イングランド (© George W Johnson/Getty Images)](https://www.bing.com/search?q=%E3%82%A8%E3%83%BC%E3%83%B4%E3%83%99%E3%83%AA%E3%83%BC+%E5%B7%A8%E7%9F%B3%E7%BE%A4&form=hpcapt&filters=HpDate%3a%2220261028_1500%22)
+## 大空へ羽ばたく
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AutumnCranes_JA-JP2456396404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[カナダヅル、ボスケ・デル・アパッチ国立野生動物保護区、ニューメキシコ州、アメリカ (© Terry St.Louis/Getty Images)](https://www.bing.com/search?q=%E3%82%AB%E3%83%8A%E3%83%80%E3%83%85%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220261029_1500%22)
 <!-- Bing Wallpaper End -->
