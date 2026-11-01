@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 帝国の面影
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FrankfurtHalloween_JA-JP4785085446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[聖バルトロメウス大聖堂、フランクフルト、ドイツ (© AlxeyPnferov/Getty Images)](https://www.bing.com/search?q=%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220261030_1500%22)
+## 木々を包む霧
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ (© Britus/Getty Images)](https://www.bing.com/search?q=%E3%82%B7%E3%83%A5%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%84%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%88+%E3%83%89%E3%82%A4%E3%83%84&form=hpcapt&filters=HpDate%3a%2220261031_1500%22)
 <!-- Bing Wallpaper End -->
