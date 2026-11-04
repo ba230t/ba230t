@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 山々に抱かれた静けさ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア (© leonid_tit/Getty Images)](https://www.bing.com/search?q=%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A8%E3%82%B9%E6%B9%96+%E3%83%89%E3%83%AD%E3%83%9F%E3%83%86&form=hpcapt&filters=HpDate%3a%2220261102_1500%22)
+## 秋色の森を水上散歩
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国 (© Jackal Pan/Getty Images)](https://www.bing.com/search?q=%E3%83%A9%E3%82%AF%E3%82%A6%E3%82%B7%E3%83%A7%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220261103_1500%22)
 <!-- Bing Wallpaper End -->
