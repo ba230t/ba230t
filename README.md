@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 芸術がリズムを刻む街
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[セビリアの歴史地区トリアナ、スペイン (© Andrzej Rostek/Getty Images)](https://www.bing.com/search?q=%E3%82%BB%E3%83%93%E3%83%AA%E3%82%A2+%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3&form=hpcapt&filters=HpDate%3a%2220261108_1500%22)
+## 楽園でひと休み
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images)](https://www.bing.com/search?q=%E3%83%AD%E3%83%BC%E3%82%BA%E5%B3%B6+%E3%83%90%E3%83%8F%E3%83%9E&form=hpcapt&filters=HpDate%3a%2220261109_1500%22)
 <!-- Bing Wallpaper End -->
