@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 楽園でひと休み
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ローズ島の空撮、バハマ (© Abstract Aerial Art/Getty Images)](https://www.bing.com/search?q=%E3%83%AD%E3%83%BC%E3%82%BA%E5%B3%B6+%E3%83%90%E3%83%8F%E3%83%9E&form=hpcapt&filters=HpDate%3a%2220261109_1500%22)
+## 驚きに満ちた森
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[大西洋岸森林、ブラジル (© FG Trade/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E8%A5%BF%E6%B4%8B%E5%B2%B8%E6%A3%AE%E6%9E%97+%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220261110_1500%22)
 <!-- Bing Wallpaper End -->
