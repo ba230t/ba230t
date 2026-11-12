@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 驚きに満ちた森
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[大西洋岸森林、ブラジル (© FG Trade/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E8%A5%BF%E6%B4%8B%E5%B2%B8%E6%A3%AE%E6%9E%97+%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB&form=hpcapt&filters=HpDate%3a%2220261110_1500%22)
+## 自然が生んだ建築美
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ノース・ウィンドウ、アーチーズ国立公園、モアブ、ユタ州、アメリカ (© lightphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220261111_1500%22)
 <!-- Bing Wallpaper End -->
