@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 自然が生んだ建築美
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ノース・ウィンドウ、アーチーズ国立公園、モアブ、ユタ州、アメリカ (© lightphoto/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%BC%E3%83%81%E3%83%BC%E3%82%BA%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220261111_1500%22)
+## 氷の下の神秘
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.AbrahamCanada_JA-JP9609532400_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[アブラハム湖、アルバータ州、カナダ (© Guang Cao/Getty Images)](https://www.bing.com/search?q=%E3%82%A2%E3%83%96%E3%83%A9%E3%83%8F%E3%83%A0%E6%B9%96+%E3%82%A2%E3%83%AB%E3%83%90%E3%83%BC%E3%82%BF%E5%B7%9E&form=hpcapt&filters=HpDate%3a%2220261112_1500%22)
 <!-- Bing Wallpaper End -->
