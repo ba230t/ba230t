@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 時を超える崖の住まい
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ヒラ・クリフ・ドウェリングス国定記念物、ニューメキシコ州、アメリカ (© Chiara Salvadori/Getty Images)](https://www.bing.com/search?q=%E3%83%92%E3%83%A9%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%95%E3%83%BB%E3%83%89%E3%82%A6%E3%82%A7%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B9%E5%9B%BD%E5%AE%9A%E8%A8%98%E5%BF%B5%E7%89%A9&form=hpcapt&filters=HpDate%3a%2220261115_1500%22)
+## さあ、大自然の中へ
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[トレイル・オブ・ザ・シーダーズ、グレイシャー国立公園、モンタナ州、アメリカ (© DBushue Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220261116_1500%22)
 <!-- Bing Wallpaper End -->
