@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## さあ、大自然の中へ
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[トレイル・オブ・ザ・シーダーズ、グレイシャー国立公園、モンタナ州、アメリカ (© DBushue Photography/Getty Images)](https://www.bing.com/search?q=%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%BC%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220261116_1500%22)
+## 夕暮れから始まる狩り
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[メンフクロウのつがい (© Zahoor Salmi/Getty Images)](https://www.bing.com/search?q=%E3%83%A1%E3%83%B3%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6&form=hpcapt&filters=HpDate%3a%2220261117_1500%22)
 <!-- Bing Wallpaper End -->
