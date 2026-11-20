@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## アイデアが形になる場所
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[ジャウメ・プレンサの彫刻「ボディ・オブ・ノレッジ」、ゲーテ大学、フランクフルト、ドイツ (© Todamo/Shutterstock)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%93%B2%E5%AD%A6%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220261118_1500%22)
+## フィヨルドを訪れる冬の使者
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures)](https://www.bing.com/search?q=%E3%82%B6%E3%83%88%E3%82%A6%E3%82%AF%E3%82%B8%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220261119_1500%22)
 <!-- Bing Wallpaper End -->
