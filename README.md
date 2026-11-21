@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## フィヨルドを訪れる冬の使者
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[潜るザトウクジラ、クヴァロイア島、トロムス県、ノルウェー (© Espen Bergersen/Minden Pictures)](https://www.bing.com/search?q=%E3%82%B6%E3%83%88%E3%82%A6%E3%82%AF%E3%82%B8%E3%83%A9&form=hpcapt&filters=HpDate%3a%2220261119_1500%22)
+## テラコッタ色に染まる街
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス (© Siripong Kaewla-iad/Getty Images)](https://www.bing.com/search?q=%E3%83%8B%E3%83%BC%E3%82%B9+%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220261120_1500%22)
 <!-- Bing Wallpaper End -->
