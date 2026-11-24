@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 自然が描く幾何学模様
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[シダの若芽 (© Reza Saputra/Getty Images)](https://www.bing.com/search?q=%E3%83%95%E3%82%A3%E3%83%9C%E3%83%8A%E3%83%83%E3%83%81%E6%95%B0%E5%88%97&form=hpcapt&filters=HpDate%3a%2220261122_1500%22)
+## 紅葉にまぎれて
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド (© Scotland: The Big Picture/Minden Pictures)](https://www.bing.com/search?q=%E3%82%AD%E3%82%BF%E3%83%AA%E3%82%B9&form=hpcapt&filters=HpDate%3a%2220261123_1500%22)
 <!-- Bing Wallpaper End -->
