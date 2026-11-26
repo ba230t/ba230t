@@ -13,7 +13,7 @@
 <img alt="trophy" src="https://raw.githubusercontent.com/ba230t/ba230t/output/trophy.svg">
 
 <!-- Bing Wallpaper Start -->
-## 赤い奇岩の雪化粧
-![Bing Wallpaper](https://www.bing.com/th?id=OHR.SunsetPoint_JA-JP7278727628_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-[サンセット・ポイント、ブライスキャニオン国立公園、ユタ州 (© Colin D. Young/Alamy)](https://www.bing.com/search?q=%E3%83%96%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%8B%E3%82%AA%E3%83%B3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&form=hpcapt&filters=HpDate%3a%2220261124_1500%22)
+## 虹が舞い降りる滝
+![Bing Wallpaper](https://www.bing.com/th?id=OHR.RFHilo_JA-JP7653681991_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+[ワイルク川のレインボー・フォールズ、ヒロ、ハワイ州、アメリカ (© Peter Unger/Getty Images)](https://www.bing.com/search?q=%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%82%BA+%E3%83%AF%E3%82%A4%E3%83%AB%E3%82%AF%E5%B7%9D+%E3%83%8F%E3%83%AF%E3%82%A4&form=hpcapt&filters=HpDate%3a%2220261125_1500%22)
 <!-- Bing Wallpaper End -->
